@@ -523,7 +523,96 @@ http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-8515045631
 http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=34
 #EXTINF:-1, tvg-id="33" tvg-name="Food Network East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/25.png", Food Network East
 http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=33
-
+#EXTINF:-1, tvg-id="124" tvg-name="The Weather Channel" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/12.png", The Weather Channel
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=124
+#EXTINF:-1, tvg-id="185" tvg-name="HBO East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1775.png", HBO East
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=185
+#EXTINF:-1, tvg-id="186" tvg-name="HBO 2 East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/28.png", HBO 2 East
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=186
+#EXTINF:-1, tvg-id="187" tvg-name="HBO Signature East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/545.png", HBO Signature East
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=187
+#EXTINF:-1, tvg-id="188" tvg-name="HBO West" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1777.png", HBO West
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=188
+#EXTINF:-1, tvg-id="189" tvg-name="HBO 2 West" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/665.png", HBO 2 West
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=189
+#EXTINF:-1, tvg-id="190" tvg-name="HBO Family East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1625.png", HBO Family East
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=190
+#EXTINF:-1, tvg-id="191" tvg-name="HBO Comedy East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/589.png", HBO Comedy East
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=191
+#EXTINF:-1, tvg-id="192" tvg-name="HBO Zone" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/551.png", HBO Zone
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=192
+#EXTINF:-1, tvg-id="193" tvg-name="HBO Latino" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/3122.png", HBO Latino
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=193
+#EXTINF:-1, tvg-id="194" tvg-name="Cinemax East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/539.png", Cinemax East
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=194
+#EXTINF:-1, tvg-id="195" tvg-name="Cinemax West" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/541.png", Cinemax West
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=195
+#EXTINF:-1, tvg-id="196" tvg-name="ActionMax East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1199.png", ActionMax East
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=196
+#EXTINF:-1, tvg-id="197" tvg-name="5 StarMax" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1875.png", 5 StarMax
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=197
+#EXTINF:-1, tvg-id="198" tvg-name="ThrillerMax East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1297.png", ThrillerMax East
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=198
+#EXTINF:-1, tvg-id="215" tvg-name="Starz East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/23.png", Starz East
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=215
+#EXTINF:-1, tvg-id="216" tvg-name="Starz West" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/569.png", Starz West
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=216
+#EXTINF:-1, tvg-id="217" tvg-name="Starz Edge East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/571.png", Starz Edge East
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=217
+#EXTINF:-1, tvg-id="218" tvg-name="Starz Cinema East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/573.png", Starz Cinema East
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=218
+#EXTINF:-1, tvg-id="219" tvg-name="Starz Comedy East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/575.png", Starz Comedy East
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=219
+#EXTINF:-1, tvg-id="220" tvg-name="Starz In Black East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/577.png", Starz In Black East
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=220
+#EXTINF:-1, tvg-id="221" tvg-name="Starz Kids & Family East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/669.png", Starz Kids & Family East
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=221
+#EXTINF:-1, tvg-id="209" tvg-name="Encore East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/26.png", Encore East
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=209
+#EXTINF:-1, tvg-id="210" tvg-name="Encore Westerns" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/3152.png", Encore Westerns
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=210
+#EXTINF:-1, tvg-id="211" tvg-name="Encore Action East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1877.png", Encore Action East
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=211
+#EXTINF:-1, tvg-id="212" tvg-name="Encore Suspense" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/3147.png", Encore Suspense
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=212
+#EXTINF:-1, tvg-id="213" tvg-name="Encore Black" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/3140.png", Encore Black
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=213
+#EXTINF:-1, tvg-id="214" tvg-name="Encore Family" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/3142.png", Encore Family
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=214
+#EXTINF:-1, tvg-id="199" tvg-name="Showtime East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/15.png", Showtime East
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=199
+#EXTINF:-1, tvg-id="200" tvg-name="Showtime West" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/555.png", Showtime West
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=200
+#EXTINF:-1, tvg-id="201" tvg-name="Showtime 2 East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/557.png", Showtime 2 East
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=201
+#EXTINF:-1, tvg-id="202" tvg-name="Showtime Showcase East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/659.png", Showtime Showcase East
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=202
+#EXTINF:-1, tvg-id="203" tvg-name="Showtime Extreme East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/559.png", Showtime Extreme East
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=203
+#EXTINF:-1, tvg-id="204" tvg-name="Showtime Beyond East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/561.png", Showtime Beyond East
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=204
+#EXTINF:-1, tvg-id="205" tvg-name="Showtime Next" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/667.png", Showtime Next
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=205
+#EXTINF:-1, tvg-id="206" tvg-name="The Movie Channel East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/24.png", The Movie Channel East
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=206
+#EXTINF:-1, tvg-id="207" tvg-name="The Movie Channel Xtra East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/563.png", The Movie Channel Xtra East
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=207
+#EXTINF:-1, tvg-id="208" tvg-name="Flix" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/3130.png", Flix
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=208
+#EXTINF:-1, tvg-id="55" tvg-name="IFC East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/38.png", IFC East
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=55
+#EXTINF:-1, tvg-id="238" tvg-name="Hallmark Movies & Mysteries" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/581.png", Hallmark Movies & Mysteries
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=238
+#EXTINF:-1, tvg-id="52" tvg-name="HDNet Movies" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/3170.png", HDNet Movies
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=52
+#EXTINF:-1, tvg-id="242" tvg-name="Sony Movie Channel USA" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/671.png", Sony Movie Channel USA
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=242
+#EXTINF:-1, tvg-id="152" tvg-name="Universal Channel" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/3205.png", Universal Channel
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=152
+#EXTINF:-1, tvg-id="153" tvg-name="Crime + Investigation Network USA" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/467.png", Crime + Investigation Network USA
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=153
+#EXTINF:-1, tvg-id="236" tvg-name="Palladia" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/579.png", Palladia
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=236
 
 
 
