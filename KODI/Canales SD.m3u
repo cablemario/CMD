@@ -523,8 +523,6 @@ http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-8515045631
 http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=34
 #EXTINF:-1, tvg-id="33" tvg-name="Food Network East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/25.png", Food Network East
 http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=33
-#EXTINF:-1, tvg-id="124" tvg-name="The Weather Channel" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/12.png", The Weather Channel
-http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=124
 #EXTINF:-1, tvg-id="185" tvg-name="HBO East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1775.png", HBO East
 http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=185
 #EXTINF:-1, tvg-id="186" tvg-name="HBO 2 East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/28.png", HBO 2 East
