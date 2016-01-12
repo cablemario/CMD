@@ -611,7 +611,8 @@ http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-8515045631
 http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=153
 #EXTINF:-1, tvg-id="236" tvg-name="Palladia" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/579.png", Palladia
 http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=236
-
+#EXTINF:-1,UNIVISION 
+http://200.76.77.237/LIVE/H01/CANAL218/PROFILE03.m3u8?supertvlat=%2F.ts
 
 
 
