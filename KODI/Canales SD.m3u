@@ -523,6 +523,33 @@ http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-8515045631
 http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=34
 #EXTINF:-1, tvg-id="33" tvg-name="Food Network East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/25.png", Food Network East
 http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=33
+#EXTINF:-1, tvg-id="36" tvg-name="E!" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1203.png", DIY Network
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=36
+#EXTINF:-1, tvg-id="51" tvg-name="Bravo East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1870.png", WE TV
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=51
+#EXTINF:-1, tvg-id="28" tvg-name="USA Network East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/20.png", USA Network East
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=28
+#EXTINF:-1, tvg-id="44" tvg-name="Syfy" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/3120.png", H2
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=44
+#EXTINF:-1, tvg-id="60" tvg-name="TNT" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/565.png", ITV Encore
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=60
+#EXTINF:-1, tvg-id="150" tvg-name="Tru TV East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/987.png", Tru TV East
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=150
+#EXTINF:-1, tvg-id="38" tvg-name="True Drama" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1437.png", CBS Drama
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=38
+#EXTINF:-1, tvg-id="61" tvg-name="TBS East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/553.png", TNT
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=61
+#EXTINF:-1, tvg-id="30" tvg-name="Comedy Central East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/34.png", Comedy Central
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=30
+#EXTINF:-1, tvg-id="49" tvg-name="Oxygen" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/33.png", Really
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=49
+#EXTINF:-1, tvg-id="31" tvg-name="Lifetime East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/543.png", Lifetime East
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=31
+#EXTINF:-1, tvg-id="32" tvg-name="Lifetime Movie Network East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/3240.png", Food
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=32
+
+
+
 #EXTINF:-1, tvg-id="185" tvg-name="HBO East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1775.png", HBO East
 http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=185
 #EXTINF:-1, tvg-id="186" tvg-name="HBO 2 East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/28.png", HBO 2 East
