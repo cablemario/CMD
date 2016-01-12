@@ -611,7 +611,7 @@ http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-8515045631
 http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=153
 #EXTINF:-1, tvg-id="236" tvg-name="Palladia" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/579.png", Palladia
 http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=236
-#EXTINF:-1,UNIVISION 
+#EXTINF:-1,UNICABLE MX 
 http://200.76.77.237/LIVE/H01/CANAL218/PROFILE03.m3u8?supertvlat=%2F.ts
 #EXTINF:0,FOX 1 HD
 http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
@@ -655,7 +655,8 @@ http://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 #EXTINF:-1 channelId=\"177\" , FOX
 http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?=%2F.ts
-
+#EXTINF:0,TELEMUNDO 39 DALLAS
+https://video-cdn.streamup.com/app/telemundox2chivas_69s-stream/chunklist.m3u8
 
 
 
