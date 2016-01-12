@@ -505,9 +505,24 @@ http://pub7.radiotunes.com:80/radiotunes_the80s?c99c0d59b19e3b7c9f99d515
 http://pub8.radiotunes.com:80/radiotunes_country?c99c0d59b19e3b7c9f99d515
 #EXTINF:1 tvg-logo="musica.png",World
 http://pub8.radiotunes.com:80/radiotunes_world?c99c0d59b19e3b7c9f99d515
-
-
-
+#EXTINF:-1, CNBC
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=111
+#EXTINF:-1, TBS
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=62
+#EXTINF:-1, ESPN US
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=63
+#EXTINF:-1, ESPN News
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=65
+#EXTINF:-1, tvg-id="76" tvg-name="NBC Sport Network" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/2502.png", NBC Sport Network
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=76
+#EXTINF:-1, tvg-id="75" tvg-name="CBS Sports Network" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1219.png", CBS Sports Network
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=75
+#EXTINF:-1, tvg-id="35" tvg-name="HGTV East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/2507.png", HGTV East
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=35
+#EXTINF:-1, Cooking Channel
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=34
+#EXTINF:-1, tvg-id="33" tvg-name="Food Network East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/25.png", Food Network East
+http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=33
 
 
 
