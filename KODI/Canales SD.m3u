@@ -669,34 +669,11 @@ http://200.76.77.237/LIVE/H01/CANAL107/PROFILE05.m3u8?supertvlat=%2F.ts
 http://200.76.77.237/LIVE/H01/CANAL109/PROFILE05.m3u8?supertvlat=%2F.ts
 #EXTINF:0 group-title="TOTALPLAY HR",AZTECA 13 HD
 http://200.76.77.237/LIVE/H01/CANAL113/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:0 group-title="TOTALPLAY HR",¡HOLA! TV
-http://200.76.77.237/LIVE/H01/CANAL219/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:0 group-title="TOTALPLAY HR",FASHIONTV
-http://200.76.77.237/LIVE/H01/CANAL220/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:0 group-title="TOTALPLAY HR", HBO Latinoamerica
-http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=565
-#EXTINF:0 group-title="TOTALPLAY HR", HBO 2 Latinoamerica
-http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=566
-#EXTINF:0 group-title="TOTALPLAY HR", HBO Plus Este
-http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=567
-#EXTINF:0 group-title="TOTALPLAY HR", HBO Plus Oeste
-http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=568
-#EXTINF:0 group-title="TOTALPLAY HR", HBO Family Latinoamerica
-http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=569
-#EXTINF:0 group-title="TOTALPLAY HR", HBO Signature Latinoamerica
-http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=570
-#EXTINF:0 group-title="TOTALPLAY HR", Max UP Latinoamerica
-http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=571
-#EXTINF:0 group-title="TOTALPLAY HR", Max Prime Este
-http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=572
-#EXTINF:0 group-title="TOTALPLAY HR", Max Prime Oeste
-http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=573
-#EXTINF:0 group-title="TOTALPLAY HR", MAX
-http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=574
-#EXTINF:0 group-title="TOTALPLAY HR", Golden Premier 1
-http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=575
-#EXTINF:0 group-title="TOTALPLAY HR", Golden Premier 2
-http://www.tuiptv.biz/Channel/PlayList.php?id=34A0B9D2-6346-4155-841C-851504563193&channel=576
+#EXTINF:0 group-title="TOTALPLAY LR",¡HOLA! TV
+http://200.76.77.237/LIVE/H01/CANAL219/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0 group-title="TOTALPLAY LR",FASHIONTV
+http://200.76.77.237/LIVE/H01/CANAL220/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
 
 
 
