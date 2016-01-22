@@ -1,0 +1,1212 @@
+﻿#EXTM3U
+#EXTINF:0,PLAY KODI 22/01/2016 - 07:00AM
+http://streaming203.radionomy.com:80/City-Dance-Radio
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO",A&E
+http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="ENTRETENIMIENTO",AXN
+http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="ENTRETENIMIENTO",¡Hola! TV
+http://200.76.77.237/LIVE/H01/CANAL219/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Antena 3 Internacional
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Az Clic
+http://200.76.77.237/LIVE/H01/CANAL725/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Az Corazón
+http://200.76.77.237/LIVE/H01/CANAL250/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Az Mundo
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/169.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",BBC Entertainment
+http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Canal de las Estrellas Latinoamérica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Caracol Internacional
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/170.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Comedy Central
+http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Discovery Home & Health
+http://200.76.77.237/LIVE/H01/CANAL374/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Distrito Comedia
+http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="ENTRETENIMIENTO",E! Entertainment Television
+http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="ENTRETENIMIENTO",El Gourmet
+http://200.76.77.237/LIVE/H01/CANAL268/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Fashion TV
+http://200.76.77.237/LIVE/H01/CANAL220/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Fox
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Fox Life
+http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="ENTRETENIMIENTO",FX
+http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Garage TV
+http://200.76.77.237/LIVE/H01/CANAL269/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Glitz
+http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Lifetime
+http://200.76.77.237/LIVE/H01/CANAL379/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Más Chic
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/171.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Multimedios Plus
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/172.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Mundo Fox
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/173.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Sony
+http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="ENTRETENIMIENTO",SyFy
+http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="ENTRETENIMIENTO",TBS Very Funny
+http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Tlnovelas
+http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Trendy
+http://200.76.77.237/LIVE/H01/CANAL279/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="ENTRETENIMIENTO",TruTV
+http://200.76.77.237/LIVE/H01/CANAL215/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="ENTRETENIMIENTO",TV Globo Internacional
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/175.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",TV5Monde
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Unicable
+http://200.76.77.237/LIVE/H01/CANAL218/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Unimás
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/177.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Univisión (Este)
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/178.m3u8
+#EXTINF:-1 group-title="INFANTILES",Boomerang
+http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="INFANTILES",Cartoon Network
+http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="INFANTILES",CBeebies
+http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="INFANTILES",Discovery Kids
+http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="INFANTILES",Disney Channel
+http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="INFANTILES",Disney Jr
+http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="INFANTILES",Disney XD
+http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="INFANTILES",Nick HD
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="INFANTILES",Nick Jr
+http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="INFANTILES",Nickelodeon (Nick)
+http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="INFANTILES",NickToons
+http://200.76.77.237/LIVE/H01/CANAL314/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="INFANTILES",TIIN
+http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="INFANTILES",Tooncast
+http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="PELÍCULAS-SERIES",AMC HD
+http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="PELÍCULAS-SERIES",Az Cinema
+http://200.76.77.237/LIVE/H01/CANAL425/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="PELÍCULAS-SERIES",Cine Dinamita
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/72.m3u8
+#EXTINF:-1 group-title="PELÍCULAS-SERIES",Cine Latino
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/73.m3u8
+#EXTINF:-1 group-title="PELÍCULAS-SERIES",Cinecanal
+http://200.76.77.237/LIVE/H01/CANAL480/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="PELÍCULAS-SERIES",Cinecanal Plus
+http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="PELÍCULAS-SERIES",Cinemax
+http://200.76.77.237/LIVE/H01/CANAL481/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="PELÍCULAS-SERIES",De Película HD
+http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="PELÍCULAS-SERIES",DHE
+http://201.161.59.7/dhe.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="PELÍCULAS-SERIES",Eurochannel
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/74.m3u8
+#EXTINF:-1 group-title="PELÍCULAS-SERIES",Europa Europa
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/75.m3u8
+#EXTINF:-1 group-title="PELÍCULAS-SERIES",Film & Arts
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/76.m3u8
+#EXTINF:-1 group-title="PELÍCULAS-SERIES",Fox 1
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="PELÍCULAS-SERIES",Fox Action
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="PELÍCULAS-SERIES",Fox Cinéma
+http://200.76.77.237/LIVE/H01/CANAL421/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="PELÍCULAS-SERIES",Fox Classics
+http://200.76.77.237/LIVE/H01/CANAL424/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="PELÍCULAS-SERIES",Fox Comedy
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/77.m3u8
+#EXTINF:-1 group-title="PELÍCULAS-SERIES",Fox Family
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/78.m3u8
+#EXTINF:-1 group-title="PELÍCULAS-SERIES",Fox Movies
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="PELÍCULAS-SERIES",Golden
+http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="PELÍCULAS-SERIES",Golden Edge
+http://200.76.77.237/LIVE/H01/CANAL484/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="PELÍCULAS-SERIES",I.Sat
+http://200.76.77.237/LIVE/H01/CANAL495/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="PELÍCULAS-SERIES",Multipremier
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/79.m3u8
+#EXTINF:-1 group-title="PELÍCULAS-SERIES",Space
+http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="PELÍCULAS-SERIES",Studio Universal
+http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="PELÍCULAS-SERIES",Sundance Channel
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/81.m3u8
+#EXTINF:-1 group-title="PELÍCULAS-SERIES",TCM
+http://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="PELÍCULAS-SERIES",The Film Zone
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="PELÍCULAS-SERIES",TNT
+http://200.76.77.237/LIVE/H01/CANAL482/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="PELÍCULAS-SERIES",TNT HD
+http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="PELÍCULAS-SERIES",TNT Series
+http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="PELÍCULAS-SERIES",Universal Channel
+http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="PELÍCULAS-SERIES",Universal HD
+http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="PELÍCULAS-SERIES",Warner Channel
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/82.m3u8
+#EXTINF:-1 group-title="PELÍCULAS-SERIES",Warner HD
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="PREMIUM",Golden Multiplex
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/83.m3u8
+#EXTINF:-1 group-title="PREMIUM",Golden Premier 1
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/84.m3u8
+#EXTINF:-1 group-title="PREMIUM",Golden Premier 2
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/85.m3u8
+#EXTINF:-1 group-title="PREMIUM",HBO
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/86.m3u8
+#EXTINF:-1 group-title="PREMIUM",HBO 2
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/87.m3u8
+#EXTINF:-1 group-title="PREMIUM",HBO Family
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/88.m3u8
+#EXTINF:-1 group-title="PREMIUM",HBO Plus Este
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/89.m3u8
+#EXTINF:-1 group-title="PREMIUM",HBO Plus Oeste
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/90.m3u8
+#EXTINF:-1 group-title="PREMIUM",HBO Signature
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/91.m3u8
+#EXTINF:-1 group-title="PREMIUM",MAX
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/92.m3u8
+#EXTINF:-1 group-title="PREMIUM",Max Prime Este
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/93.m3u8
+#EXTINF:-1 group-title="PREMIUM",Max Prime Oeste
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/94.m3u8
+#EXTINF:-1 group-title="PREMIUM",Max Up
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/95.m3u8
+#EXTINF:-1 group-title="DEPORTES",AyM Sports
+http://200.76.77.237/LIVE/H01/CANAL576/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="DEPORTES",Bein Sports Ñ Español
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/5.m3u8
+#EXTINF:-1 group-title="DEPORTES",Box Nation
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/6.m3u8
+#EXTINF:-1 group-title="DEPORTES",BT Sport 1 UK
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/7.m3u8
+#EXTINF:-1 group-title="DEPORTES",BT Sport 2 UK
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/8.m3u8
+#EXTINF:-1 group-title="DEPORTES",CBS Sports Network
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/9.m3u8
+#EXTINF:-1 group-title="DEPORTES",Combate
+http://server1.livestreaming.ninja:1935/live/combate755/livestream.m3u8
+#EXTINF:-1 group-title="DEPORTES",Dubai Sports
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/11.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN México
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="DEPORTES",ESPN México (1080p)
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="DEPORTES",ESPN + México (1080p)
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="DEPORTES",ESPN + México
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="DEPORTES",ESPN 1 USA
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/12.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 2 México (1080p)
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="DEPORTES",ESPN 2 México
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="DEPORTES",ESPN 2 USA
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/13.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 3 México (1080p)
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="DEPORTES",ESPN 3 México
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="DEPORTES",ESPN HD México (1080p)
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="DEPORTES",ESPN HD México
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="DEPORTES",ESPN U USA
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/14.m3u8
+#EXTINF:-1 group-title="DEPORTES",EuroSport 1 UK
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/15.m3u8
+#EXTINF:-1 group-title="DEPORTES",EuroSport 2 UK
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/16.m3u8
+#EXTINF:-1 group-title="DEPORTES",Eurosport Español
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/17.m3u8
+#EXTINF:-1 group-title="DEPORTES",F1 Latinoamerica
+http://200.76.77.237/LIVE/H01/CANAL511/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="DEPORTES",F1 Latinoamerica (1080p)
+http://200.76.77.237/LIVE/H01/CANAL511/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="DEPORTES",Fox Sports 2 México
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="DEPORTES",Fox Sports 2 México (1080p)
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="DEPORTES",Fox Sports 3 Latino
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/18.m3u8
+#EXTINF:-1 group-title="DEPORTES",Fox Sports México
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="DEPORTES",Fox Sports México (1080p)
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="DEPORTES",Fox Sports USA
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/19.m3u8
+#EXTINF:-1 group-title="DEPORTES",Golf Channel
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/20.m3u8
+#EXTINF:-1 group-title="DEPORTES",MLB Network
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/21.m3u8
+#EXTINF:-1 group-title="DEPORTES",Motors TV UK
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/22.m3u8
+#EXTINF:-1 group-title="DEPORTES",NBA League Pass 1
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/23.m3u8
+#EXTINF:-1 group-title="DEPORTES",NBA League Pass 2
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/24.m3u8
+#EXTINF:-1 group-title="DEPORTES",NBA League Pass 3
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/25.m3u8
+#EXTINF:-1 group-title="DEPORTES",NBA TV
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/26.m3u8
+#EXTINF:-1 group-title="DEPORTES",NBC Golf
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1 group-title="DEPORTES",NBC Sports Network
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/27.m3u8
+#EXTINF:-1 group-title="DEPORTES",NFL Network
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/28.m3u8
+#EXTINF:-1 group-title="DEPORTES",NFL Now
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
+#EXTINF:-1 group-title="DEPORTES",NHL Network
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/29.m3u8
+#EXTINF:-1 group-title="DEPORTES",Outdoor Channel
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/30.m3u8
+#EXTINF:-1 group-title="DEPORTES",Planeta Futbol
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/31.m3u8
+#EXTINF:-1 group-title="DEPORTES",PX TV
+http://200.76.77.237/LIVE/H01/CANAL528/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="DEPORTES",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="DEPORTES",Setanta Sport
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/32.m3u8
+#EXTINF:-1 group-title="DEPORTES",Sky Sports 1
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/33.m3u8
+#EXTINF:-1 group-title="DEPORTES",Sky Sports 2
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/34.m3u8
+#EXTINF:-1 group-title="DEPORTES",Sky Sports 3
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/35.m3u8
+#EXTINF:-1 group-title="DEPORTES",Sky Sports 4
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/36.m3u8
+#EXTINF:-1 group-title="DEPORTES",Sky Sports 5
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/37.m3u8
+#EXTINF:-1 group-title="DEPORTES",Sky Sports F1
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/38.m3u8
+#EXTINF:-1 group-title="DEPORTES",Sky Sports News
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/39.m3u8
+#EXTINF:-1 group-title="DEPORTES",TDN
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/45.m3u8
+#EXTINF:-1 group-title="DEPORTES",TyC Deportes
+http://201.161.59.4/tycdeportes.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="DEPORTES",UFC Network Latinoamérica
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/46.m3u8
+#EXTINF:-1 group-title="DEPORTES",Univisión TDN
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/21.m3u8
+#EXTINF:-1 group-title="DEPORTES",Win Sports
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
+#EXTINF:-1 group-title="DEPORTES",WWE
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/10.m3u8
+#EXTINF:-1 group-title="CULTURA-DOCUMENTAL",Animal Planet
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="CULTURA-DOCUMENTAL",Discovery Channel
+http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="CULTURA-DOCUMENTAL",Discovery Civilization
+http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="CULTURA-DOCUMENTAL",Discovery Max
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/155.m3u8
+#EXTINF:-1 group-title="CULTURA-DOCUMENTAL",Discovery Science
+http://200.76.77.237/LIVE/H01/CANAL381/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="CULTURA-DOCUMENTAL",Discovery Turbo
+http://200.76.77.237/LIVE/H01/CANAL383/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="CULTURA-DOCUMENTAL",Discovery World
+http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="CULTURA-DOCUMENTAL",H2
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/156.m3u8
+#EXTINF:-1 group-title="CULTURA-DOCUMENTAL",Discovery Theater
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="CULTURA-DOCUMENTAL",Historia
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/157.m3u8
+#EXTINF:-1 group-title="CULTURA-DOCUMENTAL",History Channel
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="CULTURA-DOCUMENTAL",Ingenio TV
+http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8?
+#EXTINF:-1 group-title="CULTURA-DOCUMENTAL",Investigación Discovery
+http://200.76.77.237/LIVE/H01/CANAL263/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="CULTURA-DOCUMENTAL",NatGeo
+http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="CULTURA-DOCUMENTAL",NatGeo Wild
+http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="CULTURA-DOCUMENTAL",TLC
+http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="CULTURA-DOCUMENTAL",WOBI
+http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="CULTURA-DOCUMENTAL",EWTN
+http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/playlist.m3u8
+#EXTINF:-1 group-title="CULTURA-DOCUMENTAL",Maria Visión
+http://74.63.97.188:1935/mariavision1/videomariavision1/playlist.m3u8?DVR
+#EXTINF:-1 group-title="CULTURA-DOCUMENTAL",DW Latinoamérica
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:-1 group-title="CULTURA-DOCUMENTAL",Alcance TV
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/158.m3u8
+#EXTINF:-1 group-title="CULTURA-DOCUMENTAL",Enlace
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/159.m3u8
+#EXTINF:-1 group-title="CULTURA-DOCUMENTAL",Enlace Juvenil
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/160.m3u8
+#EXTINF:-1 group-title="CULTURA-DOCUMENTAL",Cristo Visión
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/161.m3u8
+#EXTINF:-1 group-title="CULTURA-DOCUMENTAL",Mírame TV
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/162.m3u8
+#EXTINF:-1 group-title="CULTURA-DOCUMENTAL",Ondaluz Sierra
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/163.m3u8
+#EXTINF:-1 group-title="CULTURA-DOCUMENTAL",Ceuta TV
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/164.m3u8
+#EXTINF:-1 group-title="CULTURA-DOCUMENTAL",Esperanza TV
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/165.m3u8
+#EXTINF:-1 group-title="CULTURA-DOCUMENTAL",Almavisión
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/166.m3u8
+#EXTINF:-1 group-title="CULTURA-DOCUMENTAL",Familia TV
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/167.m3u8
+#EXTINF:-1 group-title="CULTURA-DOCUMENTAL",Condavisión
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/168.m3u8
+#EXTINF:-1 group-title="MÚSICA",Bandamax
+http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="MÚSICA",MTV
+http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="MÚSICA",Capital TV (UK)
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="MÚSICA",Concert Channel
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/147.m3u8
+#EXTINF:-1 group-title="MÚSICA",Eska Best Music TV
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/148.m3u8
+#EXTINF:-1 group-title="MÚSICA",Eska Rock TV
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/149.m3u8
+#EXTINF:-1 group-title="MÚSICA",Heart TV (UK)
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="MÚSICA",HTV
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/151.m3u8
+#EXTINF:-1 group-title="MÚSICA",K Music
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/150.m3u8
+#EXTINF:-1 group-title="MÚSICA",Kiss TV
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/152.m3u8
+#EXTINF:-1 group-title="MÚSICA",Melody Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:-1 group-title="MÚSICA",Mi Musica HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u9
+#EXTINF:-1 group-title="MÚSICA",MTV Dance
+http://217.147.40.118:8080/udp/233.97.20.154:1234
+#EXTINF:-1 group-title="MÚSICA",MTV Hits
+http://200.76.77.237/LIVE/H01/CANAL727/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="MÚSICA",MTV Live
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="MÚSICA",MTV Live HD (1080p)
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="MÚSICA",MTV Rocks
+http://217.147.40.118:8080/udp/233.97.20.155:1234
+#EXTINF:-1 group-title="MÚSICA",Palladia USA
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/123.m3u8
+#EXTINF:-1 group-title="MÚSICA",Regional Music
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/153.m3u8
+#EXTINF:-1 group-title="MÚSICA",Ritmoson Latino
+http://201.161.59.4/ritmoson.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="MÚSICA",Telehit
+http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="MÚSICA",Telehit HD (1080p)
+http://200.76.77.237/LIVE/H01/CANAL702/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="MÚSICA",Vevo HD 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1 group-title="MÚSICA",Vevo HD 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1 group-title="MÚSICA",Vevo HD 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1 group-title="MÚSICA",VH1 Classic
+http://200.76.77.237/LIVE/H01/CANAL728/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="MÚSICA",VH1 HD
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="MÚSICA",VH1 HD (1080p)
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="MÚSICA",Virgin TV
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/154.m3u8
+#EXTINF:-1 group-title="NOTICIAS",Az Noticias
+http://200.76.77.237/LIVE/H01/CANAL2/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="NOTICIAS",Az Noticias (1080p)
+http://200.76.77.237/LIVE/H01/CANAL2/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="NOTICIAS",CNN USA
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/138.m3u8
+#EXTINF:-1 group-title="NOTICIAS",El Financiero Bloomberg
+http://200.76.77.237/LIVE/H01/CANAL610/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="NOTICIAS",NHK World
+http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
+#EXTINF:-1 group-title="NOTICIAS",CNN En Español
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/139.m3u8
+#EXTINF:-1 group-title="NOTICIAS",Euronews Español
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/140.m3u8
+#EXTINF:-1 group-title="NOTICIAS",Foro TV
+http://200.76.77.237/LIVE/H01/CANAL104/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="NOTICIAS",Milenio TV
+http://200.76.77.237/LIVE/H01/CANAL603/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="NOTICIAS",NTN 24
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/141.m3u8
+#EXTINF:-1 group-title="NOTICIAS",RT en español
+http://rt-lh.akamaihd.net/i/ch_02@325606/index_720p_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="NOTICIAS",RT Russia Today
+http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
+#EXTINF:-1 group-title="NOTICIAS",TeleFórmula
+http://200.76.77.237/LIVE/H01/CANAL161/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="NOTICIAS",BBC News
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/142.m3u8
+#EXTINF:-1 group-title="NOTICIAS",Euronews UK
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/145.m3u8
+#EXTINF:-1 group-title="NOTICIAS",Sky News
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/143.m3u8
+#EXTINF:-1 group-title="NOTICIAS",Fox News Channel US
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/108.m3u8
+#EXTINF:-1 group-title="NOTICIAS",France 24
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/144.m3u8
+#EXTINF:-1 group-title="REAL HD",A&E (1080p)
+http://200.76.77.237/LIVE/H01/CANAL211/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="REAL HD",AMC HD (1080p)
+http://200.76.77.237/LIVE/H01/CANAL444/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="REAL HD",AXN (1080p)
+http://200.76.77.237/LIVE/H01/CANAL213/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="REAL HD",Az Clic (1080p)
+http://200.76.77.237/LIVE/H01/CANAL725/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="REAL HD",Az Corazon (1080p)
+http://200.76.77.237/LIVE/H01/CANAL250/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="REAL HD",BBC Entertainment (1080p)
+http://200.76.77.237/LIVE/H01/CANAL253/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="REAL HD",Canal 5 HD (1080p)
+http://200.76.77.237/LIVE/H01/CANAL105/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="REAL HD",CBeebies (1080p)
+http://200.76.77.237/LIVE/H01/CANAL305/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="REAL HD",Cinecanal+ HD (1080p)
+http://200.76.77.237/LIVE/H01/CANAL430/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="REAL HD",Comedy Central HD (1080p)
+http://200.76.77.237/LIVE/H01/CANAL217/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="REAL HD",De Pelicula HD (1080p)
+http://200.76.77.237/LIVE/H01/CANAL442/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="REAL HD",Distrito Comedia (1080p)
+http://200.76.77.237/LIVE/H01/CANAL272/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="REAL HD",Canal De Las Estrellas HD (1080p)
+http://200.76.77.237/LIVE/H01/CANAL102/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="REAL HD",ForoTV HD (1080p)
+http://200.76.77.237/LIVE/H01/CANAL104/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="REAL HD",Fox (1080p)
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="REAL HD",Fox 1 HD (1080p)
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="REAL HD",Fox Action HD (1080p)
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="REAL HD",Fox Life (1080p)
+http://200.76.77.237/LIVE/H01/CANAL271/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="REAL HD",Fox Movies HD (1080p)
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="REAL HD",FX HD (1080p)
+http://200.76.77.237/LIVE/H01/CANAL209/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="REAL HD",Gala TV HD (1080p)
+http://200.76.77.237/LIVE/H01/CANAL109/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="REAL HD",Golden HD (1080p)
+http://200.76.77.237/LIVE/H01/CANAL436/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="REAL HD",History HD (1080p)
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="REAL HD",Multimedios HD (1080p)
+http://200.76.77.237/LIVE/H01/CANAL167/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="REAL HD",Nick HD (1080p)
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="REAL HD",Once HD (1080p)
+http://200.76.77.237/LIVE/H01/CANAL111/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="REAL HD",Proyecto 40 HD (1080p)
+http://200.76.77.237/LIVE/H01/CANAL140/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="REAL HD",Sony (1080p)
+http://200.76.77.237/LIVE/H01/CANAL203/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="REAL HD",The Film Zone HD (1080p)
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="REAL HD",TNT HD (1080p)
+http://200.76.77.237/LIVE/H01/CANAL435/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="REAL HD",TNT Series HD (1080p)
+http://200.76.77.237/LIVE/H01/CANAL266/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="REAL HD",TruTV HD (1080p)
+http://200.76.77.237/LIVE/H01/CANAL215/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="REAL HD",Unicable (1080p)
+http://200.76.77.237/LIVE/H01/CANAL218/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="REAL HD",Warner HD (1080p)
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="REAL HD",HMX (1080p)
+http://200.76.77.237/LIVE/H01/CANAL169/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="REAL HD",Trendy (1080p)
+http://200.76.77.237/LIVE/H01/CANAL279/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="MÉXICO",Az Corazón
+http://200.76.77.237/LIVE/H01/CANAL45/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="MÉXICO",Azteca 7
+http://200.76.77.237/LIVE/H01/CANAL7/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="MÉXICO",Azteca Internacional
+http://200.76.77.237/LIVE/H01/CANAL2/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="MÉXICO",Cadena 3
+http://200.76.77.237/LIVE/H01/CANAL143/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="MÉXICO",Canal De Las Estrellas
+http://200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="MÉXICO",Canal 2 Obregón
+http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8?
+#EXTINF:-1 group-title="MÉXICO",Canal 5 HD
+http://200.76.77.237/LIVE/H01/CANAL105/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="MÉXICO",Canal 52MX
+http://201.161.59.4/canal52.isml/QualityLevels(1253000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="MÉXICO",Canal 7 Mazatlán
+http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
+#EXTINF:-1 group-title="MÉXICO",Canal del Congreso
+http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO",EfektoTV
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
+#EXTINF:-1 group-title="MÉXICO",El Trece
+http://200.76.77.237/LIVE/H01/CANAL13/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="MÉXICO",Foro TV
+http://200.76.77.237/LIVE/H01/CANAL104/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="MÉXICO",Gala TV
+http://200.76.77.237/LIVE/H01/CANAL109/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="MÉXICO",Gala TV Cancun
+http://rightbrainmedia.mpl.miisolutions.net:1935/rightbrainmedia-live-244/GalaTVCancun/livestream.m3u8
+#EXTINF:-1 group-title="MÉXICO",HMX
+http://200.76.77.237/LIVE/H01/CANAL169/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="MÉXICO",Info 7 (Azteca Monterrey)
+http://38.104.228.230:1938/info7/info7_512/chunklist_w934161884.m3u8
+#EXTINF:-1 group-title="MÉXICO",Milenio TV
+http://200.76.77.237/LIVE/H01/CANAL603/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="MÉXICO",Multimedios Monterrey
+http://200.76.77.237/LIVE/H01/CANAL167/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="MÉXICO",Once TV
+http://200.76.77.237/LIVE/H01/CANAL111/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="MÉXICO",Proyecto 40
+http://200.76.77.237/LIVE/H01/CANAL40/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="MÉXICO",RTG Guerrero
+http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO",TeleFórmula
+http://200.76.77.237/LIVE/H01/CANAL161/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="MÉXICO",Telemar Campeche
+http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8
+#EXTINF:-1 group-title="MÉXICO",TV UNAM
+http://104.131.200.207/genius/playkodi.php?lib=3285960
+#EXTINF:-1 group-title="MÉXICO",Capital 21 (CDMX)
+http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
+#EXTINF:-1 group-title="MÉXICO",5tv (Sabinas - Coahuila)
+http://play.gvstream.net:554/e-tv-video/default.stream/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO",RCG (Saltillo - Coahuila)
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO",TV Lobo (Durango)
+http://lobotv-lh.akamaihd.net/i/ch_1@325404/master.m3u8
+#EXTINF:-1 group-title="MÉXICO",25.1 Noticias (GDL - Jalisco)
+http://74.63.97.188:1935/c7/videoc7/master.m3u8
+#EXTINF:-1 group-title="MÉXICO",Ocho TV (GDL - Jalisco)
+http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
+#EXTINF:-1 group-title="MÉXICO",Canal 2 (Tepic - Nayarit)
+http://canal2tepic-lh.akamaihd.net/i/ch_1@325632/master.m3u8
+#EXTINF:-1 group-title="MÉXICO",Puebla TV
+http://189.203.247.136:1935/live/pueblatv/master.m3u8
+#EXTINF:-1 group-title="MÉXICO",Canal 10 (Cancún - Quintana Roo)
+http://162.212.132.116:1935/live/tvlive2/master.m3u8
+#EXTINF:-1 group-title="MÉXICO",TV Pacífico (Culiacán - Sinaloa)
+http://74.63.97.188:1935/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO",TV Pacífico (Los Mochis - Sinaloa)
+http://74.63.97.188:1935/gpacifico2/smil:mochis.smil/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO",TV Pacífico (Ciudad Obregón - Sonora)
+http://74.63.97.188:1935/gpacifico3/smil:obregon.smil/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO",Trecevisión Yucatán
+http://74.222.3.185:1935/live/ngrp:trecevision_all/playlist.m3u8
+#EXTINF:-1 group-title="EUA (USA)",CNBC
+http://c004.p124.edgesuite.net/i/c004/cnbc_1@137788/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="EUA (USA)",A&E
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/96.m3u8
+#EXTINF:-1 group-title="EUA (USA)",ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:-1 group-title="EUA (USA)",Animal Planet US
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/97.m3u8
+#EXTINF:-1 group-title="EUA (USA)",Bravo
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/98.m3u8
+#EXTINF:-1 group-title="EUA (USA)",Cartoon Network USA
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+#EXTINF:-1 group-title="EUA (USA)",CBS Action
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/99.m3u8
+#EXTINF:-1 group-title="EUA (USA)",Cinemax East
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/100.m3u8
+#EXTINF:-1 group-title="EUA (USA)",Discovery Channel USA
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/101.m3u8
+#EXTINF:-1 group-title="EUA (USA)",Disney Channel East
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/102.m3u8
+#EXTINF:-1 group-title="EUA (USA)",Disney Jr US
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/103.m3u8
+#EXTINF:-1 group-title="EUA (USA)",DIY Network
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/104.m3u8
+#EXTINF:-1 group-title="EUA (USA)",Encore Action
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/105.m3u8
+#EXTINF:-1 group-title="EUA (USA)",Estrella TV
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/106.m3u8
+#EXTINF:-1 group-title="EUA (USA)",Food Network
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/107.m3u8
+#EXTINF:-1 group-title="EUA (USA)",Fox News Channel
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/108.m3u8
+#EXTINF:-1 group-title="EUA (USA)",FX East
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/109.m3u8
+#EXTINF:-1 group-title="EUA (USA)",Galavisión USA
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/110.m3u8
+#EXTINF:-1 group-title="EUA (USA)",H2 USA
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/111.m3u8
+#EXTINF:-1 group-title="EUA (USA)",Hallmark Channel
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/112.m3u8
+#EXTINF:-1 group-title="EUA (USA)",HBO 2 East
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/113.m3u8
+#EXTINF:-1 group-title="EUA (USA)",HBO 2 West
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/114.m3u8
+#EXTINF:-1 group-title="EUA (USA)",HBO Comedy US
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/115.m3u8
+#EXTINF:-1 group-title="EUA (USA)",HBO East US
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/116.m3u8
+#EXTINF:-1 group-title="EUA (USA)",HBO Family US
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/117.m3u8
+#EXTINF:-1 group-title="EUA (USA)",HBO Signature US
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/118.m3u8
+#EXTINF:-1 group-title="EUA (USA)",HBO Zone
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/119.m3u8
+#EXTINF:-1 group-title="EUA (USA)",HGTV
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/120.m3u8
+#EXTINF:-1 group-title="EUA (USA)",History USA
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/121.m3u8
+#EXTINF:-1 group-title="EUA (USA)",i24 News
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/650.m3u8
+#EXTINF:-1 group-title="EUA (USA)",Miami Music TV
+http://74.208.152.93/music/stream3/stream.m3u8
+#EXTINF:-1 group-title="EUA (USA)",Miami TV Channel
+http://k4.usastreams.com:1935/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:-1 group-title="EUA (USA)",NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_400_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="EUA (USA)",NASA TV HD (720)
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_700_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="EUA (USA)",Nickelodeon US
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/122.m3u8
+#EXTINF:-1 group-title="EUA (USA)",Palladia
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/123.m3u8
+#EXTINF:-1 group-title="EUA (USA)",Showtime Beyond
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/124.m3u8
+#EXTINF:-1 group-title="EUA (USA)",Showtime East
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/125.m3u8
+#EXTINF:-1 group-title="EUA (USA)",Sony Movie Channel
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/126.m3u8
+#EXTINF:-1 group-title="EUA (USA)",Spike TV
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/127.m3u8
+#EXTINF:-1 group-title="EUA (USA)",Starz
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/128.m3u8
+#EXTINF:-1 group-title="EUA (USA)",Starz Cinema
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/129.m3u8
+#EXTINF:-1 group-title="EUA (USA)",Starz Comedy
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/130.m3u8
+#EXTINF:-1 group-title="EUA (USA)",Starz Edge
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/131.m3u8
+#EXTINF:-1 group-title="EUA (USA)",TBS
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/132.m3u8
+#EXTINF:-1 group-title="EUA (USA)",Telemundo 52 Los Angeles
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/133.m3u8
+#EXTINF:-1 group-title="EUA (USA)",Telemundo Tampa
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/134.m3u8
+#EXTINF:-1 group-title="EUA (USA)",Telexitos
+http://208.86.20.109:8081/live/2407.stream/playlist.m3u8
+#EXTINF:-1 group-title="EUA (USA)",Teveo Miami
+http://q.gs/9830047/tveomiamitodokodim3u8
+#EXTINF:-1 group-title="EUA (USA)",The Weather Channel
+http://kalsegsec-a.akamaihd.net/dc-0/m/pa-live-publish3/kLive/smil:1_oorxcge2_publish.smil/chunklist_b2096000.m3u8
+#EXTINF:-1 group-title="EUA (USA)",TNT USA
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/135.m3u8
+#EXTINF:-1 group-title="EUA (USA)",Univision 41
+http://208.86.20.109:8081/live/2400.stream/playlist.m3u8
+#EXTINF:-1 group-title="EUA (USA)",USA Network
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/136.m3u8
+#EXTINF:-1 group-title="EUA (USA)",WFTV Florida
+http://bcoveliveios-i.akamaihd.net/hls/live/207141/268012959001/WFTV_EVENTLIVE1/WFTV_EVENTLIVE1_800.m3u8
+#EXTINF:-1 group-title="EUA (USA)",Yes Network
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/137.m3u8
+#EXTINF:-1 group-title="ESPAÑA",A3S
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1 group-title="ESPAÑA",Andalucía TV
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:-1 group-title="ESPAÑA",Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="ESPAÑA",AXN
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/122.m3u8
+#EXTINF:-1 group-title="ESPAÑA",AXN White
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/123.m3u8
+#EXTINF:-1 group-title="ESPAÑA",Boing
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/126.m3u8
+#EXTINF:-1 group-title="ESPAÑA",Calle 13
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/113.m3u8
+#EXTINF:-1 group-title="ESPAÑA",Canal 33 Madrid
+http://iphone-streaming.ustream.tv/uhls/15741867/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="ESPAÑA",Cuatro
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/102.m3u8
+#EXTINF:-1 group-title="ESPAÑA",Divinity
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/119.m3u8
+#EXTINF:-1 group-title="ESPAÑA",Eurosport
+rtmp://80.82.78.75/privatestreamplus/ playpath=la1tdt36?keys=FTV3uZDHETQ-SdmL5cuYWw&keyt=1448253763 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 group-title="ESPAÑA",FDF
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/120.m3u8
+#EXTINF:-1 group-title="ESPAÑA",Fox España
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/124.m3u8
+#EXTINF:-1 group-title="ESPAÑA",Galicia TV
+http://iphone-streaming.ustream.tv/uhls/15741867/streams/live/iphone/playlist.m3u9
+#EXTINF:-1 group-title="ESPAÑA",La 1
+http://api.iptv.ink/pl.m3u8?ch=35452405
+#EXTINF:-1 group-title="ESPAÑA",La 2
+http://iphonelive.rtve.es/LA2_LV3_IPH/LA2_LV3_IPH.m3u8
+#EXTINF:-1 group-title="ESPAÑA",La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="ESPAÑA",MEGA
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/118.m3u8
+#EXTINF:-1 group-title="ESPAÑA",Neox
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/121.m3u8
+#EXTINF:-1 group-title="ESPAÑA",Nova
+http://a3live-lh.akamaihd.net/i/nova/novageo_1@379404/master.m3u8
+#EXTINF:-1 group-title="ESPAÑA",Telecinco
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/125.m3u8
+#EXTINF:-1 group-title="ESPAÑA",TVE 24H
+http://iphonelive.rtve.es/24H_LV3_IPH/24H_LV3_IPH.m3u8
+#EXTINF:-1 group-title="CANADÁ",CBC
+http://192.99.201.121:1935/eu2/cbc.stream/default.m3u8
+#EXTINF:-1 group-title="CANADÁ",TVA Montreal
+http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
+#EXTINF:-1 group-title="CANADÁ",CPAC
+http://bcliveuniv-lh.akamaihd.net/i/cpac1fre2014_01@119331/master.m3u8
+#EXTINF:-1 group-title="CANADÁ",Assemblée Nationale
+http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
+#EXTINF:-1 group-title="CANADÁ",Global
+https://glblvestu-f.akamaihd.net/i/glblvPSTu_1@80128/master.m3u8?__b__=900&hdnea=ip=99.18.68.202~st=1434307348~exp=1434307948~acl=/i/*~id=5a91003f-0e87-4f31-b475-5beb4de69407~hmac=8011c2346009544656a3195d1e9e03e511efc6523dab9644debf3692f630fe77
+#EXTINF:-1 group-title="CANADÁ",Global Toronto
+https://glblvestu-f.akamaihd.net/i/glblvestu_1@78149/master.m3u8?__b__=900&hdnea=ip=99.18.68.202~st=1434303944~exp=1434304544~acl=/i/*~id=3f0edb02-c4e5-4596-8950-4331b8ce1baf~hmac=4acbecb511f7c3beaf085123ab9097c7a6acbd5d857fd4cefbfdfb733b666f57
+#EXTINF:-1 group-title="PERÚ",América TV
+http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
+#EXTINF:-1 group-title="PERÚ",ATV
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/137.m3u8
+#EXTINF:-1 group-title="PERÚ",BethelTV HD
+http://streamtv.betheltv.pe:1935/bethelgospelhd/streamingbethel25hd_source/playlist.m3u8
+#EXTINF:-1 group-title="PERÚ",Capital TV 3.1
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/141.m3u8
+#EXTINF:-1 group-title="PERÚ",CTC Cusco
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/148.m3u8
+#EXTINF:-1 group-title="PERÚ",Inkavision - Cusco
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/150.m3u8
+#EXTINF:-1 group-title="PERÚ",Latina
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/129.m3u8
+#EXTINF:-1 group-title="PERÚ",Monterrico TV
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/145.m3u8
+#EXTINF:-1 group-title="PERÚ",Panamerica TV
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/130.m3u8
+#EXTINF:-1 group-title="PERÚ",Pax TV
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/144.m3u8
+#EXTINF:-1 group-title="PERÚ",RBC
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/139.m3u8
+#EXTINF:-1 group-title="PERÚ",RPP Cabina
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/140.m3u8
+#EXTINF:-1 group-title="PERÚ",RTV El Diario Canal 45 - Cusco
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/147.m3u8
+#EXTINF:-1 group-title="PERÚ",Sol TV - Trujillo
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/143.m3u8
+#EXTINF:-1 group-title="PERÚ",TV Perú
+http://iphone-streaming.ustream.tv/ustreamVideo/17419715/streams/live/playlist.m3u8
+#EXTINF:-1 group-title="PERÚ",UCV Satelital
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/142.m3u8
+#EXTINF:-1 group-title="PERÚ",Willax
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/138.m3u8
+#EXTINF:-1 group-title="COLOMBIA",Cable Noticias
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+#EXTINF:-1 group-title="COLOMBIA",Canal Antiestrés
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
+#EXTINF:-1 group-title="COLOMBIA",Canal Capital
+http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
+#EXTINF:-1 group-title="COLOMBIA",Canal Tr3ce
+http://cdns840stu1010.multistream.net/canaltr3celive/live-500/PAZ.m3u8
+#EXTINF:-1 group-title="COLOMBIA",Canal TRO
+http://cdns840stu1010.multistream.net/canaltro2live/amlst:live/canalesdelpueblotv.m3u8?iks61.channel26 
+#EXTINF:-1 group-title="COLOMBIA",Canal U
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
+#EXTINF:-1 group-title="COLOMBIA",Cantinazo
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:-1 group-title="COLOMBIA",Caracol
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/4.m3u8
+#EXTINF:-1 group-title="COLOMBIA",Cosmovision
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
+#EXTINF:-1 group-title="COLOMBIA",El Tiempo
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+#EXTINF:-1 group-title="COLOMBIA",Hogar TV
+http://xhogartvx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 group-title="COLOMBIA",Lifedesign
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
+#EXTINF:-1 group-title="COLOMBIA",Mi Musica HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u9
+#EXTINF:-1 group-title="COLOMBIA",Tele Amiga
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0002/tu1_1.m3u8
+#EXTINF:-1 group-title="COLOMBIA",Teleantioquia HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
+#EXTINF:-1 group-title="COLOMBIA",Telecafé
+http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 group-title="COLOMBIA",Telemedellín
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
+#EXTINF:-1 group-title="COLOMBIA",Telepacífico
+http://cdns840stu1010.multistream.net/telepacificolive/amlst:playback1/playlist_b500000.m3u8
+#EXTINF:-1 group-title="COLOMBIA",Televida
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8?
+#EXTINF:-1 group-title="COLOMBIA",Tigo Music
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+#EXTINF:-1 group-title="COLOMBIA",TV Agro
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
+#EXTINF:-1 group-title="COLOMBIA",UNE TV Armenia
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEA/tu1_1.m3u8
+#EXTINF:-1 group-title="COLOMBIA",UNE TV Caribe
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEQ/tu1_1.m3u8
+#EXTINF:-1 group-title="COLOMBIA",UNE TV Manizales
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8
+#EXTINF:-1 group-title="COLOMBIA",Zoom TV
+http://xcanalzoomtvx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",C13 Cable
+http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",C13 HD
+http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8 
+#EXTINF:-1 group-title="CHILE",CDO Premium
+http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
+#EXTINF:-1 group-title="CHILE",CHV HD
+http://live.hls.http.chv.ztreaming.com/chvhd/chvHi.m3u8
+#EXTINF:-1 group-title="CHILE",Holvoet HD
+http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunklist-b1248000.m3u8
+#EXTINF:-1 group-title="CHILE",ITV HD
+http://wow2.cl.digitalproserver.com/itv/itvvivo/livestream1/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",Mega Chile
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/181.m3u8
+#EXTINF:-1 group-title="CHILE",PinguinoTV HD
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",RedTV HD
+http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream1/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",Telecanal
+http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",TV Chile
+http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",TVN - Chile
+http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:-1 group-title="CHILE",TVN HD
+http://wow3.tvn.cl:1935/liveedge/tvnelemental.smil/chunklist-b1431000.m3u8
+#EXTINF:-1 group-title="CHILE",UCV HD
+http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
+#EXTINF:-1 group-title="CHILE",Chilevision
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
+#EXTINF:-1 group-title="CHILE",La Red HD
+http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/BratuMarian.m3u
+#EXTINF:-1 group-title="CHILE",Contivisión
+http://evo.eltelon.com:443/live/contivision/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",Campus HD (Talca)
+http://movilstream.digitalproserver.com/campustv/campustvvivo/campustv.smil/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Canal 9 Paraná
+http://ionlive1-lh.akamaihd.net/i/canal9_1@125365/master.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Orbe 21
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Magazine
+rtmp://stream.mgzn.tv/live/mgzntv/mgzntv playpath=mgzntv swfUrl=http://www.mgzn.tv/sites/all/themes/magazine/images/player.swf live=1 pageUrl=http://www.mgzn.tv/vivo
+#EXTINF:-1 group-title="ARGENTINA",Canal 12 Cordoba
+http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Canal 9
+http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Todo Noticias
+rtmp://stream.tn.com.ar/live/tnhd2 playpath=tnhd2 swfUrl="http://tn.com.ar/sites/all/themes/dozer/swf/cplayer/player.swf" pageUrl="http://tn.com.ar/envivo/24hs/HD" swfVfy=true live=true
+#EXTINF:-1 group-title="ARGENTINA",Canal 10 Entre Rios
+http://iphone-streaming.ustream.tv/ustreamVideo/253309/streams/live/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Canal 11 Formosa
+rtmp://stream1.livestreamingservices.com:1935/tvcanal11 playpath=tvcanal11 swfUrl=http://www.lapachotv.com.ar/jwplayer/player.swf live=1 pageUrl=http://www.lapachotv.com.ar/vivo/
+#EXTINF:-1 group-title="ARGENTINA",Canal 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1888852998_b2628000_sleng.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Am Sports
+http://iphone-streaming.ustream.tv/ustreamVideo/11602466/streams/live/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Vivra TV
+http://iphone-streaming.ustream.tv/uhls/10002020/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA",TVP
+http://live-edge01.telecentro.net.ar/live/smil:tvp.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Tateti
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Viajar
+http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Canal 2 Misiones
+http://190.57.237.230/live/canal2.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Paka Paka
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+#EXTINF:-1 group-title="ARGENTINA",One TV
+http://server5.stweb.tv/radioone/live/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Telecreativa
+http://iphone-streaming.ustream.tv/ustreamVideo/18545628/streams/live/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA",DeporTV (DXTV)
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA",TyC Sports
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u9
+#EXTINF:-1 group-title="HONDURAS",Globo TV
+http://162.212.176.83:8080/globotv.m3u8
+#EXTINF:-1 group-title="HONDURAS",Sulavision
+http://162.212.176.83:8080/sulavision.m3u8
+#EXTINF:-1 group-title="HONDURAS",Teleprogreso
+http://162.212.176.83:8080/teleprogreso.m3u8
+#EXTINF:-1 group-title="HONDURAS",Azteca Honduras
+http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
+#EXTINF:-1 group-title="HONDURAS",Teleceiba
+http://162.212.176.83:8080/teleceiba.m3u8
+#EXTINF:-1 group-title="HONDURAS",HCH
+http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=1792561590
+#EXTINF:-1 group-title="HONDURAS",Canal 6
+rtmp://173.243.114.138:1935/8140/ playpath=8140 swfUrl=http://player.katrachospro.net/canal6hn/player.swf live=1 pageUrl=http://player.katrachospro.net/canal6hn/index.html
+#EXTINF:-1 group-title="HONDURAS",Canal 21
+rtmp://live.audiotvserver.com:1935/livemedia/ playpath=canal21 swfUrl=http://static2.sawlive.tv/player.swf? live=1 pageUrl=http://www.lempiratv.com/21.html
+#EXTINF:-1 group-title="HONDURAS",Cholusat Sur
+rtmp://live.audiotvserver.com:1935/livemedia playpath=cholusat swfUrl=http://www.honduras504.com/ayv/player.swf live=1 pageUrl=http://www.honduras504.com/tv/36/CholusatSur
+#EXTINF:-1 group-title="HONDURAS",Si TV
+rtmp://hd.worldkast.com:1935/8436/ playpath=8436 swfUrl=http://static2.sawlive.tv/player.swf? live=1 pageUrl=http://www.lempiratv.com/si-tv.html
+#EXTINF:-1 group-title="HONDURAS",Ten Canal 10
+rtmp://control1.worldkast.com:1935/canal10/ playpath=canal10 swfUrl=http://www.honduras504.com/ayv/player.swf live=1 pageUrl=http://www.
+#EXTINF:-1 group-title="HONDURAS",Ebenezer
+rtmp://hds4.worldkast.com/ebenezertv2/_definst_ playpath=mp4:ebenezertv2_source swfUrl=http://static2.sawlive.tv/player.swf? live=1 pageUrl=http://www.lempiratv.com/ebenezer.html
+#EXTINF:-1 group-title="HONDURAS",Mundo TV
+rtmp://4.31.30.140:1935/live/ playpath=mundotv swfUrl=http://static2.sawlive.tv/player.swf live=1 pageUrl=http://www.lempiratv.com/mundo-tv.html
+#EXTINF:-1 group-title="HONDURAS",JBN Internacional
+rtmp://hd.worldkast.com:1935/8506/ playpath=8506 swfUrl=http://control.worldkast.com/system/misc/jwplayer6/jwplayer.flash.swf live=1 pageUrl=http://www.telecatracha.com/2012/02/jbn-tv-internacional-honduras.html
+#EXTINF:-1 group-title="GUATEMALA",Canal 7 Televesiete
+http://72.46.226.61/live01/canal71/playlist.m3u8
+#EXTINF:-1 group-title="GUATEMALA",Canal 3 El Super Canal
+http://72.46.226.61/live01/canal31/playlist.m3u8
+#EXTINF:-1 group-title="GUATEMALA",Vea Canal
+http://iphone-streaming.ustream.tv/ustreamVideo/3935086/streams/live/playlist.m3u8
+#EXTINF:-1 group-title="GUATEMALA",TV Maya
+http://iphone-streaming.ustream.tv/ustreamVideo/9556054/streams/live/playlist.m3u8
+#EXTINF:-1 group-title="GUATEMALA",Guatevisión
+http://162.220.219.35:8081/live/stream1.sdp/playlist.m3u8
+#EXTINF:-1 group-title="EL SALVADOR",Canal 12
+http://streamup.global.ssl.fastly.net/app/tsltvs-channel/playlist.m3u9
+#EXTINF:-1 group-title="EL SALVADOR",Canal 6
+http://streamup.global.ssl.fastly.net/app/c3r000s3iss-channel/playlist.m3u8
+#EXTINF:-1 group-title="EL SALVADOR",Megavision Canal 21
+http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 group-title="EL SALVADOR",Canal 2
+http://streamup.global.ssl.fastly.net/app/tsltvs-channel/playlist.m3u8
+#EXTINF:-1 group-title="EL SALVADOR",Canal 33
+http://iphone-streaming.ustream.tv/uhls/4811076/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="EL SALVADOR",TRV
+http://xtrvnuestasenalx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 group-title="EL SALVADOR",Canal 4
+http://streamup.global.ssl.fastly.net/app/canal402ess-stream/playlist.m3u8
+#EXTINF:-1 group-title="COSTA RICA",27 TV
+http://cdn.siscompnetwork.com:1935/app/canal27.sdp/playlist.m3u8
+#EXTINF:-1 group-title="COSTA RICA",Canal 11
+http://72.46.226.61/live01/canal111/playlist.m3u8
+#EXTINF:-1 group-title="COSTA RICA",Canal 13
+http://stream01.cyberfuel.com/SinartCanal13/livestream/playlist.m3u8
+#EXTINF:-1 group-title="COSTA RICA",Canal 6 Repretel
+http://72.46.226.61/live01/canal61/playlist.m3u8
+#EXTINF:-1 group-title="COSTA RICA",Canal 9
+http://k3.usastreams.com:1935/canal9/canal9/playlist.m3u8
+#EXTINF:-1 group-title="COSTA RICA",Canal 42
+http://k3.usastreams.com:1935/canal42/canal42/playlist.m3u8
+#EXTINF:-1 group-title="COSTA RICA",Canal CB24
+http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="COSTA RICA",CDR Canal 2
+http://k3.usastreams.com:1935/extra/extra/playlist.m3u8
+#EXTINF:-1 group-title="COSTA RICA",Colosal TV
+http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8
+#EXTINF:-1 group-title="COSTA RICA",Tele Uno TV
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
+#EXTINF:-1 group-title="COSTA RICA",XperTV
+http://k3.usastreams.com:1935/tv33/tv33/playlist.m3u8
+#EXTINF:-1 group-title="COSTA RICA",SMO TV
+http://199.217.118.90:1935/smotv/stream/playlist.m3u8
+#EXTINF:-1 group-title="NICARAGUA",Viva Nicaragua (Canal 13)
+http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="NICARAGUA",Televicentro (Canal 2)
+http://104.131.200.207/genius/playkodi.php?lib=3286944
+#EXTINF:-1 group-title="NICARAGUA",Canal 4
+http://72.46.226.61/live01/canal41/playlist.m3u8
+#EXTINF:-1 group-title="ECUADOR",RTS Ecuador
+http://d2rcb4pdmqg3cg.cloudfront.net/liverts/smil:liverts.smil/chunklist_b899152.m3u8 
+#EXTINF:-1 group-title="ECUADOR",Televisión Nacional
+http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 group-title="URUGUAY",Canal U
+http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 group-title="URUGUAY",Canal Once
+http://q.gs/9830047/onceuuruguaytodokodim3u8
+#EXTINF:-1 group-title="REP. DOMINICANA",Antena Latina
+http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
+#EXTINF:-1 group-title="REP. DOMINICANA",Digital 15
+https://5315e9fe566ea.streamlock.net/live5/telemicro1515_2_96/playlist.m3u8
+#EXTINF:-1 group-title="REP. DOMINICANA",Tele Antillas
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+#EXTINF:-1 group-title="REP. DOMINICANA",TeleUniverso 29
+http://ss7.domint.net:1942/tu_str/universo/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1 group-title="REP. DOMINICANA",CDN 37
+http://108.168.206.90:1935/cdn/cdn/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1 group-title="REP. DOMINICANA",CDN SportMax
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+#EXTINF:-1 group-title="REP. DOMINICANA",Telesistema 11
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
+#EXTINF:-1 group-title="REP. DOMINICANA",Lunavision Canal 10
+http://ss7.domint.net:1986/yv_str/yuna/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1 group-title="REP. DOMINICANA",Musavisión
+http://joelzaiter1.srfms.com:1963/live/musav.sdp/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1 group-title="REP. DOMINICANA",PeraviaVision 8
+http://ss7.domint.net:1966/pr_str/peravia/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1 group-title="REP. DOMINICANA",Telefuturo 23
+http://ss7.domint.net:1950/tf_str/futu/hasbahca.m3u8#MegaIPTVArgentina
+#EXTINF:-1 group-title="REP. DOMINICANA",Certv
+http://216.24.196.40:1935/live/canal4/playlist.m3u8
+#EXTINF:-1 group-title="REP. DOMINICANA",Romana TV
+http://tv.romanatv42.com:1935/rtplive/romanatv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="REP. DOMINICANA",Telenord
+http://mek2.mekstream.com/telenord10/live2/playlist.m3u8
+#EXTINF:-1 group-title="REP. DOMINICANA",Telemicro 5
+https://5315e9fe566ea.streamlock.net/live5/telemicro0505_2_96/playlist.m3u8
+#EXTINF:-1 group-title="REP. DOMINICANA",Microvisión (La Vega)
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/253.m3u8
+#EXTINF:-1 group-title="PANAMÁ",RPC
+http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
+#EXTINF:-1 group-title="PANAMÁ",TVN
+http://urtmpkal-f.akamaihd.net/i/19wqj1kgf_1@136614/master.m3u8
+#EXTINF:-1 group-title="PANAMÁ",Telemetro
+http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8
+#EXTINF:-1 group-title="PANAMÁ",CB24
+http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="PANAMÁ",Cable Onda Sports
+http://d3tzxnygw45q3p.cloudfront.net/cos/media.smil/playlist.m3u8
+#EXTINF:-1 group-title="PANAMÁ",CDN Sports
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+#EXTINF:-1 group-title="PANAMÁ",TV Max
+http://urtmpkal-f.akamaihd.net/i/02lk0qtmr_1@136253/master.m3u8
+#EXTINF:-1 group-title="PANAMÁ",Cable Onda Sports 2 
+http://live.cableondasports.com/cos2/media.smil/playlist.m3u8
+#EXTINF:-1 group-title="PANAMÁ",Eco TV
+http://live.ecotvpanama.com/ecotv/media.smil/playlist.m3u8
+#EXTINF:-1 group-title="PANAMÁ",Nex TV
+http://190.102.61.118:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="PANAMÁ",TV Blast
+http://www.streaming507.com:1935/TVBlast/TVBlast/playlist.m3u8
+#EXTINF:-1 group-title="OTROS CANALES",Anime
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8 
+#EXTINF:-1 group-title="OTROS CANALES",Anime 2
+http://iphone-streaming.ustream.tv/uhls/15883775/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="OTROS CANALES",Los Simpsons
+http://iptvnation.com/simpsonslat.mp4
+#EXTINF:-1 group-title="OTROS CANALES",The Simpsons USA
+http://iptvnation.com/simpsons.mp4 
+#EXTINF:-1 group-title="OTROS CANALES",Cubavision
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/131.m3u8
+#EXTINF:-1 group-title="BAJA RESOLUCIÓN",A&E - BR
+http://200.76.77.237/LIVE/H01/CANAL211/PROFILE02.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="BAJA RESOLUCIÓN",AMC  - BR
+http://200.76.77.237/LIVE/H01/CANAL444/PROFILE02.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="BAJA RESOLUCIÓN",AXN - BR
+http://200.76.77.237/LIVE/H01/CANAL213/PROFILE02.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="BAJA RESOLUCIÓN",Az Clic - BR
+http://200.76.77.237/LIVE/H01/CANAL725/PROFILE02.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="BAJA RESOLUCIÓN",Az Corazon - BR
+http://200.76.77.237/LIVE/H01/CANAL250/PROFILE02.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="BAJA RESOLUCIÓN",BBC Entertainment - BR
+http://200.76.77.237/LIVE/H01/CANAL253/PROFILE02.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="BAJA RESOLUCIÓN",Canal 5 - BR
+http://200.76.77.237/LIVE/H01/CANAL105/PROFILE02.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="BAJA RESOLUCIÓN",CBeebies - BR
+http://200.76.77.237/LIVE/H01/CANAL305/PROFILE02.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="BAJA RESOLUCIÓN",Cinecanal+ - BR
+http://200.76.77.237/LIVE/H01/CANAL430/PROFILE02.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="BAJA RESOLUCIÓN",Comedy Central - BR
+http://200.76.77.237/LIVE/H01/CANAL217/PROFILE02.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="BAJA RESOLUCIÓN",De Pelicula  - BR
+http://200.76.77.237/LIVE/H01/CANAL442/PROFILE02.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="BAJA RESOLUCIÓN",Distrito Comedia - BR
+http://200.76.77.237/LIVE/H01/CANAL272/PROFILE02.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="BAJA RESOLUCIÓN",Canal De Las Estrellas - BR
+http://200.76.77.237/LIVE/H01/CANAL102/PROFILE02.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="BAJA RESOLUCIÓN",ForoTV HD - BR
+http://200.76.77.237/LIVE/H01/CANAL104/PROFILE02.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="BAJA RESOLUCIÓN",Fox - BR
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE02.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="BAJA RESOLUCIÓN",Fox 1 HD - BR
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE02.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="BAJA RESOLUCIÓN",Fox Action - BR
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE02.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="BAJA RESOLUCIÓN",Fox Life - BR
+http://200.76.77.237/LIVE/H01/CANAL271/PROFILE02.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="BAJA RESOLUCIÓN",Fox Movies - BR
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE02.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="BAJA RESOLUCIÓN",FX - BR
+http://200.76.77.237/LIVE/H01/CANAL209/PROFILE02.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="BAJA RESOLUCIÓN",Gala TV - BR
+http://200.76.77.237/LIVE/H01/CANAL109/PROFILE02.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="BAJA RESOLUCIÓN",Golden - BR
+http://200.76.77.237/LIVE/H01/CANAL436/PROFILE02.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="BAJA RESOLUCIÓN",History - BR
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE02.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="BAJA RESOLUCIÓN",Multimedios - BR
+http://200.76.77.237/LIVE/H01/CANAL167/PROFILE02.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="BAJA RESOLUCIÓN",Nick - BR
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE02.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="BAJA RESOLUCIÓN",Once TV - BR
+http://200.76.77.237/LIVE/H01/CANAL111/PROFILE02.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="BAJA RESOLUCIÓN",Proyecto 40 - BR
+http://200.76.77.237/LIVE/H01/CANAL140/PROFILE02.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="BAJA RESOLUCIÓN",Sony - BR
+http://200.76.77.237/LIVE/H01/CANAL203/PROFILE02.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="BAJA RESOLUCIÓN",The Film Zone - BR
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE02.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="BAJA RESOLUCIÓN",TNT HD - BR
+http://200.76.77.237/LIVE/H01/CANAL435/PROFILE02.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="BAJA RESOLUCIÓN",TNT Series - BR
+http://200.76.77.237/LIVE/H01/CANAL266/PROFILE02.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="BAJA RESOLUCIÓN",TruTV - BR
+http://200.76.77.237/LIVE/H01/CANAL215/PROFILE02.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="BAJA RESOLUCIÓN",Unicable - BR
+http://200.76.77.237/LIVE/H01/CANAL218/PROFILE02.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="BAJA RESOLUCIÓN",Warner HD - BR
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE02.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="BAJA RESOLUCIÓN",HMX - BR
+http://200.76.77.237/LIVE/H01/CANAL169/PROFILE02.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="BAJA RESOLUCIÓN",Trendy - BR
+http://200.76.77.237/LIVE/H01/CANAL279/PROFILE02.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="BAJA RESOLUCIÓN",F1 Latinoamerica - BR
+http://200.76.77.237/LIVE/H01/CANAL511/PROFILE02.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="BAJA RESOLUCIÓN",Fox Sports México - BR
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE02.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="BAJA RESOLUCIÓN",Fox Sports 2 México - BR
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE02.m3u8?playkodi=%2F.ts
+#EXTINF:-1 group-title="ADULTOS",Venus
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/24.m3u8
+#EXTINF:-1 group-title="ADULTOS",Sextreme
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/49.m3u8
+#EXTINF:-1 group-title="ADULTOS",Secrets
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/27.m3u8
+#EXTINF:-1 group-title="ADULTOS",Playboy
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/28.m3u8
+#EXTINF:-1 group-title="ADULTOS",Real
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/30.m3u8
+#EXTINF:-1 group-title="ADULTOS",Juicy
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/31.m3u8
+#EXTINF:-1 group-title="ADULTOS",Xtsy
+http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/33.m3u8
+#EXTINF:-1 group-title="ADULTOS",Passion XXX
+http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+#EXTINF:-1 group-title="ADULTOS",Private
+http://publish.thewebstream.co:1935/leved/_definst_/privateCom/playlist.m3u8
+#EXTINF:-1 group-title="ADULTOS",Brazzers TV
+http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
+#EXTINF:-1 group-title="ADULTOS",Olalá
+http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
+#EXTINF:-1 group-title="ADULTOS",Jasmin TV
+http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/204.m3u8
+#EXTINF:-1 group-title="ADULTOS",Babe Station
+http://5.189.152.43:11757/live/PlayKodi-PKC/PlayKodi-PKC/202.m3u8
