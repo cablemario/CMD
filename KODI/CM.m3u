@@ -27,7 +27,7 @@ http://ilv62.is.ustvnow.com:80/ilv62/mp4:146F4WHVLUSTVNOW3/playlist.m3u8?key=tbd
 #EXTINF:0 tvg-id="My9TV",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/170px-A%26E_Network_logo.svg.png",9. A&E
 http://ilv62.is.ustvnow.com:80/ilv62/mp4:2F6ABAETVUSTVNOW3/playlist.m3u8?key=tbd
 
-#EXTINF:0 tvg-id="My9TV",tvg-logo="http://static1.squarespace.com/static/54b58192e4b0f8034b6de0eb/54b82c61e4b0c2c1fae0400e/55c441dde4b0205372bbc0ff/1438925282329/amc-logo.png?format=300w",10. AMC
+#EXTINF:0 tvg-id="My9TV",tvg-logo="http://static1.squarespace.com/static/54b58192e4b0f8034b6de0eb/54b82c61e4b0c2c1fae0400e/55c441dde4b0205372bbc0ff/1438925282329/amc-logo.png",10. AMC
 http://ilv62.is.ustvnow.com:80/ilv62/mp4:9FA8AAMC0USTVNOW3/playlist.m3u8?key=tbd
 
 #EXTINF:0 tvg-id="My9TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Animal_Planet_logo_(1996-2008).png/90px-Animal_Planet_logo_(1996-2008).png",11. Animal Planet
@@ -48,6 +48,23 @@ http://ilv61.is.ustvnow.com:80/ilv61/mp4:A5960CNN0USTVNOW3/playlist.m3u8?key=tbd
 #EXTINF:0 tvg-id="CC",tvg-logo="http://images.bwwstatic.com/tvnetworklogos/sm0FBC9204-F9D0-52D8-1ABB2D89A1677A4A.jpg",16. Comedy Central
 http://ilv62.is.ustvnow.com:80/ilv62/mp4:C28B3COMEUSTVNOW3/playlist.m3u8?key=tbd
 
+#EXTINF:0 tvg-id="" tvg-name="" group-title="EUA (USA)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/.gif",HBO Comedy East
+http://co.exabytetv.info/cielos/jknjknkjjnlj--ExabyteTV-NO-PERTENECE-a-CarlosTecnoman-visita-facebook-ExabyteTV-------juijknnon/2556/exabytetvcielo.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="EUA (USA)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/.gif",HBO Signature East
+http://co.exabytetv.info/cielos/jknjknkjjnlj--ExabyteTV-NO-PERTENECE-a-CarlosTecnoman-visita-facebook-ExabyteTV-------juijknnon/2514/exabytetvcielo.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="EUA (USA)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/.gif",Showtime 2 East
+http://co.exabytetv.info/cielos/jknjknkjjnlj--ExabyteTV-NO-PERTENECE-a-CarlosTecnoman-visita-facebook-ExabyteTV-------juijknnon/2526/exabytetvcielo.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="EUA (USA)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/.gif",Showtime Beyond East
+http://co.exabytetv.info/cielos/jknjknkjjnlj--ExabyteTV-NO-PERTENECE-a-CarlosTecnoman-visita-facebook-ExabyteTV-------juijknnon/2530/exabytetvcielo.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="EUA (USA)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/.gif",Showtime Next
+http://co.exabytetv.info/cielos/jknjknkjjnlj--ExabyteTV-NO-PERTENECE-a-CarlosTecnoman-visita-facebook-ExabyteTV-------juijknnon/2652/exabytetvcielo.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="EUA (USA)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/.gif",Showtime Showcase East
+http://co.exabytetv.info/cielos/jknjknkjjnlj--ExabyteTV-NO-PERTENECE-a-CarlosTecnoman-visita-facebook-ExabyteTV-------juijknnon/2640/exabytetvcielo.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lh5.ggpht.com/c8zIihUuLdlk7PvzB5B4YUsZn7NNJ6iVbkiDl6bv3VmDB5RKukwv85YfCdzuK15u9bQ=w300",Azteca Noticias
