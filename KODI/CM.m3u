@@ -42,6 +42,13 @@ http://ilv53.is.ustvnow.com:80/ilv53/mp4:51F39CARTUSTVNOW3/playlist.m3u8?key=tbd
 #EXTINF:0 tvg-id="CNBC",tvg-logo="http://cdn.nhl.com/coyotes/bc/images/images/olympics/cnbc_small_logo.jpg",14. CNBC
 http://ilv62.is.ustvnow.com:80/ilv62/mp4:685F3CNBCUSTVNOW3/playlist.m3u8?key=tbd
 
+#EXTINF:0 tvg-id="CNN",tvg-logo="http://wattsweb.net/images/cnn-logo-small.jpg",15. CNN
+http://ilv61.is.ustvnow.com:80/ilv61/mp4:A5960CNN0USTVNOW3/playlist.m3u8?key=tbd
+
+#EXTINF:0 tvg-id="CC",tvg-logo="http://images.bwwstatic.com/tvnetworklogos/sm0FBC9204-F9D0-52D8-1ABB2D89A1677A4A.jpg",16. Comedy Central
+http://ilv62.is.ustvnow.com:80/ilv62/mp4:C28B3COMEUSTVNOW3/playlist.m3u8?key=tbd
+
+
 
 #EXTINF:-1 tvg-logo="https://lh5.ggpht.com/c8zIihUuLdlk7PvzB5B4YUsZn7NNJ6iVbkiDl6bv3VmDB5RKukwv85YfCdzuK15u9bQ=w300",Azteca Noticias
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL2/PROFILE03.m3u8
