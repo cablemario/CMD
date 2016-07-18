@@ -30,6 +30,15 @@ http://ilv62.is.ustvnow.com:80/ilv62/mp4:2F6ABAETVUSTVNOW3/playlist.m3u8?key=tbd
 #EXTINF:0 tvg-id="My9TV",tvg-logo="http://static1.squarespace.com/static/54b58192e4b0f8034b6de0eb/54b82c61e4b0c2c1fae0400e/55c441dde4b0205372bbc0ff/1438925282329/amc-logo.png?format=300w",10. AMC
 http://ilv62.is.ustvnow.com:80/ilv62/mp4:9FA8AAMC0USTVNOW3/playlist.m3u8?key=tbd
 
+#EXTINF:0 tvg-id="My9TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Animal_Planet_logo_(1996-2008).png/90px-Animal_Planet_logo_(1996-2008).png",11. Animal Planet
+http://ilv52.is.ustvnow.com:80/ilv52/mp4:88A99ANIMUSTVNOW3/playlist.m3u8?key=tbd
+
+#EXTINF:0 tvg-id="Bravo",tvg-logo="https://s-media-cache-ak0.pinimg.com/favicons/0d7576e65fba3de81685fdd9d6f166085390f3259ffa3bc43df13554.png?c7d0385a240f638ca31afaae7cb14208",12. Bravo
+http://ilv53.is.ustvnow.com:80/ilv53/mp4:C6171BRAVUSTVNOW3/playlist.m3u8?key=tbd
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://lh5.ggpht.com/c8zIihUuLdlk7PvzB5B4YUsZn7NNJ6iVbkiDl6bv3VmDB5RKukwv85YfCdzuK15u9bQ=w300",Azteca Noticias
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL2/PROFILE03.m3u8
