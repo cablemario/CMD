@@ -1,0 +1,62 @@
+#EXTM3U
+
+#EXTINF:-1,tvg-logo="https://www.tudecide.com/assets/images/empresas/detalle/totalplay_3.png",1. Total Play
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL1/PROFILE03.m3u8
+
+#EXTINF:0 tvg-id="ABC",tvg-logo="http://cdn.media.abc.com/m/images/global/butterscotch/abccom_logo.png",2. ABC
+http://ilv62.is.ustvnow.com:80/ilv62/mp4:E0AA3WHTMUSTVNOW3/playlist.m3u8?key=tbd
+
+#EXTINF:0 tvg-id="CBS",tvg-logo="http://cdn.shopify.com/s/files/1/0190/6652/files/CBS.png?1782",3. CBS
+http://ilv52.is.ustvnow.com:80/ilv52/mp4:CABD5WHP0USTVNOW3/playlist.m3u8?key=tbd
+
+#EXTINF:0 tvg-id="CW",tvg-logo="http://leakynews.s3.amazonaws.com/pub/wp-content/uploads/2014/05/12-the-cw.jpg",4. CW
+http://ilv53.is.ustvnow.com:80/ilv53/mp4:BF1CEWLYHUSTVNOW3/playlist.m3u8?key=tbd
+
+#EXTINF:0 tvg-id="FOX7", tvg-logo="http://static.lakana.com/lakana-fox-global/theme/images/ktbc/logo-fox-7-austin-ktbc-alt.png",5. FOX
+http://co.exabytetv.info/cielos/jknjknkjjnlj--ExabyteTV-NO-PERTENECE-a-CarlosTecnoman-visita-facebook-ExabyteTV-------juijknnon/1968/exabytetvcielo.m3u8
+
+#EXTINF:0 tvg-id="NBC",tvg-logo="https://pmcdeadline2.files.wordpress.com/2015/12/nbc-logo.jpg",6. NBC
+http://ilv52.is.ustvnow.com:80/ilv52/mp4:49EE9WGALUSTVNOW3/playlist.m3u8?key=tbd
+
+#EXTINF:0 tvg-id="PBS",tvg-logo="http://dl47xs20witg8.cloudfront.net/images/fpo/verticals/logo-pbs-learning-media.5ceff18af299.png",7. PBS
+http://ilv61.is.ustvnow.com:80/ilv61/mp4:CFB71WPSUUSTVNOW3/playlist.m3u8?key=tbd
+
+#EXTINF:0 tvg-id="My9TV",tvg-logo="http://blog.rsanyc.net/property-rights/wp-content/uploads/2012/05/my9logo.25294251_std.gif",8. My9 TV
+http://ilv62.is.ustvnow.com:80/ilv62/mp4:146F4WHVLUSTVNOW3/playlist.m3u8?key=tbd
+
+#EXTINF:0 tvg-id="My9TV",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/170px-A%26E_Network_logo.svg.png",9. A&E
+http://ilv62.is.ustvnow.com:80/ilv62/mp4:2F6ABAETVUSTVNOW3/playlist.m3u8?key=tbd
+
+#EXTINF:0 tvg-id="My9TV",tvg-logo="http://static1.squarespace.com/static/54b58192e4b0f8034b6de0eb/54b82c61e4b0c2c1fae0400e/55c441dde4b0205372bbc0ff/1438925282329/amc-logo.png?format=300w",10. AMC
+http://ilv62.is.ustvnow.com:80/ilv62/mp4:9FA8AAMC0USTVNOW3/playlist.m3u8?key=tbd
+
+
+#EXTINF:-1 tvg-logo="https://lh5.ggpht.com/c8zIihUuLdlk7PvzB5B4YUsZn7NNJ6iVbkiDl6bv3VmDB5RKukwv85YfCdzuK15u9bQ=w300",Azteca Noticias
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL2/PROFILE03.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.tecnotv.net/logo/azteca%207.png",Azteca 7 HD
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL7/PROFILE03.m3u8
+
+
+#EXTINF:0 tvg-id="El Trece", tvg-logo="http://y.cdn.entutele.com/media/channels/big/el-trece.gif",El Trece
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL13/PROFILE03.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.mediavyasa.com.mx/archivos/representantes/logo/logoproyecto40_644.jpg",Proyecto 40
+http://premium.exabytetv.info/total2/jknjknkjjnlj--ExabyteTV-NO-PERTENECE-a-CarlosTecnoman-visita-facebook-ExabyteTV-------juijknnon/505/exabytetv.m3u8
+
+#EXTINF:-1 tvg-logo="http://cincotv.com/v2/wp-content/uploads/2014/04/enlace-5tv1.png", Canal 5 TV Coahuila
+http://play.gvstream.net:554/e-tv-video/default.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.canal66.tv/wp-content/uploads/2015/01/logo-sticky2.png",Canal 66 Mexicali
+http://canal44-lh.akamaihd.net/i/ch_mexicali@325633/master.m3u8
+
+#EXTINF:0 tvg-id="Az Corazón", tvg-logo="http://www.supercable.com.pe/uploads/5/3/5/0/53505143/_5362891.jpg ",Az Corazón
+http://premium.exabytetv.info/total2/jknjknkjjnlj--ExabyteTV-NO-PERTENECE-a-CarlosTecnoman-visita-facebook-ExabyteTV-------juijknnon/403/exabytetv.m3u8
+
+#EXTINF:0 tvg-id="Canal 2", tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-2.gif",Canal De Las Estrellas
+http://premium.exabytetv.info/total2/jknjknkjjnlj--ExabyteTV-NO-PERTENECE-a-CarlosTecnoman-visita-facebook-ExabyteTV-------juijknnon/395/exabytetv.m3u8
+
+#EXTINF:0 tvg-id="Az Clic" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-clic.gif",Az Clic
+http://premium.exabytetv.info/total2/jknjknkjjnlj--ExabyteTV-NO-PERTENECE-a-CarlosTecnoman-visita-facebook-ExabyteTV-------juijknnon/402/exabytetv.m3u8
