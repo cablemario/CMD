@@ -48,6 +48,9 @@ http://ilv61.is.ustvnow.com:80/ilv61/mp4:A5960CNN0USTVNOW3/playlist.m3u8?key=tbd
 #EXTINF:0 tvg-id="CC",tvg-logo="http://images.bwwstatic.com/tvnetworklogos/sm0FBC9204-F9D0-52D8-1ABB2D89A1677A4A.jpg",16. Comedy Central
 http://ilv62.is.ustvnow.com:80/ilv62/mp4:C28B3COMEUSTVNOW3/playlist.m3u8?key=tbd
 
+#EXTINF:0 tvg-id="" tvg-name="" group-title="DEPORTES" tvg-logo="http://y.cdn.entutele.com/media/channels/big/.gif",Sky Sports en Español
+http://co.exabytetv.info/cielos/jknjknkjjnlj--ExabyteTV-NO-PERTENECE-a-CarlosTecnoman-visita-facebook-ExabyteTV-------juijknnon/3032/exabytetvcielo.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" group-title="EUA (USA)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/.gif",HBO Comedy East
 http://co.exabytetv.info/cielos/jknjknkjjnlj--ExabyteTV-NO-PERTENECE-a-CarlosTecnoman-visita-facebook-ExabyteTV-------juijknnon/2556/exabytetvcielo.m3u8
 
