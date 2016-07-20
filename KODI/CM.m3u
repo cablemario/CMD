@@ -4,10 +4,10 @@
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL1/PROFILE03.m3u8
 
 #EXTINF:0 tvg-id="ABC",tvg-logo="http://cdn.media.abc.com/m/images/global/butterscotch/abccom_logo.png",2. ABC
-http://ilv62.is.ustvnow.com:80/ilv62/mp4:E0AA3WHTMUSTVNOW3/playlist.m3u8?key=tbd
+http://ilv62.is.ustvnow.com:80/ilv62/mp4:1A661WHTMUSTVNOW3/playlist.m3u8?key=tbd
 
 #EXTINF:0 tvg-id="CBS",tvg-logo="http://cdn.shopify.com/s/files/1/0190/6652/files/CBS.png?1782",3. CBS
-http://ilv52.is.ustvnow.com:80/ilv52/mp4:CABD5WHP0USTVNOW3/playlist.m3u8?key=tbd
+http://ilv52.is.ustvnow.com:80/ilv52/mp4:83A14WHP0USTVNOW3/playlist.m3u8?key=tbd
 
 #EXTINF:0 tvg-id="CW",tvg-logo="http://leakynews.s3.amazonaws.com/pub/wp-content/uploads/2014/05/12-the-cw.jpg",4. CW
 http://ilv53.is.ustvnow.com:80/ilv53/mp4:BF1CEWLYHUSTVNOW3/playlist.m3u8?key=tbd
@@ -46,56 +46,10 @@ http://ilv62.is.ustvnow.com:80/ilv62/mp4:685F3CNBCUSTVNOW3/playlist.m3u8?key=tbd
 http://ilv61.is.ustvnow.com:80/ilv61/mp4:A5960CNN0USTVNOW3/playlist.m3u8?key=tbd
 
 #EXTINF:0 tvg-id="CC",tvg-logo="http://images.bwwstatic.com/tvnetworklogos/sm0FBC9204-F9D0-52D8-1ABB2D89A1677A4A.jpg",16. Comedy Central
-http://ilv62.is.ustvnow.com:80/ilv62/mp4:C28B3COMEUSTVNOW3/playlist.m3u8?key=tbd
+http://ilv62.is.ustvnow.com:80/ilv62/mp4:D7216COMEUSTVNOW3/playlist.m3u8?key=tbd
 
-#EXTINF:0 tvg-id="" tvg-name="" group-title="DEPORTES" tvg-logo="http://y.cdn.entutele.com/media/channels/big/.gif",Sky Sports en Español
-http://co.exabytetv.info/cielos/jknjknkjjnlj--ExabyteTV-NO-PERTENECE-a-CarlosTecnoman-visita-facebook-ExabyteTV-------juijknnon/3032/exabytetvcielo.m3u8
+#EXTINF:0 tvg-id="CC",tvg-logo="http://images.bwwstatic.com/tvnetworklogos/sm0FBC9204-F9D0-52D8-1ABB2D89A1677A4A.jpg", CTV
+http://live-1130.la2.edge.filmon.com/live/2053.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3bfe5410cadd4ae0c6208151eb96d985eb1618fcaa5d6fdee424481c026bb91d41e9e883a9fe5b7258288c8b27bb519f9368f0e78ef46f6710a6f83ea05119307a6b5801b845f859430a259687b4efbb2cd0ae138f16ee3105e1906e72c0fcc1e78f665787f74206af0cdf9444f3fc9b558179af4d41ae6b5
 
-#EXTINF:0 tvg-id="" tvg-name="" group-title="EUA (USA)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/.gif",HBO Comedy East
-http://co.exabytetv.info/cielos/jknjknkjjnlj--ExabyteTV-NO-PERTENECE-a-CarlosTecnoman-visita-facebook-ExabyteTV-------juijknnon/2556/exabytetvcielo.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" group-title="EUA (USA)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/.gif",HBO Signature East
-http://co.exabytetv.info/cielos/jknjknkjjnlj--ExabyteTV-NO-PERTENECE-a-CarlosTecnoman-visita-facebook-ExabyteTV-------juijknnon/2514/exabytetvcielo.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" group-title="EUA (USA)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/.gif",Showtime 2 East
-http://co.exabytetv.info/cielos/jknjknkjjnlj--ExabyteTV-NO-PERTENECE-a-CarlosTecnoman-visita-facebook-ExabyteTV-------juijknnon/2526/exabytetvcielo.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" group-title="EUA (USA)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/.gif",Showtime Beyond East
-http://co.exabytetv.info/cielos/jknjknkjjnlj--ExabyteTV-NO-PERTENECE-a-CarlosTecnoman-visita-facebook-ExabyteTV-------juijknnon/2530/exabytetvcielo.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" group-title="EUA (USA)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/.gif",Showtime Next
-http://co.exabytetv.info/cielos/jknjknkjjnlj--ExabyteTV-NO-PERTENECE-a-CarlosTecnoman-visita-facebook-ExabyteTV-------juijknnon/2652/exabytetvcielo.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" group-title="EUA (USA)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/.gif",Showtime Showcase East
-http://co.exabytetv.info/cielos/jknjknkjjnlj--ExabyteTV-NO-PERTENECE-a-CarlosTecnoman-visita-facebook-ExabyteTV-------juijknnon/2640/exabytetvcielo.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://lh5.ggpht.com/c8zIihUuLdlk7PvzB5B4YUsZn7NNJ6iVbkiDl6bv3VmDB5RKukwv85YfCdzuK15u9bQ=w300",Azteca Noticias
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL2/PROFILE03.m3u8
-
-#EXTINF:-1 tvg-logo="http://tv.tecnotv.net/logo/azteca%207.png",Azteca 7 HD
-
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL7/PROFILE03.m3u8
-
-
-#EXTINF:0 tvg-id="El Trece", tvg-logo="http://y.cdn.entutele.com/media/channels/big/el-trece.gif",El Trece
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL13/PROFILE03.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.mediavyasa.com.mx/archivos/representantes/logo/logoproyecto40_644.jpg",Proyecto 40
-http://premium.exabytetv.info/total2/jknjknkjjnlj--ExabyteTV-NO-PERTENECE-a-CarlosTecnoman-visita-facebook-ExabyteTV-------juijknnon/505/exabytetv.m3u8
-
-#EXTINF:-1 tvg-logo="http://cincotv.com/v2/wp-content/uploads/2014/04/enlace-5tv1.png", Canal 5 TV Coahuila
-http://play.gvstream.net:554/e-tv-video/default.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.canal66.tv/wp-content/uploads/2015/01/logo-sticky2.png",Canal 66 Mexicali
-http://canal44-lh.akamaihd.net/i/ch_mexicali@325633/master.m3u8
-
-#EXTINF:0 tvg-id="Az Corazón", tvg-logo="http://www.supercable.com.pe/uploads/5/3/5/0/53505143/_5362891.jpg ",Az Corazón
-http://premium.exabytetv.info/total2/jknjknkjjnlj--ExabyteTV-NO-PERTENECE-a-CarlosTecnoman-visita-facebook-ExabyteTV-------juijknnon/403/exabytetv.m3u8
-
-#EXTINF:0 tvg-id="Canal 2", tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-2.gif",Canal De Las Estrellas
-http://premium.exabytetv.info/total2/jknjknkjjnlj--ExabyteTV-NO-PERTENECE-a-CarlosTecnoman-visita-facebook-ExabyteTV-------juijknnon/395/exabytetv.m3u8
-
-#EXTINF:0 tvg-id="Az Clic" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-clic.gif",Az Clic
-http://premium.exabytetv.info/total2/jknjknkjjnlj--ExabyteTV-NO-PERTENECE-a-CarlosTecnoman-visita-facebook-ExabyteTV-------juijknnon/402/exabytetv.m3u8
+#EXTINF:0 tvg-id="CC",tvg-logo="http://images.bwwstatic.com/tvnetworklogos/sm0FBC9204-F9D0-52D8-1ABB2D89A1677A4A.jpg", City
+http://btflash-lh.akamaihd.net/i/BTVANFLASH_live@120224/master.m3u8
