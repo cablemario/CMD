@@ -21,6 +21,8 @@ rtmp://k3.usastreams.com:1935/tv33/tv33
 #EXTINF:-1, Canal 14 Sur
 http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
 
-
 #EXTINF:-1, Bein Sports
 http://freedom.duki.me/LIVE/H04/bein_sp_hd/master.m3u8
+
+#EXTINF:-1, ESPN Deportes
+http://freedom.duki.me/LIVE/H04/espn_dep_esp_hd/master.m3u8
