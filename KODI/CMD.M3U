@@ -60,3 +60,6 @@ http://freedom.duki.me/LIVE/H02/NBCSportNetworkUS/master.m3u8
 #EXTINF:-1, Sky Sports
 http://freedom.duki.me/LIVE/H02/PlanetaFutbolLA/master.m3u8
 
+#EXTINF:-1, Claro Sports
+http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(04)/index.m3u8
+
