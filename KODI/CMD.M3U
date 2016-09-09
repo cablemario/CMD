@@ -66,5 +66,20 @@ http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(jjoo201
 #EXTINF:-1, ABC NY
 http://freedom.duki.me/LIVE/H04/abc_hd_ny/master.m3u8
 
+#EXTINF:-1, A&E
+http://freedom.duki.me/LIVE/H04/ae_hd/master.m3u8
 
+#EXTINF:-1, Animal Planet
+http://freedom.duki.me/LIVE/H02/AnimalPlanetUS/master.m3u8
 
+#EXTINF:-1, Bravo
+http://freedom.duki.me/LIVE/H04/bravo_hd/master.m3u8
+
+#EXTINF:-1, Cartoon Network
+http://freedom.duki.me/LIVE/H04/cartoon_network/master.m3u8
+
+#EXTINF:-1, CBS NY
+http://freedom.duki.me/LIVE/H04/cbs_hd_ny/master.m3u8
+
+#EXTINF:-1, CNBC
+http://freedom.duki.me/LIVE/H04/cnbc/master.m3u8
