@@ -63,3 +63,8 @@ http://freedom.duki.me/LIVE/H02/PlanetaFutbolLA/master.m3u8
 #EXTINF:-1, Claro Sports
 http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(04)/index.m3u8
 
+#EXTINF:-1, ABC NY
+http://freedom.duki.me/LIVE/H04/abc_hd_ny/master.m3u8
+
+
+
