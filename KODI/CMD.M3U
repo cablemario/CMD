@@ -141,3 +141,12 @@ http://freedom.duki.me/LIVE/H04/tnt_usa_hd/master.m3u8
 #EXTINF:-1, USA
 http://freedom.duki.me/LIVE/H04/usa_net_hd/master.m3u8
 
+#EXTINF:-1, AMC
+http://freedom.duki.me/LIVE/H04/amc/master.m3u8
+
+#EXTINF:-1, CBC Montreal
+http://freedom.duki.me/LIVE/H04/cbc_montreal_hd/master.m3u8
+
+#EXTINF:-1, Cooking Channel
+http://freedom.duki.me/LIVE/H04/cooking_hd/master.m3u8
+
