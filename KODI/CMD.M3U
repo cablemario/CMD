@@ -24,5 +24,39 @@ http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
 #EXTINF:-1, Bein Sports
 http://freedom.duki.me/LIVE/H04/bein_sp_hd/master.m3u8
 
+#EXTINF:-1, Bein Sports
+http://freedom.duki.me/LIVE/H02/BeinSportsLA/master.m3u8
+
 #EXTINF:-1, ESPN Deportes
 http://freedom.duki.me/LIVE/H04/espn_dep_esp_hd/master.m3u8
+
+#EXTINF:-1, FOX Deportes
+http://freedom.duki.me/LIVE/H04/fox_sp_latino_hd/master.m3u8
+
+#EXTINF:-1, FOX Sports Argentina
+http://freedom.duki.me/LIVE/H03/tv-foxar/playlist.m3u8
+
+#EXTINF:-1, Movistar Futbol
+http://freedom.duki.me/LIVE/H04/plus_futbol/master.m3u8
+
+#EXTINF:-1, La Liga TV
+http://freedom.duki.me/LIVE/H04/plus_liga/master.m3u8
+
+#EXTINF:-1, TDN
+http://freedom.duki.me/LIVE/H04/sky_sport_39/master.m3u8
+
+#EXTINF:-1, Univision TDN
+http://freedom.duki.me/LIVE/H04/univision_hd_tdn/master.m3u8
+
+#EXTINF:-1, CBS Sports Network
+http://freedom.duki.me/LIVE/H02/CBSSportsNetworkUS/master.m3u8
+
+#EXTINF:-1, Comcast SportsNet
+http://freedom.duki.me/LIVE/H02/CSNBAUS/master.m3u8
+
+#EXTINF:-1, NBC Sports Network
+http://freedom.duki.me/LIVE/H02/NBCSportNetworkUS/master.m3u8
+
+#EXTINF:-1, Sky Sports
+http://freedom.duki.me/LIVE/H02/PlanetaFutbolLA/master.m3u8
+
