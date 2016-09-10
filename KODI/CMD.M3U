@@ -63,6 +63,9 @@ http://freedom.duki.me/LIVE/H02/PlanetaFutbolLA/master.m3u8
 #EXTINF:-1, Claro Sports
 http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(04)/index.m3u8
 
+#EXTINF:-1, TyC
+http://freedom.duki.me/LIVE/H03/tv-tyc/playlist.m3u8
+
 #EXTINF:-1, ABC NY
 http://freedom.duki.me/LIVE/H04/abc_hd_ny/master.m3u8
 
@@ -212,4 +215,22 @@ http://freedom.duki.me/LIVE/H02/OvationUS/master.m3u8
 
 #EXTINF:-1, Oxygen
 http://freedom.duki.me/LIVE/H02/OxygenSD/master.m3u8
+
+#EXTINF:-1, TruTV
+http://freedom.duki.me/LIVE/H02/TruTVUS/master.m3u8
+
+#EXTINF:-1, Canal 9 Argentina
+http://freedom.duki.me/LIVE/H03/tv-canal9/playlist.m3u8
+
+#EXTINF:-1, Cronica Argentina
+http://freedom.duki.me/LIVE/H03/tv-cronica/playlist.m3u8
+
+#EXTINF:-1, El Trece Argentina
+http://freedom.duki.me/LIVE/H03/tv-eltrece/playlist.m3u8
+
+#EXTINF:-1, Telefe Argentina
+http://freedom.duki.me/LIVE/H03/tv-telefe/playlist.m3u8
+
+#EXTINF:-1, TV Publica Argentina
+http://freedom.duki.me/LIVE/H03/tv-tvp/playlist.m3u8
 
