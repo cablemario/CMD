@@ -191,3 +191,25 @@ http://freedom.duki.me/LIVE/H02/CrimeInvNetUS/master.m3u8
 
 #EXTINF:-1, DIY Network
 http://freedom.duki.me/LIVE/H02/DIYNetworkHD/master.m3u8
+
+#EXTINF:-1, HGTV
+http://freedom.duki.me/LIVE/H02/HGTVUS/master.m3u8
+
+#EXTINF:-1, Investigation Discovery
+http://freedom.duki.me/LIVE/H02/IDUS/master.m3u8
+
+#EXTINF:-1, IFC
+http://freedom.duki.me/LIVE/H02/IFCHD/master.m3u8
+
+#EXTINF:-1, ION Television
+http://freedom.duki.me/LIVE/H02/IONTVEastUS/master.m3u8
+
+#EXTINF:-1, NatGeo Wild
+http://freedom.duki.me/LIVE/H02/NatGeoWildUS/master.m3u8
+
+#EXTINF:-1, Ovation
+http://freedom.duki.me/LIVE/H02/OvationUS/master.m3u8
+
+#EXTINF:-1, Oxygen
+http://freedom.duki.me/LIVE/H02/OxygenSD/master.m3u8
+
