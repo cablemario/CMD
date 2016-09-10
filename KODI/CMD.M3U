@@ -246,7 +246,7 @@ http://freedom.duki.me/LIVE/H04/azteca_13/master.m3u8
 #EXTINF:-1, Televisa 2
 http://freedom.duki.me/LIVE/H04/canal_de_las_estrellas/master.m3u8
 
-EXTINF:-1, Televisa 5
+#EXTINF:-1, Televisa 5
 http://freedom.duki.me/LIVE/H04/canal_5/master.m3u8
 
 
