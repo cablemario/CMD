@@ -16,19 +16,19 @@ http://d3ha0sloduwpku.cloudfront.net/cr/canal6/smil:v2.smil/chunklist_b1098304_s
 http://stream-04.nyc.dailymotion.com/40/dm/3/x29e3wg/live-2.m3u8
 #EXTINF:-1 channelId="" tvg-logo="http://www.transdatelecom.com/images/logos/super5_pqno.png",Super 5
 http://k3.usastreams.com:1935/superC/_definst_/mp4:superC_1/playlist.m3u8
-#EXTINF:-1 channelId="" tvg-logo="",TV Sur Canal 9
+#EXTINF:-1 channelId="" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/tv-sur-canal-9.png",TV Sur Canal 9
 http://k3.usastreams.com:1935/tvsur1/tvsur1/playlist.m3u8
 #EXTINF:-1 channelId="" tvg-logo="http://ulango.tv/uploads/channels/3781239/logo_tele%20red%20alajuela2.png",Telered
 http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
 #EXTINF:-1 channelId="Canal 11 de Costa Rica" tvg-logo="https://imagenes.gatotv.com/logos/canales/11_de_costa_rica-mediano.png",Repretel Canal 11
 http://d2p1i9loz7pbh0.cloudfront.net/cr/canal11/smil:v2.smil/chunklist_b1098304_sles.m3u8
-#EXTINF:-1 channelId="https://yt3.ggpht.com/-nHFCYDL5_2o/AAAAAAAAAAI/AAAAAAAAAAA/5nCxkCQReb8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-logo="",TeleSur Costa Rica
+#EXTINF:-1 channelId="" tvg-logo="https://yt3.ggpht.com/-nHFCYDL5_2o/AAAAAAAAAAI/AAAAAAAAAAA/5nCxkCQReb8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",TeleSur Costa Rica
 http://k3.usastreams.com/telesur/telesur/chunklist_w325330212.m3u8
-#EXTINF:-1,Sinart 13
+#EXTINF:-1 channelId="" tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Canal-Trece-Costa-Rica.png",Sinart 13
 http://stream02.cyberfuel.com:1935/SinartCanal13/livestream/live.m3u8
-#EXTINF:-1,TV Sur Canal 14
+#EXTINF:-1 channelId="" tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/TV-Sur-Canal-14.png",TV Sur Canal 14
 http://205.164.56.130:1935/tvsur81/tvsur81/chunklist_w777012662.m3u8
-#EXTINF:-1,Colosal TV
+#EXTINF:-1 channelId="" tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Colosal-TV.png",Colosal TV
 rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
 #EXTINF:-1,Anexion
 http://tvhd.rtmp.info:1935/anexiontv/envivo/playlist.m3u8
@@ -61,8 +61,7 @@ http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
 http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-360p/chunks.m3u8
 #EXTINF:-1,RPC Panama
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/3632.ts
-#EXTINF:-1,TV Max Panama
-http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/3742.ts
+
 #EXTINF:0 channelId="Canal 2 de Panamá (TVN-2)" tvg-logo="https://imagenes.gatotv.com/logos/canales/tvn-2.png",TV2 Panama
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/3741.ts
 
@@ -125,8 +124,7 @@ http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?
 
 #EXTINF:-1 tvg-id="LA1.es" tvg-name="LA1.es",La 1
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/452.ts
-#EXTINF:-1 tvg-id="LA1.es" tvg-name="LA1.es",La 1
-http://tepo2.telesport.pw/live/tve1/index.m3u8?token=evS-IIT2Upg8vvVZZcdSwg&expires=1511295829|User-Agent=iPad&Referer=http://vergol.com/live/tve1.php
+
 #EXTINF:-1 tvg-id="LA2.es" tvg-name="LA1.es",La 2
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/451.ts
 #EXTINF:-1 tvg-id="Antena3.sp" tvg-name="Antena3.sp",Antena 3
@@ -134,9 +132,11 @@ http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/467.ts
 #EXTINF:-1 tvg-id="Cuatro.sp" tvg-name="Cuatro.sp",Cuatro
 http://peto20.pedromo.online/live/cuatro/index.m3u8?token=HGROgZYQo6GOqcsq_cTbyw&expires=1511297553|User-Agent=iPad&Referer=http://vergol.com/live1/cuatro.php
 #EXTINF:-1 tvg-id="Telecinco.sp" tvg-name="Telecinco.sp",Telecinco
-http://peto21.pedromo.online/live/telecinco/index.m3u8?token=KwpW7SvPQnvrGOqTNZ_6aQ&expires=1511297893|User-Agent=iPad&Referer=http://vergol.com/live/tve1.php
+http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/5d62490854b545598f64eaa84709400b.m3u8
 #EXTINF:-1 tvg-id="LaSexta.sp" tvg-name="LaSexta.sp",La Sexta
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.formulatv.com/images/noticias/46500/46553/2_bb2bd46121.jpg", Mega
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
 
 
 #EXTINF:-1 tvg-id="AE.mx" tvg-name="A&E HD" tvg-logo="https://s6.postimg.org/rre1wook1/aehd.png,A&E
@@ -687,7 +687,8 @@ http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uUb3vwe.png,Weather Nation
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-
+#EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2015/03/destination-america.jpg?w=1000&h=563&crop=1", DESTINATION AMERICA
+http://pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8
 
 
 
