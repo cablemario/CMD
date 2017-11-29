@@ -30,14 +30,15 @@ http://stream02.cyberfuel.com:1935/SinartCanal13/livestream/live.m3u8
 http://205.164.56.130:1935/tvsur81/tvsur81/chunklist_w777012662.m3u8
 #EXTINF:-1 channelId="" tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Colosal-TV.png",Colosal TV
 rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
-#EXTINF:-1,Anexion
+#EXTINF:-1 channelId="" tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/anexiontv.png",Anexion
 http://tvhd.rtmp.info:1935/anexiontv/envivo/playlist.m3u8
-#EXTINF:-1,Canal 36
+#EXTINF:-1 channelId="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/canal-36.png",Canal 36
 http://servicioamerica.com:1935/8022/8022/playlist.m3u8
 #EXTINF:0 channelId="Canal Extra TV 42 de Costa Rica" tvg-logo="https://imagenes.gatotv.com/logos/canales/extra_tv_42_de_costa_rica-mediano.png" ,Extra TV 42
 http://k3.usastreams.com:1935/canal42/canal42/live.m3u8
 #EXTINF:-1,Pura Vida
-https://live3.userapi.com/613505/live/5IvK1RhAfwQd5ZIe/playlist.m3u8
+http://d3ha0sloduwpku.cloudfront.net/cr/canal11/smil:v2.smil/chunklist_b1098304_sles.m3u8
+
 
 #EXTINF:-1, HCH
 http://stream.innovandote.com/hch/hch/chunklist_w166252436.m3u8
