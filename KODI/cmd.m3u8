@@ -70,7 +70,7 @@ http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/3741.ts
 
 #EXTINF:-1 ,America Teve
 http://api.new.livestream.com/accounts/5730046/events/2966225/live.m3u8
-#EXTINF:-1,Canal Claro
+#EXTINF:-1 channelId="" tvg-logo="http://www.rapifutbol.tv/javax.faces.resource/dynamiccontent.properties.jsf;jsessionid=-SRWq4cm+RZpUv8yqbvIQCdV.undefined?ln=primefaces&pfdrid=H6AojLbKHXAw5VxJc9SUY69uDesOzTvP&pfdrt=sc&id=1956&pfdrid_c=true",Canal Claro
 http://latamlivechannelshls.clarovideo.com/Content/hls_clear/Live/Channel(CANAL_CLARO_HD)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="Canal NBC Universo (Este)" tvg-name="UNIVERSO.us" tvg-logo="http://static.iptv-epg.com/us/NBCUniverso.us.png",NBC Universo
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/1456.ts
