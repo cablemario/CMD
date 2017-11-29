@@ -47,7 +47,8 @@ http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/master.m3u8
 #EXTINF:-1 channelId="" tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/TEN-TV-Honduras.png",Canal 10 Honduras
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
 
-
+#EXTINF:-1 channelId="" tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Canal-21-El-Salvador.png", Canal 21 El Salvador
+http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
 
 #EXTINF:0 channelId="Canal 3 de Guatemala (El Super Canal)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/3_de_guatemala_el_super_canal-mediano.png",Canal 3 Guatemala
 http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_3.smil/chunklist_b1155072.m3u8
@@ -89,6 +90,8 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARACOL_HD)/Stream(
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(RCN_HD)/Stream(01)/index.m3u8
 #EXTINF:-1 channelId="" tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Se%C3%B1al-Colombia.png",Señal Colombia
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SENAL_COLOMBIA_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 channelId="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/INTI_Network.jpg",Inti Network
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(INTI_HD)/Stream(01)/index.m3u8
 
 
 
@@ -121,6 +124,8 @@ http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/3506.ts
 #EXTINF:-1 channelId="" tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/tvmas.png",TVMAS
 http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="Televisa MTY" tvg-logo="http://158.69.52.43:8000/imagenes/4037.jpg",Televisa MTY
+http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/4037.ts
 
 
 #EXTINF:-1 channelId="" tvg-logo="",
@@ -497,6 +502,9 @@ http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/86.ts
 
 #EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="Studio Universal MX" tvg-logo="https://s31.postimg.org/g269c061n/studio_uni.png,Studio Universal
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/87.ts
+
+#EXTINF:-1 channelId="" tvg-logo="",Sundance Channel
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SUNDANCE_HD)/Stream(01)/index.m3u8
 
 #EXTINF:-1 tvg-id="TCM.mx" tvg-name="TCM MX" tvg-logo="https://s6.postimg.org/6u8n0jbrl/nuevo_logo_tcm.png,TCM
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/89.ts
