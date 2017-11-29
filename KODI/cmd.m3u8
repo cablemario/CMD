@@ -82,16 +82,19 @@ http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/482.ts
 #EXTINF:-1 tvg-id="Univision.co" tvg-name="Univision HD" tvg-logo="https://s6.postimg.org/9mu32qonl/univision.png,Univision
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/1455.ts
 
-
-
+#EXTINF:-1,Canal Uno
+http://live10.cdnmedia.tv/canalunolive/smil:live.smil/playlist.m3u8
 #EXTINF:-1,Caracol
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARACOL_HD)/Stream(01)/index.m3u8
 #EXTINF:-1 channelId="" tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/RCN-Televisi%C3%B3n.png",RCN
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(RCN_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 channelId="" tvg-logo="http://images.mi.tv/channels/08ad2794-3741-4066-b6a3-2760b803b4ee_m.jpg",RCN Nuestra Tele
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NUESTRA_TELE)/Stream(01)/index.m3u8
 #EXTINF:-1 channelId="" tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Se%C3%B1al-Colombia.png",Señal Colombia
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SENAL_COLOMBIA_HD)/Stream(01)/index.m3u8
 #EXTINF:-1 channelId="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/INTI_Network.jpg",Inti Network
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(INTI_HD)/Stream(01)/index.m3u8
+
 
 
 
@@ -183,15 +186,15 @@ http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/39.ts
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/76.ts
 #EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT Series MX HD" tvg-logo="https://s6.postimg.org/g7w71cyfl/tnt_series.png,TNT Series
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/33.ts
-#EXTINF:-1 tvg-id="TruTV.mx" tvg-name="TruTV.mx" tvg-logo="https://s6.postimg.org/l5lr9qlap/22.png,TruTV
+#EXTINF:-1 tvg-id="TruTV.mx" tvg-name="TruTV.mx" tvg-logo="https://s6.postimg.org/l5lr9qlap/22.png",TruTV
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/21.ts
-#EXTINF:-1 tvg-id="Unicable.mx" tvg-name="Unicable HD" tvg-logo="http://airecable.com/wp-content/uploads/2013/09/UNICABLE.png,Unicable
+#EXTINF:-1 tvg-id="Unicable.mx" tvg-name="Unicable HD" tvg-logo="http://airecable.com/wp-content/uploads/2013/09/UNICABLE.png",Unicable
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/662.ts
 #EXTINF:-1,Unicable Int
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(UNICABLE)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-id="UniversalChannel.mx" tvg-name="Universal Channel MX HD" tvg-logo="https://s32.postimg.org/m1c5358lx/universalhd.png,Universal Channel
+#EXTINF:-1 tvg-id="UniversalChannel.mx" tvg-name="Universal Channel MX HD" tvg-logo="https://s32.postimg.org/m1c5358lx/universalhd.png",Universal Channel
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/17.ts
-#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner Channel MX HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/e/eb/Warner_hd.png/revision/latest/scale-to-width-down/266?cb=20170113021449,Warner Channel
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner Channel MX HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/e/eb/Warner_hd.png/revision/latest/scale-to-width-down/266?cb=20170113021449",Warner Channel
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/16.ts
 
 
@@ -204,6 +207,8 @@ http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/27.ts
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/356.ts
 #EXTINF:-1,Pasiones
 http://latamlivechannelshls.clarovideo.com/Content/hls_clear/Live/Channel(PASIONES_HD)/Stream(01)/index.m3u8
+#EXTINF:-1,RCN Novelas
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(RCN_TELENOVELAS)/Stream(01)/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TVE.ar" tvg-name="TVE" tvg-logo="https://s6.postimg.org/siryh7qkx/tve.png,TVE
@@ -262,6 +267,8 @@ http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/2487.ts
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/11.ts
 #EXTINF:-1, TeleSur
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/chunklist.m3u8
+#EXTINF:-1, Red +
+http://latamlivechannelshls.clarovideo.com/Content/hls_clear/Live/Channel(DIA_TV_HD)/Stream(01)/index.m3u8?app=colombiatv&ua=iPad|Referer=https://www.clarovideo.com&User-Agent=Mozilla/5.0
 #EXTINF:-1, TN
 https://www.youtube.com/watch?v=0tek2aa8hAQ
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/tn23-mediano.png",TN23
@@ -274,7 +281,7 @@ http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/460.ts
 #EXTINF:-1 tvg-id="beINSPORTSenespanol.us" tvg-name="beINSPORTSenespanol.us" tvg-logo="http://158.69.52.43:8000/imagenes/405.jpg,BeinSports Ñ
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/405.ts
 #EXTINF:-1,Gol TV
-http://peto13.pedromo.online/live/goltv/index.m3u8?token=U7VQq40jur9xy6Gx-p5EDw&expires=1511449468
+http://peto16.pedromo.online/live/goltv/index.m3u8?token=6KqdTx2lYeb2WOd1OEgGLg&expires=1512076945
 #EXTINF:-1 tvg-id="F1LatAm.co" tvg-name="Canal F1" tvg-logo="https://s6.postimg.org/atf1auf69/F1-3d.png,Canal F1
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/90.ts
 #EXTINF:-1,Claro Sports
@@ -335,6 +342,8 @@ http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/1830.ts
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/431.ts
 #EXTINF:-1 tvg-id="MovistarMotoGP.es" tvg-name="Movistar Moto GP ES" tvg-logo="http://static.iptv-epg.com/es/MovistarMotoGP.es.png,Movistar Moto GP
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/432.ts
+#EXTINF:-1,PX Sports
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TEST/tu1_manifest.m3u8
 #EXTINF:-1,Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
 #EXTINF:-1 tvg-id="TDN.mx" tvg-name="TDN MX" tvg-logo="https://s6.postimg.org/6ylaj4rpt/tnd1.png,TDN
@@ -399,6 +408,9 @@ http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/79.ts
 
 #EXTINF:-1 tvg-id="DePeliculaClasico.mx" tvg-name="DePeliculaClasico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png",De Película
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/866.ts
+
+#EXTINF:-1, Euro Channel
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(EUROCHANNEL)/Stream(01)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/dhe_new_logo-big.jpg", DHE
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DHE_HD)/Stream(01)/index.m3u8
