@@ -1,4 +1,4 @@
-﻿#EXTM3U 
+﻿#EXTM3U url-tvg="http://media.entutele.com/epg/feed.xml"
 
 #EXTINF:0 channelId="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Tele-Uno-Costa-Rica.png" ,TeleUno
 http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
@@ -97,7 +97,7 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SENAL_COLOMBIA_HD)/
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/2281.ts
 #EXTINF:-1 tvg-id="AzClic.mx" tvg-name="AzClic.mx" tvg-logo="http://condista.com/wp-content/uploads/2015/09/az-click-300x225.jpg",Azteca Clic
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/101.ts
-#EXTINF:-1 tvg-id="AzMundo.mx" tvg-name="AzMundo.mx" tvg-logo="http://images.mi.tv/channels/co_az-mundo-hd_m.png",Azteca Mundo
+#EXTINF:-1 tvg-id="Canal AZMundo" tvg-name="AzMundo.mx" tvg-logo="http://images.mi.tv/channels/co_az-mundo-hd_m.png",Azteca Mundo
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/40.ts
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="AZTECA 7" tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Azteca7.png",Azteca 7
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/5.ts
