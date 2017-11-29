@@ -42,30 +42,31 @@ http://d3ha0sloduwpku.cloudfront.net/cr/canal11/smil:v2.smil/chunklist_b1098304_
 
 #EXTINF:-1, HCH
 http://stream.innovandote.com/hch/hch/chunklist_w166252436.m3u8
-#EXTINF:-1,Azteca Honduras
+#EXTINF:-1 channelId="" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Azteca-Honduras.png",Azteca Honduras
 http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/master.m3u8
-#EXTINF:-1,Canal 10 Honduras
+#EXTINF:-1 channelId="" tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/TEN-TV-Honduras.png",Canal 10 Honduras
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
 
-#EXTINF:-1 channelId="" tvg-logo="",
+
 
 #EXTINF:0 channelId="Canal 3 de Guatemala (El Super Canal)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/3_de_guatemala_el_super_canal-mediano.png",Canal 3 Guatemala
 http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_3.smil/chunklist_b1155072.m3u8
 #EXTINF:0 channelId="Canal 7 de Guatemala (Televisiete)" tvg-logo="https://imagenes.gatotv.com/logos/canales/7_de_guatemala_televisiete-mediano.png",Televisiete Guatemala
 http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_7.smil/chunklist_b1155072.m3u8
 
-#EXTINF:-1,Eco TV Panama
+#EXTINF:-1 channelId="" tvg-logo="http://es.live-tv-channels.net/pt-data/uploads/logo/eco_tv_pa.png",Eco TV Panama
 http://cdnlive.medcom.com.pa/medcom-livestream/eco-live/eco-live/streamout-480p/chunks.m3u8
-#EXTINF:-1,NexTV Panama
+#EXTINF:-1 channelId="" tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/NEX-TV.png",NexTV Panama
 http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
-#EXTINF:-1,Telemetro Panama
+#EXTINF:-1 channelId="" tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Telemetro.png",Telemetro Panama
 http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-360p/chunks.m3u8
-#EXTINF:-1,RPC Panama
+#EXTINF:-1 channelId="" tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/RPC.png",RPC Panama
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/3632.ts
-
-#EXTINF:0 channelId="Canal 2 de Panamá (TVN-2)" tvg-logo="https://imagenes.gatotv.com/logos/canales/tvn-2.png",TV2 Panama
+#EXTINF:0 channelId="Canal 2 de Panamá (TVN-2)" tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/TVN-Panama.png",TV2 Panama
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/3741.ts
 
+
+#EXTINF:-1 channelId="" tvg-logo="",
 
 #EXTINF:-1 ,America Teve
 http://api.new.livestream.com/accounts/5730046/events/2966225/live.m3u8
