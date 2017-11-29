@@ -108,7 +108,7 @@ http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/5.ts
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/8.ts
 #EXTINF:-1 tvg-id="OnceTV.mx" tvg-name="OnceTV.mx" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-Once.png",Canal 11
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/7.ts
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal5.mx" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Canal-5-México.png",Canal 5
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal5.mx" tvg-logo="http://z.cdn.entutele.com/media/channels/big/canal-5.gif",Canal 5
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/3.ts
 #EXTINF:-1 tvg-id="" tvg-name="Gala TV" tvg-logo="http://158.69.52.43:8000/imagenes/4036.jpg",Gala TV
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/6.ts
@@ -145,7 +145,7 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
 
 
-#EXTINF:-1 tvg-id="AE.mx" tvg-name="A&E HD" tvg-logo="https://s6.postimg.org/rre1wook1/aehd.png,A&E
+#EXTINF:-1 tvg-id="AE.mx" tvg-name="A&E HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/ae.gif",A&E
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/19.ts
 #EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC  HD" tvg-logo="http://static.iptv-epg.com/mx/AMC.mx.png,AMC
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/85.ts
@@ -153,13 +153,13 @@ http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/85.ts
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/20.ts
 #EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="ComedyCentral.mx" tvg-logo=",Comedy Central
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/22.ts
-#EXTINF:-1 tvg-id="ComedyCentral.m" tvg-name="ComedyCentral.m" tvg-logo=",Comedy Central 2
+#EXTINF:-1 tvg-id="ComedyCentral.m" tvg-name="ComedyCentral.m" tvg-logo="http://z.cdn.entutele.com/media/channels/big/comedy-central.gif",Comedy Central 2
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(COMEDY_CENTRAL_HD)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="Distrito Comedia MX" tvg-logo="https://s6.postimg.org/yq3chdmc1/image.png,Distrito Comedia
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/38.ts
-#EXTINF:-1 tvg-id="E.mx" tvg-name="E.mx" tvg-logo=",E! Entertaiment
+#EXTINF:-1 tvg-id="E.mx" tvg-name="E.mx" tvg-logo="http://z.cdn.entutele.com/media/channels/big/e-entertainment-television.gif",E! Entertaiment
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/29.ts
-#EXTINF:-1 tvg-id="Fox.mx" tvg-name="Fox.mx" tvg-logo="https://s6.postimg.org/qe076ltg1/foxhd.png,Fox
+#EXTINF:-1 tvg-id="Fox.mx" tvg-name="Fox.mx" tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox.gif",Fox
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/14.ts
 #EXTINF:-1 tvg-id="FoxLife.mx" tvg-name="Fox Life MX" tvg-logo="https://s32.postimg.org/hai73qrc5/Fox_Life_logo_2013.png,Fox Life
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/37.ts
@@ -171,13 +171,13 @@ http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/682.ts
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/36.ts
 #EXTINF:-1 tvg-id="Lifetime.mx" tvg-name="Lifetime MX" tvg-logo="https://s32.postimg.org/pnx0w3bj9/Lifetime_2013.png,Lifetime
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/63.ts
-#EXTINF:-1 tvg-id="Maschic.mx" tvg-name="Maschic.mx" tvg-logo="https://s6.postimg.org/bfydd6onl/17.png,Mas Chic TV
+#EXTINF:-1 tvg-id="Maschic.mx" tvg-name="Maschic.mx" tvg-logo="http://z.cdn.entutele.com/media/channels/big/mas-chic.gif",Mas Chic TV
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MASCHIC_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-id="Sony.mx" tvg-name="Sony.mx" tvg-logo="https://s6.postimg.org/kbx5tuudt/sony.png,Sony
+#EXTINF:-1 tvg-id="Sony.mx" tvg-name="Sony.mx" tvg-logo="http://z.cdn.entutele.com/media/channels/big/sony.gif",Sony
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/15.ts
 #EXTINF:-1 tvg-id="Syfy.mx" tvg-name="Syfy HD MX" tvg-logo="https://s31.postimg.org/ehbnrm1x7/Syfylogo.png,Syfy
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/31.ts
-#EXTINF:-1 tvg-id="TBS.mx" tvg-name="TBS MX" tvg-logo="https://s31.postimg.org/n3i6rj8qz/tbs.png,TBS
+#EXTINF:-1 tvg-id="TBS.mx" tvg-name="TBS MX" tvg-logo="http://z.cdn.entutele.com/media/channels/big/tbs.jpg",TBS
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/39.ts
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT MX HD" tvg-logo="https://s6.postimg.org/pgydbh7bl/tnt_logo.png,TNT
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/76.ts
