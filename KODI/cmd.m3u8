@@ -66,7 +66,7 @@ http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/3632.ts
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/3741.ts
 
 
-#EXTINF:-1 channelId="" tvg-logo="",
+
 
 #EXTINF:-1 ,America Teve
 http://api.new.livestream.com/accounts/5730046/events/2966225/live.m3u8
@@ -80,53 +80,53 @@ http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/111.ts
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/482.ts
 #EXTINF:-1 tvg-id="Univision.co" tvg-name="Univision HD" tvg-logo="https://s6.postimg.org/9mu32qonl/univision.png,Univision
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/1455.ts
-#EXTINF:-1,WIPR TV
-http://api.new.livestream.com/accounts/16550960/events/4589741/live.m3u8
 
 
 
 #EXTINF:-1,Caracol
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARACOL_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,RCN
+#EXTINF:-1 channelId="" tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/RCN-Televisi%C3%B3n.png",RCN
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(RCN_HD)/Stream(01)/index.m3u8
-#EXTINF:-1, Señal Colombia
+#EXTINF:-1 channelId="" tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Se%C3%B1al-Colombia.png",Señal Colombia
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SENAL_COLOMBIA_HD)/Stream(01)/index.m3u8
 
 
 
 
-#EXTINF:-1,A+
+#EXTINF:-1 channelId="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/51/A%2BMexico.jpg/220px-A%2BMexico.jpg",A+
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/2281.ts
-#EXTINF:-1 tvg-id="AzClic.mx" tvg-name="AzClic.mx" tvg-logo="",Azteca Clic
+#EXTINF:-1 tvg-id="AzClic.mx" tvg-name="AzClic.mx" tvg-logo="http://condista.com/wp-content/uploads/2015/09/az-click-300x225.jpg",Azteca Clic
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/101.ts
-#EXTINF:-1 tvg-id="AzMundo.mx" tvg-name="AzMundo.mx" tvg-logo="",Azteca Mundo
+#EXTINF:-1 tvg-id="AzMundo.mx" tvg-name="AzMundo.mx" tvg-logo="http://images.mi.tv/channels/co_az-mundo-hd_m.png",Azteca Mundo
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/40.ts
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="AZTECA 7" tvg-logo=",Azteca 7
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="AZTECA 7" tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Azteca7.png",Azteca 7
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/5.ts
-#EXTINF:-1 tvg-id="Azteca13.mx" tvg-name="Azteca13.mx" tvg-logo=",Azteca 13
+#EXTINF:-1 tvg-id="Azteca13.mx" tvg-name="Azteca13.mx" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Azteca-13.png",Azteca 13
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/8.ts
-#EXTINF:-1 tvg-id="OnceTV.mx" tvg-name="OnceTV.mx",Canal 11
+#EXTINF:-1 tvg-id="OnceTV.mx" tvg-name="OnceTV.mx" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-Once.png",Canal 11
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/7.ts
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal5.mx",Canal 5
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal5.mx" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Canal-5-México.png",Canal 5
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/3.ts
-#EXTINF:-1 tvg-id="" tvg-name="Gala TV" tvg-logo="http://158.69.52.43:8000/imagenes/4036.jpg,Gala TV
+#EXTINF:-1 tvg-id="" tvg-name="Gala TV" tvg-logo="http://158.69.52.43:8000/imagenes/4036.jpg",Gala TV
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/6.ts
-#EXTINF:-1 tvg-id="Galavision.us" tvg-name="Galavision HD" tvg-logo="https://s6.postimg.org/6d0ghe53l/galahd.png,Galavision HD
+#EXTINF:-1 tvg-id="Galavision.us" tvg-name="Galavision HD" tvg-logo="https://s6.postimg.org/6d0ghe53l/galahd.png",Galavision HD
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/135.ts
-#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="ImagenTV.mx" tvg-logo="",Imagen Tv
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="ImagenTV.mx" tvg-logo="http://www.tecnologiaprofesional.com/tecnopro/wp-content/uploads/2016/09/Imagen-television-logo.jpg",Imagen Tv
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/3535.ts
-#EXTINF:-1 tvg-id="Canal2.mx" tvg-name="Canal2.mx" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_08/rojo2.png.97a0e3046d89aefbf962b031b77222d6.png,Las Estrellas
+#EXTINF:-1 tvg-id="Canal2.mx" tvg-name="Canal2.mx" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_08/rojo2.png.97a0e3046d89aefbf962b031b77222d6.png",Las Estrellas
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/2.ts
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/022011/multimedios.png?itok=Gbsqnn0h", Multimedios
 http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
-#EXTINF:-1 tvg-id="TVC.mx" tvg-name="TVC.mx" tvg-logo=",TVC
+#EXTINF:-1 tvg-id="TVC.mx" tvg-name="TVC.mx" tvg-logo="http://images.mi.tv/channels/co_tvc_m.png",TVC
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/3506.ts
-#EXTINF:-1,TVMAS
+#EXTINF:-1 channelId="" tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/tvmas.png",TVMAS
 http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?
+
+
+#EXTINF:-1 channelId="" tvg-logo="",
 
 #EXTINF:-1 tvg-id="LA1.es" tvg-name="LA1.es",La 1
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/452.ts
-
 #EXTINF:-1 tvg-id="LA2.es" tvg-name="LA1.es",La 2
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/451.ts
 #EXTINF:-1 tvg-id="Antena3.sp" tvg-name="Antena3.sp",Antena 3
