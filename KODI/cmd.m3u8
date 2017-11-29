@@ -128,16 +128,15 @@ http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/4037.ts
 
 
-#EXTINF:-1 channelId="" tvg-logo="",
 
-#EXTINF:-1 tvg-id="LA1.es" tvg-name="LA1.es",La 1
+#EXTINF:-1 channelId="" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE.jpg",La 1
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/452.ts
-#EXTINF:-1 tvg-id="LA2.es" tvg-name="LA1.es",La 2
+#EXTINF:-1 channelId="" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/4/47/Tve_2.png/revision/latest?cb=20140918184607",La 2
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/451.ts
-#EXTINF:-1 tvg-id="Antena3.sp" tvg-name="Antena3.sp",Antena 3
+#EXTINF:-1 channelId="" tvg-logo="http://www.brandemia.org/sites/default/files/inline/images/logo_antena3_antes.jpg",,Antena 3
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/467.ts
 #EXTINF:-1 tvg-id="Cuatro.sp" tvg-name="Cuatro.sp",Cuatro
-http://peto20.pedromo.online/live/cuatro/index.m3u8?token=HGROgZYQo6GOqcsq_cTbyw&expires=1511297553|User-Agent=iPad&Referer=http://vergol.com/live1/cuatro.php
+http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/456.ts
 #EXTINF:-1 tvg-id="Telecinco.sp" tvg-name="Telecinco.sp",Telecinco
 http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/5d62490854b545598f64eaa84709400b.m3u8
 #EXTINF:-1 tvg-id="LaSexta.sp" tvg-name="LaSexta.sp",La Sexta
