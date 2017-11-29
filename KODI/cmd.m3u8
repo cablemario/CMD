@@ -6,7 +6,7 @@ http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
 http://d2f1bbn9v49he.cloudfront.net/cr/canal2/smil:v2.smil/chunklist_b1098304_sles.m3u8
 #EXTINF:0 channelId="" tvg-logo="https://pbs.twimg.com/media/CudLt3UUIAA3HVq.jpg" ,Ticavision
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-#EXTINF:-1 channelId="Canal 4 de Costa Rica (Repretel)" tvg-logo="https://imagenes.gatotv.com/logos/canales/4_de_costa_rica_repretel-mediano.png",Repretel Canal 4
+#EXTINF:-1 channelId="4_de_costa_rica_repretel" tvg-logo="https://imagenes.gatotv.com/logos/canales/4_de_costa_rica_repretel-mediano.png",Repretel Canal 4
 http://d19a4fd3xmc403.cloudfront.net/cr/canal4/smil:v2.smil/chunklist_b1098304_sles.m3u8
 #EXTINF:0 channelId="" tvg-logo="http://www.visionzn.com/images/stvcotobrus.png",STV San Vito
 http://k4.usastreams.com/CableLatino/sanvitotv/playlist.m3u8
