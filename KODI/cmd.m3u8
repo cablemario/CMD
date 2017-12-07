@@ -116,7 +116,13 @@ http://k4.usastreams.com/CableLatino/sanvitotv/playlist.m3u8
 #EXTINF:-1 channelId="Canal 6 Repretel (Costa Rica)" tvg-logo="https://imagenes.gatotv.com/logos/canales/repretel-mediano.png",Repretel Canal 6
 http://d3ha0sloduwpku.cloudfront.net/cr/canal6/smil:v2.smil/chunklist_b1098304_sles.m3u8
 #EXTINF:-1 channelId="Canal 7 de Teletica (Costa Rica)" tvg-logo="https://imagenes.gatotv.com/logos/canales/teletica-mediano.png",Teletica Canal 7
+http://stream-01.nyc.dailymotion.com/55/dm/3/x29e3wg/live-1.m3u8
+#EXTINF:-1 channelId="Canal 7 de Teletica (Costa Rica)" tvg-logo="https://imagenes.gatotv.com/logos/canales/teletica-mediano.png",Teletica Canal 7
 http://stream-01.nyc.dailymotion.com/55/dm/3/x29e3wg/live-2.m3u8
+#EXTINF:-1 channelId="Canal 7 de Teletica (Costa Rica)" tvg-logo="https://imagenes.gatotv.com/logos/canales/teletica-mediano.png",Teletica Canal 7
+http://stream-01.nyc.dailymotion.com/55/dm/3/x29e3wg/live-3.m3u8
+#EXTINF:-1 channelId="Canal 7 de Teletica (Costa Rica)" tvg-logo="https://imagenes.gatotv.com/logos/canales/teletica-mediano.png",Teletica Canal 7
+http://stream-01.nyc.dailymotion.com/55/dm/3/x29e3wg/live-4.m3u8
 #EXTINF:-1 channelId="" tvg-logo="http://www.transdatelecom.com/images/logos/super5_pqno.png",Super 5
 http://k3.usastreams.com:1935/superC/_definst_/mp4:superC_1/playlist.m3u8
 #EXTINF:-1 channelId="" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/tv-sur-canal-9.png",TV Sur Canal 9
