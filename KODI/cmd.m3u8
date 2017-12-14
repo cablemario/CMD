@@ -93,6 +93,10 @@ http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/3506.ts
 http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Televisa MTY" tvg-logo="http://158.69.52.43:8000/imagenes/4037.jpg",Televisa MTY
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/4037.ts
+#EXTINF:-1 tvg-id="" tvg-name="Televisa MTY" tvg-logo="http://158.69.52.43:8000/imagenes/4037.jpg",Televisa Guadalajara
+https://manifest.googlevideo.com/api/manifest/hls_playlist/id/7c_wtM_SxCA.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r2---sn-j5caxupj5-nwvl.googlevideo.com/ei/HcsuWpjYB8PK-QXV9r3oDA/gcr/cr/playlist_type/LIVE/mm/32/mn/sn-j5caxupj5-nwvl/ms/lv/mv/u/pl/23/dover/6/mt/1513015743/ip/186.159.128.206/ipbits/0/expire/1513037692/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,goi,sgoap,sgovp,hls_chunk_host,ei,gcr,playlist_type,mm,mn,ms,mv,pl/signature/12CB23F9E88E2CB9E6E3CC9801882FE8536E6152.6B32FB75DB25A85F207BB114DD85E70B81355D42/key/dg_yt0/playlist/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Televisa MTY" tvg-logo="http://158.69.52.43:8000/imagenes/4037.jpg",Televisa Puebla
+https://manifest.googlevideo.com/api/manifest/hls_playlist/id/4hlzyKO6hBk.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r2---sn-j5caxupj5-nwvl.googlevideo.com/ei/kuUuWuaVI8ig-QWT2oOACg/playlist_type/LIVE/gcr/cr/mm/32/mn/sn-j5caxupj5-nwvl/ms/lv/mv/m/pl/23/dover/6/mt/1513022776/ip/186.159.128.206/ipbits/0/expire/1513044465/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,goi,sgoap,sgovp,hls_chunk_host,ei,playlist_type,gcr,mm,mn,ms,mv,pl/signature/0F0FAC84F1BF0A365B5855DF73B1DF320227AE46.0DE8D9368E3EAA052709423D4620D7994C3D5EB0/key/dg_yt0/playlist/index.m3u8
 
 
 
@@ -112,6 +116,8 @@ http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/444.ts
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 #EXTINF:-1 tvg-id="Mega.es" tvg-name="Mega.es" tvg-logo="http://www.formulatv.com/images/noticias/46500/46553/2_bb2bd46121.jpg", Mega
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-name="TVE STAR" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/7/79/Med_gallery_9563_7_8867.png/revision/latest?cb=20151008171643",TVE STAR
+http://main.nrdtv.gq:2095/live/Juanvera/2410/278.ts
 
 
 
@@ -191,6 +197,8 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(COMEDY_CENTRAL_HD)/
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/38.ts
 #EXTINF:-1 tvg-id="E.mx" tvg-name="E.mx" tvg-logo="http://z.cdn.entutele.com/media/channels/big/e-entertainment-television.gif",E! Entertaiment
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/29.ts
+#EXTINF:-1 tvg-name="FOOD NETWORK" tvg-logo="https://i.imgur.com/HNJjwpN.png",Food Network
+http://main.nrdtv.gq:2095/live/Juanvera/2410/410.ts
 #EXTINF:-1 tvg-id="Fox.mx" tvg-name="Fox.mx" tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox.gif",Fox
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/14.ts
 #EXTINF:-1,FOX
@@ -462,6 +470,8 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_2_HD)/Stream(0
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/2860.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPN DEPORTES" tvg-logo="http://158.69.52.43:8000/imagenes/3990.jpg,ESPN DEPORTES
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/3990.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN DEPORTES" tvg-logo="http://158.69.52.43:8000/imagenes/3990.jpg,ESPN DEPORTES
+http://149.56.26.6:25461/live/dreamscanales/123456/8504.m3u8
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN.mx" tvg-logo="https://s6.postimg.org/inb1ihxld/espn.png",ESPN
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/91.ts
 #EXTINF:-1 tvg-id="Espn2.mx" tvg-name="ESPN 2 MX" tvg-logo="https://s6.postimg.org/jqv5ugi8h/ESPN2_logo.png",ESPN 2
@@ -508,6 +518,8 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TEST/tu1_manifest.m3u8
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
 #EXTINF:-1 tvg-id="TDN.mx" tvg-name="TDN MX" tvg-logo="https://s6.postimg.org/6ylaj4rpt/tnd1.png,TDN
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/167.ts
+#EXTINF:-1 tvg-id="TDN.mx" tvg-name="TDN MX" tvg-logo="https://s6.postimg.org/6ylaj4rpt/tnd1.png,TDN
+http://149.56.26.6:25461/live/dreamscanales/123456/2629.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="http://158.69.52.43:8000/imagenes/3395.jpg,TNT SPORTS
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/3395.ts
 #EXTINF:-1, TSM Sports
@@ -1203,3 +1215,127 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS2_HD)/ind
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS3_HD)/index.m3u8
 #EXTINF:0,Win Sports
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(WINSPORTS_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/hbo2b.png" group-title="Test Area", HBO 2
+http://149.56.26.6:25461/live/dreamscanales/123456/8503.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png" ,HBO COMEDY
+http://149.56.26.6:25461/live/dreamscanales/123456/8502.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="https://foromedios.com/uploads/gallery/album_2/gallery_1155_2_16481.png" ,HBO FAMILY
+http://149.56.26.6:25461/live/dreamscanales/123456/8501.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="http://www.freeurtv.com/wp-content/uploads/2016/08/HBO_Zone_logo-1.png" ,HBO ZONE
+http://149.56.26.6:25461/live/dreamscanales/123456/8499.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_max-prime_m.png" ,MAX PRIME
+http://149.56.26.6:25461/live/dreamscanales/123456/490.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="http://assets.abs-cbn.com/starcinema/theme/SCinema_OG-1200x630.jpg" ,STAR CINEMA
+http://149.56.26.6:25461/live/dreamscanales/123456/8468.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="https://members.techwell.com/sites/default/files/training/logos/STAREAST%20Logo%20NB.png" ,STAR EAST
+http://149.56.26.6:25461/live/dreamscanales/123456/8469.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6a/bc/66/6abc66f4622a1879b4bfb09e27d4fd65.jpg" ,STAR FAMILY
+http://149.56.26.6:25461/live/dreamscanales/123456/8467.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/2000px-History_Logo.svg.png" ,HISTORY
+http://149.56.26.6:25461/live/dreamscanales/123456/8497.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Lifetime_logo_2013.png" ,LIFETIME
+http://149.56.26.6:25461/live/dreamscanales/123456/8494.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="https://orig00.deviantart.net/0afa/f/2016/041/6/6/lifetime_movie_network_new_logo_by_dledeviant-d9r85ry.png" ,LIFETIME MOVIE
+http://149.56.26.6:25461/live/dreamscanales/123456/8493.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="https://www.hgtv.co.nz/images/common/facebook-image.png" ,HGTV
+http://149.56.26.6:25461/live/dreamscanales/123456/8498.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-bR6ByIXiyrg/AAAAAAAAAAI/AAAAAAAAAAA/JFyEhmlC0j8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" ,AMC HD
+http://149.56.26.6:25461/live/dreamscanales/123456/5228.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/t/bandera-del-bravo-91022451.jpg" ,BRAVO
+http://149.56.26.6:25461/live/dreamscanales/123456/8543.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="http://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png" ,CANAL ONCE
+http://149.56.26.6:25461/live/dreamscanales/123456/15646.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="http://cf.c.ooyala.com/pjb3E0aTqlx0ACcOwXpisb_pZz90bo8I/promo285937985" ,CAPITAL TV
+http://149.56.26.6:25461/live/dreamscanales/123456/15130.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="http://www.tigostar.cr/sites/tigostar.cr/files/channels/cinemaxyllw.png", CINEMAX
+http://149.56.26.6:25461/live/dreamscanales/123456/8539.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="http://lonewolftvpr.com/logos/tmax.png" ,CINEMAX THRILLER
+http://149.56.26.6:25461/live/dreamscanales/123456/8537.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="http://blog.bendbroadband.com/residential/files/2015/03/cooking.png ,COOKING CHANNEL
+http://149.56.26.6:25461/live/dreamscanales/123456/8533.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Destination_America_logo_2017.png" ,DESTINATION AMERICA
+http://149.56.26.6:25461/live/dreamscanales/123456/8531.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="http://www.broadcastingcable.com/sites/default/files/public/styles/bnc_article_content_page/public/Discovery-Channel.jpg" ,DISCOVERY CHANNEL HD
+http://149.56.26.6:25461/live/dreamscanales/123456/1678.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/122779/logo_discovery%20civilization.png" ,DISCOVERY CIVILIZATION HD
+http://149.56.26.6:25461/live/dreamscanales/123456/1677.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/Discovery_Family_Channel_logo.png" ,DISCOVERY FAMILY
+http://149.56.26.6:25461/live/dreamscanales/123456/8529.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="http://freetvall.me/files/thumbs/1500754272675e6.jpg" ,DISCOVERY TLC HD
+http://149.56.26.6:25461/live/dreamscanales/123456/1672.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-turbo.jpg" ,DISCOVERY TURBO HD
+http://149.56.26.6:25461/live/dreamscanales/123456/1671.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2011/04/velocity_logo_20110414162216.png" ,DISCOVERY VELOCITY HD
+http://149.56.26.6:25461/live/dreamscanales/123456/8527.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="https://conexionbovril.files.wordpress.com/2015/09/elgourmet.jpg" ,EL GOURMET
+http://149.56.26.6:25461/live/dreamscanales/123456/1656.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2014/01/sundancetv-logo__140127153739.jpg" ,SUNDANCE TV
+http://149.56.26.6:25461/live/dreamscanales/123456/5679.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e1/Fxx_us_hd.png/revision/latest?cb=20130929134922" ,FXX HD
+http://149.56.26.6:25461/live/dreamscanales/123456/8509.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="https://cvclavoz.com/wp-content/uploads/2014/03/nuevo-logo-cvclavoz.png" , CVC LA VOZ
+http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-x3EW5XcW0DI/UcA1lCp2jaI/AAAAAAAAAV4/-ihbrQb2pGw/s320/CTV_Channel.jpg" ,CTV EVANGELICO
+http://wan-lbf.net:1935/cielotv/myStream.sdp/playlist.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="http://klay-klay.com/ctn/wp-content/uploads/2016/07/Logo-CTN-small.png" ,CTN CRISTIANO
+http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="https://shop.ee.co.uk/content/dam/everything-everywhere/images/photography/eetv.png.eeimg.1120.630.medium.png/1505725679254.png" ,eE TV
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/livestream.m3u8
+
+#EXTINF:-1group-title="Bein Sports",BEIN SPORTS 1 SD
+http://185.59.220.175:8080/live/Etronics_7FNOhI/MKZVUP4k/15.ts
+#EXTINF:-1,BEIN SPORTS 2 SD
+http://185.59.220.175:8080/live/Etronics_7FNOhI/MKZVUP4k/14.ts
+#EXTINF:-1,BEIN SPORTS 3 SD
+http://185.59.220.175:8080/live/Etronics_7FNOhI/MKZVUP4k/13.ts
+#EXTINF:-1,BEIN SPORTS 4 SD
+http://185.59.220.175:8080/live/Etronics_7FNOhI/MKZVUP4k/12.ts
+#EXTINF:-1,BEIN SPORTS 5 SD
+http://185.59.220.175:8080/live/Etronics_7FNOhI/MKZVUP4k/11.ts
+#EXTINF:-1,BEIN SPORTS 6 SD
+http://185.59.220.175:8080/live/Etronics_7FNOhI/MKZVUP4k/10.ts
+#EXTINF:-1,BEIN SPORTS 7 SD
+http://185.59.220.175:8080/live/Etronics_7FNOhI/MKZVUP4k/9.ts
+#EXTINF:-1,BEIN SPORTS 8 SD
+http://185.59.220.175:8080/live/Etronics_7FNOhI/MKZVUP4k/8.ts
+#EXTINF:-1,BEIN SPORTS 9 SD
+http://185.59.220.175:8080/live/Etronics_7FNOhI/MKZVUP4k/7.ts
+#EXTINF:-1,BEIN SPORTS 10 SD
+http://185.59.220.175:8080/live/Etronics_7FNOhI/MKZVUP4k/6.ts
+#EXTINF:-1,BEIN SPORTS 11 SD
+http://185.59.220.175:8080/live/Etronics_7FNOhI/MKZVUP4k/5.ts
+#EXTINF:-1,BEIN SPORTS 12 SD
+http://185.59.220.175:8080/live/Etronics_7FNOhI/MKZVUP4k/4.ts
