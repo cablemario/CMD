@@ -199,6 +199,8 @@ http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/38.ts
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/3856.ts
 #EXTINF:-1 tvg-id="Gourmet.ar" tvg-name="Gourmet.ar" tvg-logo="https://s6.postimg.org/8x82yrdjl/7.png",El Gourmet
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/34.ts
+#EXTINF:-1,Estrella TV
+https://clutch.vaughnsoft.net/ord/vl/estrellatv.m3u8
 #EXTINF:-1,tvg-id="Fox.mx" tvg-name="Fox.mx",FOX
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/14.ts
 #EXTINF:-1 tvg-id="FoxLife.mx" tvg-name="Fox Life MX" tvg-logo="https://s32.postimg.org/hai73qrc5/Fox_Life_logo_2013.png,Fox Life
@@ -215,7 +217,7 @@ http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-ag
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/63.ts
 #EXTINF:-1 tvg-id="Maschic.mx" tvg-name="Maschic.mx" tvg-logo="http://z.cdn.entutele.com/media/channels/big/mas-chic.gif",Mas Chic TV
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/26.ts
-#EXTINF:-1 tvg-id="NBCUniverso.us" tvg-name="NBC UNIVERSO HD" tvg-logo="http://static.iptv-epg.com/us/NBCUniverso.us.png" group-title="HD",NBC Universo
+#EXTINF:-1 tvg-id="NBCUniverso.us" tvg-name="NBC UNIVERSO HD" tvg-logo="http://static.iptv-epg.com/us/NBCUniverso.us.png",NBC Universo
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/1456.ts
 #EXTINF:-1 channelId="" tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/RCN-Televisi%C3%B3n.png",RCN
 https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?exabytetv.info?.m3u
@@ -632,8 +634,11 @@ https://stream-delta.dropcam.com:443/nexus_aac/277b38c5948d44b69a568f37e112867f/
 https://stream-bravo.dropcam.com:443/nexus_aac/686a3a83d57e428b80992ce0b7c8b989/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ABC" tvg-logo="" group-title="**** CANALES USA ****",ABC
-http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/3922.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CFHtVxO.png" group-title="**** CANALES USA ****",360 North
+http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC" tvg-logo="",ABC
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
 #EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS" tvg-logo="http://static.iptv-epg.com/us/CBS.us.png" ,CBS
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/292.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/MH7kNnl.png",CBSN
@@ -662,6 +667,8 @@ http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/231.ts
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/3930.ts
 #EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" tvg-logo="http://static.iptv-epg.com/us/NBC.us.png",NBC
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/2840.ts
+#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" tvg-logo="http://static.iptv-epg.com/us/NBC.us.png",NBC
+http://live.field59.com/wjfw1/ngrp:wjfw1_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MSNBC" tvg-logo="",MSNBC
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/3931.ts
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="",NBCSN
