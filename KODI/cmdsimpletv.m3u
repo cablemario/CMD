@@ -36,6 +36,9 @@ rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
 http://servicioamerica.com:1935/8022/8022/playlist.m3u8
 #EXTINF:-1,88 Stereo
 http://k3.usastreams.com/CableLatino/88stereo/chunklist_w1494400424.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-r5FUlfpFc_E/Vr5SxX2MghI/AAAAAAAAm9U/qlP08upqPzI/s1600/extra_tv42.png",Extra TV 42
+http://k3.usastreams.com:1935/canal42/canal42/live.m3u8
+
 
 
 
@@ -46,8 +49,13 @@ http://stream.innovandote.com/hch/hch/chunklist_w166252436.m3u8
 http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/master.m3u8
 #EXTINF:-1 channelId="" tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/TEN-TV-Honduras.png",Canal 10 Honduras
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+#EXTINF:-1,VTV
+http://d3bus2b3f32oks.cloudfront.net/hn//smil:vtv.smil/chunklist_b870480.m3u8
+
 #EXTINF:0 channelId="Canal 3 de Guatemala (El Super Canal)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/3_de_guatemala_el_super_canal-mediano.png",Canal 3 Guatemala
 http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_3.smil/chunklist_b1155072.m3u8
+#EXTINF:-1, tvg-logo="vIFRrCq.png",Canal Plus
+http://streaminglivehd.com:1935/8098/8098/chunklist.m3u8
 #EXTINF:0 channelId="Canal 7 de Guatemala (Televisiete)" tvg-logo="https://imagenes.gatotv.com/logos/canales/7_de_guatemala_televisiete-mediano.png",Televisiete Guatemala
 http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_7.smil/chunklist_b1155072.m3u8
 #EXTINF:-1, tvg-logo="PK6t7FP.jpg",Guatevision
@@ -116,6 +124,8 @@ http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/467.ts
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.audiovisual451.com/wp-content/uploads/atreseries-logo-h.jpg",Atreseries
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.brandemia.org/sites/default/files/inline/images/beteve_logo_despues.jpg",Beteve
+http://api-cdn.overon.es/SmilLive/getLiveIOS/playlist.m3u8?stream=btv_stream01
 #EXTINF:-1 tvg-id="Cuatro.sp" tvg-name="Cuatro.sp",Cuatro
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/456.ts
 #EXTINF:-1 tvg-id="Telecinco.sp" tvg-name="Telecinco.sp",Telecinco
@@ -142,6 +152,8 @@ http://188.165.135.22/tvbarbastro/livestream/playlist.m3u8
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
 #EXTINF:-1,Canal Sur Cocina
 http://cast.streamingconnect.com:1935/cscocina/cscocina/playlist.m3u8
+#EXTINF:-1, tvg-logo="jl1Nnd4.png",TV Galicia America
+http://america-crtvg.flumotion.com/playlist.m3u8
 
 
 
@@ -181,6 +193,8 @@ http://prepublish.f.qaotic.net/a02/ngrp:c7live01-20034_all/chunklist_b1596000.m3
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/19.ts
 #EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC  HD" tvg-logo="http://static.iptv-epg.com/mx/AMC.mx.png,AMC
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/85.ts
+#EXTINF:-1, tvg-logo="qkn70Hs.jpg",America TeVe
+http://api.new.livestream.com/accounts/5730046/events/2966225/live.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV.pe" tvg-logo="https://s6.postimg.org/6zxkoyiq9/atvpe.png",ATV
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/490.ts
 #EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN HD" tvg-logo="http://static.iptv-epg.com/mx/AXN.mx.png,AXN
@@ -595,6 +609,8 @@ http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/2305.ts
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/2304.ts
 #EXTINF:-1, Cristovision
 http://live10.cdnmedia.tv/cristovisionlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1,Catholic TV
+http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/index_1_av-p.m3u8
 
 
 
