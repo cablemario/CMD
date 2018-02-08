@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1, Cable Mario Channel
 http://stream.memesyndicate.com/live/thx/index.m3u8
+#EXTINF:-1, Cable Mario Channel PSN
+https://clutch.vaughnsoft.net/ord/vl/psn86v.m3u8
 
 #EXTINF:0 channelId="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Tele-Uno-Costa-Rica.png" group-title="**** CANALES COSTA RICA ****",TeleUno
 http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
@@ -420,17 +422,74 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
 
 #EXTINF:-1 tvg-id="BeINSports.es" tvg-name="BeINSports.es" tvg-logo="http://static.iptv-epg.com/es/beINLaLiga.es.png" group-title="**** CANALES DEPORTES ****",beIN Sports ES
 https://clutch.vaughnsoft.net/ord/vl/psn85v.m3u8
-#EXTINF:-1 tvg-id="BeINLaLiga.es" tvg-name="BeINLaLiga.es" tvg-logo="http://static.iptv-epg.com/es/beINLaLiga.es.png",beIN LaLiga
-http://coplatinoiptv.club:8000/live/COPLATINOIPTV/iptvgratis/238.ts
-#EXTINF:-1 tvg-id="beINSPORTS.us" tvg-name="beINSPORTS.us" tvg-logo="http://158.69.52.43:8000/imagenes/405.jpg",BeinSports USA
-http://fserver.yellowiptv.com:80/live/hls/6557a72cf5/13628.ts
-#EXTINF:-1,BS 11
-http://fserver.yellowiptv.com:80/live/hls/6557a72cf5/866.ts
-#EXTINF:-1,BS 12
-http://fserver.yellowiptv.com:80/live/hls/6557a72cf5/13684.ts
-#EXTINF:-1,BS 13
-http://fserver.yellowiptv.com:80/live/hls/6557a72cf5/13685.ts
-
+#EXTINF:-1,CDF PREMIUM 2
+http://ultraplay.club:8000/live/cesarq/cesarq/4498.ts
+#EXTINF:-1,CDF MOVIL
+http://ultraplay.club:8000/live/cesarq/cesarq/6276.ts
+#EXTINF:-1,FOX SPORTS CHILE
+http://ultraplay.club:8000/live/cesarq/cesarq/211.ts
+#EXTINF:-1,FOX SPORTS Argentina
+http://ultraplay.club:8000/live/cesarq/cesarq/4511.ts
+#EXTINF:-1,FOX SPORTS URUGUAY HD
+http://ultraplay.club:8000/live/cesarq/cesarq/5055.ts
+#EXTINF:-1,FOX SPORTS MEXICO HD
+http://ultraplay.club:8000/live/cesarq/cesarq/5109.ts
+#EXTINF:-1,Fox Sports 2 HD
+http://ultraplay.club:8000/live/cesarq/cesarq/5054.ts
+#EXTINF:-1,Fox Sports 2 Chile
+http://ultraplay.club:8000/live/cesarq/cesarq/1911.ts
+#EXTINF:-1,FOX Deportes
+http://ultraplay.club:8000/live/cesarq/cesarq/4744.ts
+#EXTINF:-1,FOX SPORTS 2 SUR
+http://ultraplay.club:8000/live/cesarq/cesarq/4478.ts
+#EXTINF:-1,FOX SPORTS 3 SUR
+http://ultraplay.club:8000/live/cesarq/cesarq/4479.ts
+#EXTINF:-1,FOX SPORTS 3 CHILE
+http://ultraplay.club:8000/live/cesarq/cesarq/12870.ts
+#EXTINF:-1,Fox Sports Mexico
+http://ultraplay.club:8000/live/cesarq/cesarq/1909.ts
+#EXTINF:-1,FOX SPORTS SUR
+http://ultraplay.club:8000/live/cesarq/cesarq/4480.ts
+#EXTINF:-1,TNT SPORTS
+http://ultraplay.club:8000/live/cesarq/cesarq/6997.ts
+#EXTINF:-1,Espn Brasil
+http://ultraplay.club:8000/live/cesarq/cesarq/1964.ts
+#EXTINF:-1,ESPN 2
+http://ultraplay.club:8000/live/cesarq/cesarq/3729.ts
+#EXTINF:-1,ESPN 2 Sur
+http://ultraplay.club:8000/live/cesarq/cesarq/4509.ts
+#EXTINF:-1,ESPN 3
+http://ultraplay.club:8000/live/cesarq/cesarq/3730.ts
+#EXTINF:-1,ESPN 3 HD Sur
+http://ultraplay.club:8000/live/cesarq/cesarq/4510.ts
+#EXTINF:-1,ESPN HD
+http://ultraplay.club:8000/live/cesarq/cesarq/3731.ts
+#EXTINF:-1,ESPN Sur
+http://ultraplay.club:8000/live/cesarq/cesarq/4508.ts
+#EXTINF:-1,ESPN Plus
+http://ultraplay.club:8000/live/cesarq/cesarq/4753.ts
+#EXTINF:-1,UFC-FSN NETWORK
+http://ultraplay.club:8000/live/cesarq/cesarq/4493.ts
+#EXTINF:-1,Directv Sports
+http://ultraplay.club:8000/live/cesarq/cesarq/4438.ts
+#EXTINF:-1,Music Choice HITS | HD
+http://ultraplay.club:8000/live/cesarq/cesarq/5580.ts
+#EXTINF:-1,Heart TV | HD
+http://ultraplay.club:8000/live/cesarq/cesarq/5587.ts
+#EXTINF:-1,TRAILER TV
+http://ultraplay.club:8000/live/cesarq/cesarq/4377.ts
+#EXTINF:-1,TRAILERTV KIDS
+http://ultraplay.club:8000/live/cesarq/cesarq/4378.ts
+#EXTINF:-1,WWE PPV
+http://ultraplay.club:8000/live/cesarq/cesarq/4312.ts
+#EXTINF:-1,Bein Sports 1
+http://ultraplay.club:8000/live/cesarq/cesarq/4440.ts
+#EXTINF:-1,Bein Sports LIGA
+http://ultraplay.club:8000/live/cesarq/cesarq/4444.ts
+#EXTINF:-1,Bein Sports 3
+http://ultraplay.club:8000/live/cesarq/cesarq/4648.ts
+#EXTINF:-1,BeinSports Ñ
+http://ultraplay.club:8000/live/cesarq/cesarq/4439.ts
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="ClaroSports.mx" ,Claro Sports
 http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls/Live/Channel(jjoo2016ch01)/Stream(05)/index.m3u8
 #EXTINF:-1,COS
