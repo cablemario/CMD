@@ -3,6 +3,18 @@
 http://stream.memesyndicate.com/live/thx/index.m3u8
 #EXTINF:-1, Cable Mario Channel PSN
 https://clutch.vaughnsoft.net/ord/vl/psn87v.m3u8
+#EXTINF:-1,[ ES ] BARCA TV
+http://lucky.lts1.net:23000/live/Moris/Moris/29825.ts
+#EXTINF:-1,[ ES ] beIN SPORTS HD
+http://lucky.lts1.net:23000/live/Moris/Moris/29824.ts
+#EXTINF:-1,[ ES ] beIN SPORTS LA LIGA HD
+http://lucky.lts1.net:23000/live/Moris/Moris/29823.ts
+#EXTINF:-1,[ ES ] beIN SPORTS Ñ HD
+http://lucky.lts1.net:23000/live/Moris/Moris/29822.ts
+#EXTINF:-1,[ ES ] GOL TV HD
+http://lucky.lts1.net:23000/live/Moris/Moris/29801.ts
+#EXTINF:-1,[ ES ] LA LIGA TV HD
+http://lucky.lts1.net:23000/live/Moris/Moris/29796.ts
 
 #EXTINF:0 channelId="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Tele-Uno-Costa-Rica.png",TeleUno
 http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
