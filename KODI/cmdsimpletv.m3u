@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1, Cable Mario Channel
 http://stream.memesyndicate.com/live/thx/index.m3u8
-#EXTINF:-1, Cable Mario Channel
-http://tv.megaseedbox.com:8000/live/RICKY/RICKY/106.ts
+
+
 
 #EXTINF:0 channelId="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Tele-Uno-Costa-Rica.png",TeleUno
 http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
@@ -87,35 +87,18 @@ http://www.jomyson.com:8000/live/pati/pati1/6694.m3u8
 #EXTINF:-1 tvg-id="AzMundo.mx" tvg-name="AzMundo.mx" tvg-logo="http://images.mi.tv/channels/co_az-mundo-hd_m.png",Azteca Mundo
 http://www.jomyson.com:8000/live/pati/pati1/6726.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="AZTECA 7" tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Azteca7.png",Azteca 7
-http://www.jomyson.com:8000/live/pati/pati1/6754.m3u8
+http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/index_3_av-p.m3u8
 #EXTINF:-1 tvg-id="Azteca13.mx" tvg-name="Azteca13.mx" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Azteca-13.png",Azteca 13
-http://www.jomyson.com:8000/live/pati/pati1/6664.m3u8
-#EXTINF:-1,Azteca Internacional
-http://www.jomyson.com:8000/live/pati/pati1/6663.m3u8
+http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
 #EXTINF:-1 tvg-id="OnceTV.mx" tvg-name="OnceTV.mx" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-Once.png",Canal 11
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas MX HD" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_08/rojo2.png.97a0e3046d89aefbf962b031b77222d6.png",Las Estrellas
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas MX HD" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_08/rojo2.png.97a0e3046d89aefbf962b031b77222d6.png",Las Estrellas HD
-http://www.jomyson.com:8000/live/pati/pati1/6751.m3u8
-#EXTINF:-1,CANAL 5
-http://www.jomyson.com:8000/live/pati/pati1/6753.m3u8
-#EXTINF:-1,GALA TV
-http://www.jomyson.com:8000/live/pati/pati1/7.m3u8
-#EXTINF:-1,Imagen Television
-http://main.nrdtv.gq:2095/live/tadeosanchez/0100240/136.m3u8
-#EXTINF:-1,Imagen Television
-http://www.jomyson.com:8000/live/pati/pati1/6669.m3u8
 #EXTINF:-1 tvg-id="MultimediosMonterrey.mx" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/022011/multimedios.png?itok=Gbsqnn0h", Multimedios
 http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 #EXTINF:-1 channelId="" tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/tvmas.png",TVMAS
 http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?
-#EXTINF:-1,Televisa Monterrrey
-http://www.jomyson.com:8000/live/pati/pati1/6715.m3u8
-#EXTINF:-1,Televisa Puebla
-http://www.jomyson.com:8000/live/pati/pati1/6666.m3u8
-#EXTINF:-1,TVC MX
-http://www.jomyson.com:8000/live/pati/pati1/6676.m3u8
+
 
 
 
@@ -183,7 +166,7 @@ http://main.nrdtv.gq:2095/live/tadeosanchez/0100240/170.m3u8
 #EXTINF:-1, #0
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/611/index.m3u8
 #EXTINF:-1 tvg-id="AE.mx" tvg-name="A&E HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/ae.gif",A&E
-http://www.jomyson.com:8000/live/pati/pati1/6744.m3u8
+http://www.ragnaroktv.com/hls_live/kr/AE_MUNDO_HD/MzYwMDMxMTY0NwEA/aehd.m3u8
 #EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC  HD" tvg-logo="http://static.iptv-epg.com/mx/AMC.mx.png,AMC
 http://www.ragnaroktv.com/hls_live/kr/AMC_HD/MzYwMDMxMTY0NwEA/amc.m3u8
 #EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN HD" tvg-logo="http://static.iptv-epg.com/mx/AXN.mx.png,AXN
@@ -464,23 +447,6 @@ http://disfruta.life:8000/live/Constanza123/Constanza123/7473.m3u8
 #EXTINF:-1,DIRECTV SPORTS PLUS
 http://disfruta.life:8000/live/Constanza123/Constanza123/3439.m3u8
 
-
-#EXTINF:-1,ESPN MX
-http://www.jomyson.com:8000/live/pati/pati1/382.m3u8
-#EXTINF:-1,ESPN HD MX
-http://main.nrdtv.gq:2095/live/tadeosanchez/0100240/474.m3u8
-#EXTINF:-1,ESPN 2 MX
-http://www.jomyson.com:8000/live/pati/pati1/383.m3u8
-#EXTINF:-1,ESPN 2 HD MX
-http://www.jomyson.com:8000/live/pati/pati1/1604.m3u8
-#EXTINF:-1,ESPN 3 MX
-http://www.jomyson.com:8000/live/pati/pati1/384.m3u8
-#EXTINF:-1,ESPN 3 HD MX
-http://www.jomyson.com:8000/live/pati/pati1/1603.m3u8
-#EXTINF:-1,ESPN +
-http://www.jomyson.com:8000/live/pati/pati1/1201.m3u8
-#EXTINF:-1,ext,ESPN Deportes
-http://main.nrdtv.gq:2095/live/tadeosanchez/0100240/144.m3u8
 #EXTINF:-1,ESPN DEPORTES
 http://51.15.222.188/live/espndeportes/index.m3u8
 #EXTINF:-1 tvg-id="ESPN+.mx" tvg-name="ESPN+.mx" tvg-logo="https://s6.postimg.org/6p8lpe8gh/Espn.png",ESPN+
@@ -491,12 +457,6 @@ http://www.ragnaroktv.com/hls_live/kr/ESPN_HD/MzYwMDMxMTY0NwEA/espn.m3u8
 http://www.ragnaroktv.com/hls_live/kr/ESPN_2_HD/MzYwMDMxMTY0NwEA/espn2.m3u8
 #EXTINF:-1 tvg-id="ESPN3SD.ar" tvg-name="ESPN3SD.ar" tvg-logo="https://s6.postimg.org/a8veuewk1/espn3.png,ESPN 3 Sur
 http://www.ragnaroktv.com/hls_live/kr/ESPN_3_HD/MzYwMDMxMTY0NwEA/espn3_kr.m3u8
-#EXTINF:-1,NBC SPORT NET
-http://main.nrdtv.gq:2095/live/tadeosanchez/0100240/194.m3u8
-#EXTINF:-1, FOX Soccer Plus
-http://main.nrdtv.gq:2095/live/tadeosanchez/0100240/222.m3u8
-#EXTINF:-1, FOX DEPORTES
-http://main.nrdtv.gq:2095/live/tadeosanchez/0100240/145.m3u8
 #EXTINF:0,Fox Sports MX
 http://www.ragnaroktv.com/hls_live/kr/FOXSP1_MX_HD/MzYwMDMxMTY0NwEA/f0xsportsmx.m3u8
 #EXTINF:0,Fox Sports 2 MX
@@ -507,22 +467,8 @@ http://www.ragnaroktv.com/hls_live/kr/FOX_SPORTS_HD/MzYwMDMxMTY0NwEA/foxsports.m
 http://www.ragnaroktv.com/hls_live/kr/FOX_SPORTS2_HD/MzYwMDMxMTY0NwEA/foxsports2.m3u8
 #EXTINF:0,Fox Sports 3
 http://www.ragnaroktv.com/hls_live/kr/FOX_SPORTS3_HD/MzYwMDMxMTY0NwEA/foxsports3.m3u8
-#EXTINF:-1,FOX SPORT PREMIUM HD
-http://www.jomyson.com:8000/live/pati/pati1/987.m3u8
-#EXTINF:-1,GARAGE TV
-http://www.jomyson.com:8000/live/pati/pati1/35.m3u8
-#EXTINF:-1,HMX
-http://www.jomyson.com:8000/live/pati/pati1/14.m3u8
-#EXTINF:-1,PX
-http://www.jomyson.com:8000/live/pati/pati1/6684.m3u8
-#EXTINF:-1,TNT SPORT
-http://www.jomyson.com:8000/live/pati/pati1/1000.m3u8
-#EXTINF:-1,TYC SPORT
-http://www.jomyson.com:8000/live/pati/pati1/1163.m3u8
-#EXTINF:-1,TVC DEPORTES
-http://www.jomyson.com:8000/live/pati/pati1/6677.m3u8
 #EXTINF:-1,Univision Deportes
-http://main.nrdtv.gq:2095/live/tadeosanchez/0100240/141.m3u8
+http://51.15.222.188/live/udn/index.m3u8
 
 
 
