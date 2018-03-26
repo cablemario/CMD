@@ -441,22 +441,14 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
 
 #EXTINF:-1,Bein Sport ES
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/566/index.m3u8
-#EXTINF:-1,Bein Sport ES
-http://main.nrdtv.gq:2095/live/tadeosanchez/0100240/147.m3u8
 #EXTINF:-1, Bein Sport LaLiga
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8
-#EXTINF:-1, Bein Sport LaLiga
-http://main.nrdtv.gq:2095/live/tadeosanchez/0100240/138.m3u8
-#EXTINF:-1, Bein Sport LaLiga
-http://main.nrdtv.gq:2095/live/tadeosanchez/0100240/139.m3u8
 #EXTINF:-1,BEIN SPORT Ñ
 http://www.jomyson.com:8000/live/pati/pati1/712.m3u8
 #EXTINF:-1,BEIN SPORT Ñ
 http://main.nrdtv.gq:2095/live/tadeosanchez/0100240/143.m3u8
 #EXTINF:-1, La Liga TV
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/581/index.m3u8
-#EXTINF:-1, Gol TV
-http://main.nrdtv.gq:2095/live/tadeosanchez/0100240/219.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="ClaroSports.mx" ,Claro Sports
 http://main.nrdtv.gq:2095/live/tadeosanchez/0100240/294.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="ClaroSports.mx" ,Claro Sports 2
@@ -465,10 +457,14 @@ http://www.ragnaroktv.com/hls_live/kr/CLARO_SPORTS_COL_HD/MzYwMDMxMTY0NwEA/clspo
 http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8
 #EXTINF:-1,COS FC
 http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-480p/chunks.m3u8
-#EXTINF:-1,DIRECTV SPORT
-http://www.jomyson.com:8000/live/pati/pati1/1034.m3u8
-#EXTINF:-1,DIRECTV SPORT 2
-http://www.jomyson.com:8000/live/pati/pati1/723.m3u8
+#EXTINF:-1,DIRECTV SPORTS
+http://disfruta.life:8000/live/Constanza123/Constanza123/7448.m3u8
+#EXTINF:-1,DIRECTV SPORTS 2
+http://disfruta.life:8000/live/Constanza123/Constanza123/7473.m3u8
+#EXTINF:-1,DIRECTV SPORTS PLUS
+http://disfruta.life:8000/live/Constanza123/Constanza123/3439.m3u8
+
+
 #EXTINF:-1,ESPN MX
 http://www.jomyson.com:8000/live/pati/pati1/382.m3u8
 #EXTINF:-1,ESPN HD MX
