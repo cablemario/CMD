@@ -166,25 +166,25 @@ http://main.nrdtv.gq:2095/live/tadeosanchez/0100240/170.m3u8
 #EXTINF:-1, #0
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/611/index.m3u8
 #EXTINF:-1 tvg-id="AE.mx" tvg-name="A&E HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/ae.gif",A&E
-http://www.ragnaroktv.com/hls_live/kr/AE_MUNDO_HD/MzYwMDMxMTY0NwEA/aehd.m3u8
+http://www.ragnaroktv.com/hls_live/kr/AE_MUNDO_HD/MzIzNTU2t7AwBAA=/aehd.m3u8
 #EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC  HD" tvg-logo="http://static.iptv-epg.com/mx/AMC.mx.png,AMC
-http://www.ragnaroktv.com/hls_live/kr/AMC_HD/MzYwMDMxMTY0NwEA/amc.m3u8
+http://www.ragnaroktv.com/hls_live/kr/AMC_HD/MzIzNTU2t7AwBAA=/amc.m3u8
 #EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN HD" tvg-logo="http://static.iptv-epg.com/mx/AXN.mx.png,AXN
-http://www.ragnaroktv.com/hls_live/kr/AXN_HD/MzYwMDMxMTY0NwEA/axn.m3u8
+http://www.ragnaroktv.com/hls_live/kr/AXN_HD/MzIzNTU2t7AwBAA=/axn.m3u8
 #EXTINF:-1, AXN ES
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/610/index.m3u8
 #EXTINF:-1, AXN White
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/609/index.m3u8
 #EXTINF:0,Canal Uno
-http://www.ragnaroktv.com/hls_live/kr/CANAL_UNO_HD/MzYwMDMxMTY0NwEA/uno.m3u8
+http://www.ragnaroktv.com/hls_live/kr/CANAL_UNO_HD/MzIzNTU2t7AwBAA=/uno.m3u8
 #EXTINF:-1,tvg-id="CaracolColombia.cl" tvg-name="CaracolColombia.cl",Caracol
-http://www.ragnaroktv.com/hls_live/kr/CARACOL_INT/MzYwMDMxMTY0NwEA/caracol_int.m3u8
+http://www.ragnaroktv.com/hls_live/kr/CARACOL_INT/MzIzNTU2t7AwBAA=/caracol_int.m3u8
 #EXTINF:-1,CHV 3 HD
 http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
 #EXTINF:0,City TV
-http://www.ragnaroktv.com/hls_live/kr/CITY_TV/MzYwMDMxMTY0NwEA/citytv.m3u8
+http://www.ragnaroktv.com/hls_live/kr/CITY_TV/MzIzNTU2t7AwBAA=/citytv.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="ComedyCentral.mx" tvg-logo=",Comedy Central
-http://www.ragnaroktv.com/hls_live/kr/COMEDY_CENTRAL_HD/MzYwMDMxMTY0NwEA/cc.m3u8
+http://www.ragnaroktv.com/hls_live/kr/COMEDY_CENTRAL_HD/MzIzNTU2t7AwBAA=/cc.m3u8
 #EXTINF:-1,COMEDY CENTRAL
 http://www.jomyson.com:8000/live/pati/pati1/430.m3u8
 #EXTINF:-1, Comedy Central
@@ -194,27 +194,27 @@ http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/570/inde
 #EXTINF:-1,DISTRITO COMEDIA
 http://www.jomyson.com:8000/live/pati/pati1/429.m3u8
 #EXTINF:-1 tvg-id="E.mx" tvg-name="E.mx" tvg-logo="http://z.cdn.entutele.com/media/channels/big/e-entertainment-television.gif",E! Entertaiment
-http://www.ragnaroktv.com/hls_live/kr/E/MzYwMDMxMTY0NwEA/e_ent.m3u8
+http://www.ragnaroktv.com/hls_live/kr/E/MzIzNTU2t7AwBAA=/e_ent.m3u8
 #EXTINF:-1 tvg-id="Gourmet.ar" tvg-name="Gourmet.ar" tvg-logo="https://s6.postimg.org/8x82yrdjl/7.png",El Gourmet
-http://www.ragnaroktv.com/hls_live/kr/GOURMET_HD/MzYwMDMxMTY0NwEA/elgourmet.m3u8
+http://www.ragnaroktv.com/hls_live/kr/GOURMET_HD/MzIzNTU2t7AwBAA=/elgourmet.m3u8
 #EXTINF:-1,ESTRELLA TV
 http://main.nrdtv.gq:2095/live/tadeosanchez/0100240/235.m3u8
 #EXTINF:-1,FOOD NETWORK FHD
 http://www.jomyson.com:8000/live/pati/pati1/6724.m3u8
 #EXTINF:-1,tvg-id="Fox.mx" tvg-name="Fox.mx",FOX
-http://www.ragnaroktv.com/hls_live/kr/FOX_HD/MzYwMDMxMTY0NwEA/f0x.m3u8
+http://www.ragnaroktv.com/hls_live/kr/FOX_HD/MzIzNTU2t7AwBAA=/f0x.m3u8
 #EXTINF:-1, FOX ES
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/608/index.m3u8
 #EXTINF:-1 tvg-id="FoxLife.mx" tvg-name="Fox Life MX" tvg-logo="https://s32.postimg.org/hai73qrc5/Fox_Life_logo_2013.png,Fox Life
-http://www.ragnaroktv.com/hls_live/kr/FOX_LIFE_HD/MzYwMDMxMTY0NwEA/f0xlife.m3u8
+http://www.ragnaroktv.com/hls_live/kr/FOX_LIFE_HD/MzIzNTU2t7AwBAA=/f0xlife.m3u8
 #EXTINF:-1, Fox Life ES
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/601/index.m3u8
 #EXTINF:-1,FX
-http://www.ragnaroktv.com/hls_live/kr/FX_HD/MzYwMDMxMTY0NwEA/fx.m3u8
+http://www.ragnaroktv.com/hls_live/kr/FX_HD/MzIzNTU2t7AwBAA=/fx.m3u8
 #EXTINF:-1,GALAVISION HD
 http://main.nrdtv.gq:2095/live/tadeosanchez/0100240/135.m3u8
 #EXTINF:-1,Hola TV
-http://www.ragnaroktv.com/hls_live/kr/HOLA_TV_HD/MzYwMDMxMTY0NwEA/hola.m3u8
+http://www.ragnaroktv.com/hls_live/kr/HOLA_TV_HD/MzIzNTU2t7AwBAA=/hola.m3u8
 #EXTINF:-1,tvg-id="Lared.cl" tvg-name="Lared.cl" tvg-logo="sCvUjtl.png", La Red
 http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8
 #EXTINF:-1,LIFETIME
@@ -228,11 +228,11 @@ http://main.nrdtv.gq:2095/live/tadeosanchez/0100240/198.m3u8
 #EXTINF:-1, tvg-logo="http://i.imgur.com/FUh9igN.png",RCN
 https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
 #EXTINF:-1 tvg-id="Sony.mx" tvg-name="Sony.mx" tvg-logo="http://z.cdn.entutele.com/media/channels/big/sony.gif",Sony
-http://www.ragnaroktv.com/hls_live/kr/SONY_HD/MzYwMDMxMTY0NwEA/sony.m3u8
+http://www.ragnaroktv.com/hls_live/kr/SONY_HD/MzIzNTU2t7AwBAA=/sony.m3u8
 #EXTINF:-1,SYFY
 http://www.jomyson.com:8000/live/pati/pati1/415.m3u8
 #EXTINF:-1 tvg-id="TBS.mx" tvg-name="TBS MX" tvg-logo="http://z.cdn.entutele.com/media/channels/big/tbs.jpg",TBS
-http://www.ragnaroktv.com/hls_live/kr/TBS_HD/MzYwMDMxMTY0NwEA/tbs.m3u8
+http://www.ragnaroktv.com/hls_live/kr/TBS_HD/MzIzNTU2t7AwBAA=/tbs.m3u8
 #EXTINF:-1 tvg-id="TelemundoEast.us" tvg-name="TelemundoEast.us" tvg-logo="https://s6.postimg.org/6v306rq6p/21.png",Telemundo
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
 #EXTINF:-1,Telemundo 62 HD
@@ -240,25 +240,25 @@ http://wwsilive-lh.akamaihd.net/i/WWSI_LIVE1@183620/master.m3u8
 #EXTINF:-1,TELEMUNDO 47 HD
 http://main.nrdtv.gq:2095/live/tadeosanchez/0100240/131.m3u8
 #EXTINF:-1 tvg-id="TelemundoEast.us" tvg-name="TelemundoEast.us" tvg-logo="https://s6.postimg.org/6v306rq6p/21.png",Telemundo Internacional
-http://www.ragnaroktv.com/hls_live/kr/TELEMUNDO/MzYwMDMxMTY0NwEA/telemun_int.m3u8
+http://www.ragnaroktv.com/hls_live/kr/TELEMUNDO/MzIzNTU2t7AwBAA=/telemun_int.m3u8
 #EXTINF:0,TLC
-http://www.ragnaroktv.com/hls_live/kr/TLC_HD/MzYwMDMxMTY0NwEA/tlc.m3u8
+http://www.ragnaroktv.com/hls_live/kr/TLC_HD/MzIzNTU2t7AwBAA=/tlc.m3u8
 #EXTINF:-1 tvg-id="TNTSeries.cl" tvg-name="TNTSeries.cl" tvg-logo="https://s6.postimg.org/g7w71cyfl/tnt_series.png,TNT Series
-http://www.ragnaroktv.com/hls_live/kr/TNT_SERIES_HD/MzYwMDMxMTY0NwEA/tnt_ser.m3u8
+http://www.ragnaroktv.com/hls_live/kr/TNT_SERIES_HD/MzIzNTU2t7AwBAA=/tnt_ser.m3u8
 #EXTINF:-1 tvg-id="TruTV.mx" tvg-name="TruTV.mx" tvg-logo="https://s6.postimg.org/l5lr9qlap/22.png",TruTV
-http://www.ragnaroktv.com/hls_live/kr/TRU_TV_HD/MzYwMDMxMTY0NwEA/trutv_hd.m3u8
+http://www.ragnaroktv.com/hls_live/kr/TRU_TV_HD/MzIzNTU2t7AwBAA=/trutv_hd.m3u8
 #EXTINF:-1,Unicable MX
 http://www.jomyson.com:8000/live/pati/pati1/409.m3u8
 #EXTINF:-1 tvg-id="Unicable.mx" tvg-name="Unicable HD" tvg-logo="http://airecable.com/wp-content/uploads/2013/09/UNICABLE.png",Unicable LA
-http://www.ragnaroktv.com/hls_live/kr/UNICABLE/MzYwMDMxMTY0NwEA/unicable.m3u8
+http://www.ragnaroktv.com/hls_live/kr/UNICABLE/MzIzNTU2t7AwBAA=/unicable.m3u8
 #EXTINF:-1 tvg-id="UniMas.us" tvg-name="Unimas" tvg-logo="http://static.iptv-epg.com/us/UniMas.us.png",Unimas
 http://main.nrdtv.gq:2095/live/tadeosanchez/0100240/217.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1200px-Universal_Channel_Logo_2013.svg.png",Universal Channel
-http://www.ragnaroktv.com/hls_live/kr/UNIVERSAL_CHANNEL/MzYwMDMxMTY0NwEA/univers.m3u8
+http://www.ragnaroktv.com/hls_live/kr/UNIVERSAL_CHANNEL/MzIzNTU2t7AwBAA=/univers.m3u8
 #EXTINF:-1 tvg-id="Univision.co" tvg-name="Univision HD" tvg-logo="https://s6.postimg.org/9mu32qonl/univision.png",Univision
 http://main.nrdtv.gq:2095/live/tadeosanchez/0100240/133.m3u8
 #EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner Channel MX HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/e/eb/Warner_hd.png/revision/latest/scale-to-width-down/266?cb=20170113021449",Warner Channel
-http://www.ragnaroktv.com/hls_live/kr/WARNER_HD/MzYwMDMxMTY0NwEA/warner.m3u8
+http://www.ragnaroktv.com/hls_live/kr/WARNER_HD/MzIzNTU2t7AwBAA=/warner.m3u8
 #EXTINF:-1,WOBI
 http://www.jomyson.com:8000/live/pati/pati1/69.m3u8
 
@@ -266,62 +266,62 @@ http://www.jomyson.com:8000/live/pati/pati1/69.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Baby TV
 http://www.jomyson.com:8000/live/pati/pati1/6693.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Boomerang
-http://www.ragnaroktv.com/hls_live/kr/BOOMERANG/MzYwMDMxMTY0NwEA/boomerang.m3u8
+http://www.ragnaroktv.com/hls_live/kr/BOOMERANG/MzIzNTU2t7AwBAA=/boomerang.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Cartoon Network
-http://www.ragnaroktv.com/hls_live/kr/CARTOON_NETWORK_HD/MzYwMDMxMTY0NwEA/cart_net.m3u8
+http://www.ragnaroktv.com/hls_live/kr/CARTOON_NETWORK_HD/MzIzNTU2t7AwBAA=/cart_net.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Discovery Kids
-http://www.ragnaroktv.com/hls_live/kr/DISCOVERY_KIDS_HD/MzYwMDMxMTY0NwEA/disc_kids.m3u8
+http://www.ragnaroktv.com/hls_live/kr/DISCOVERY_KIDS_HD/MzIzNTU2t7AwBAA=/disc_kids.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Disney Channel
-http://www.ragnaroktv.com/hls_live/kr/DISNEY_HD/MzYwMDMxMTY0NwEA/d1sney.m3u8
+http://www.ragnaroktv.com/hls_live/kr/DISNEY_HD/MzIzNTU2t7AwBAA=/d1sney.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Disney Jr
-http://www.ragnaroktv.com/hls_live/kr/DISNEY_JR/MzYwMDMxMTY0NwEA/d1sneyjr.m3u8
+http://www.ragnaroktv.com/hls_live/kr/DISNEY_JR/MzIzNTU2t7AwBAA=/d1sneyjr.m3u8
 #EXTINF:-1, Disney JR ES
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/604/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Disney XD
-http://www.ragnaroktv.com/hls_live/kr/DISNEY_XD/MzYwMDMxMTY0NwEA/d1sneyxd.m3u8
+http://www.ragnaroktv.com/hls_live/kr/DISNEY_XD/MzIzNTU2t7AwBAA=/d1sneyxd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",NatGeo Kids
-http://www.ragnaroktv.com/hls_live/kr/NATGEO_KIDS_HD/MzYwMDMxMTY0NwEA/natgeo_kids.m3u8
+http://www.ragnaroktv.com/hls_live/kr/NATGEO_KIDS_HD/MzIzNTU2t7AwBAA=/natgeo_kids.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Nick
-http://www.ragnaroktv.com/hls_live/kr/NICKELODEON_HD/MzYwMDMxMTY0NwEA/nick.m3u8
+http://www.ragnaroktv.com/hls_live/kr/NICKELODEON_HD/MzIzNTU2t7AwBAA=/nick.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Nick 2
-http://www.ragnaroktv.com/hls_live/kr/NICK_2_HD/MzYwMDMxMTY0NwEA/nick2.m3u8
+http://www.ragnaroktv.com/hls_live/kr/NICK_2_HD/MzIzNTU2t7AwBAA=/nick2.m3u8
 #EXTINF:-1,TIIN
 http://www.jomyson.com:8000/live/pati/pati1/54.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Tooncast
-http://www.ragnaroktv.com/hls_live/kr/TOONCAST/MzYwMDMxMTY0NwEA/tooncast.m3u8
+http://www.ragnaroktv.com/hls_live/kr/TOONCAST/MzIzNTU2t7AwBAA=/tooncast.m3u8
 
 
 
 #EXTINF:-1 tvg-id="AztecaHonduras.hn" tvg-name="Azteca Cinema" tvg-logo="https://imagenes.gatotv.com/logos/canales/az_cinema.png,Azteca Cinema
 http://www.jomyson.com:8000/live/pati/pati1/75.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal MX HD" tvg-logo="http://i.imgur.com/lY39g.png,Cinecanal
-http://www.ragnaroktv.com/hls_live/kr/CINECANAL_HD/MzYwMDMxMTY0NwEA/cinecanal.m3u8
+http://www.ragnaroktv.com/hls_live/kr/CINECANAL_HD/MzIzNTU2t7AwBAA=/cinecanal.m3u8
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax MX HD" tvg-logo="http://static.iptv-epg.com/mx/Cinemax.mx.png,Cinemax
-http://www.ragnaroktv.com/hls_live/kr/CINEMAX/MzYwMDMxMTY0NwEA/c1nemax.m3u8
+http://www.ragnaroktv.com/hls_live/kr/CINEMAX/MzIzNTU2t7AwBAA=/c1nemax.m3u8
 #EXTINF:-1,Cine Latino
-http://www.ragnaroktv.com/hls_live/kr/CINELATINO/MzYwMDMxMTY0NwEA/cinelatino.m3u8
+http://www.ragnaroktv.com/hls_live/kr/CINELATINO/MzIzNTU2t7AwBAA=/cinelatino.m3u8
 #EXTINF:-1,Cinema Dinamita
-http://www.ragnaroktv.com/hls_live/kr/CINEMA_DINAMITA/MzYwMDMxMTY0NwEA/cinema_dinamita.m3u8
+http://www.ragnaroktv.com/hls_live/kr/CINEMA_DINAMITA/MzIzNTU2t7AwBAA=/cinema_dinamita.m3u8
 #EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="De Película MX" tvg-logo="https://s6.postimg.org/g69ky5vyp/846px-_De_Pel_cula.svg.png",De Película
-http://www.ragnaroktv.com/hls_live/kr/DEPELICULA/MzYwMDMxMTY0NwEA/depelicula.m3u8
+http://www.ragnaroktv.com/hls_live/kr/DEPELICULA/MzIzNTU2t7AwBAA=/depelicula.m3u8
 #EXTINF:-1,DHE
-http://www.ragnaroktv.com/hls_live/kr/DHE_HD/MzYwMDMxMTY0NwEA/dhe.m3u8
+http://www.ragnaroktv.com/hls_live/kr/DHE_HD/MzIzNTU2t7AwBAA=/dhe.m3u8
 #EXTINF:-1,Euro Channel
-http://www.ragnaroktv.com/hls_live/kr/EUROCHANNEL/MzYwMDMxMTY0NwEA/eurochannel.m3u8
+http://www.ragnaroktv.com/hls_live/kr/EUROCHANNEL/MzIzNTU2t7AwBAA=/eurochannel.m3u8
 #EXTINF:-1,FXM
-http://www.ragnaroktv.com/hls_live/kr/THE_FILM_ZONE_HD/MzYwMDMxMTY0NwEA/fxm.m3u8
+http://www.ragnaroktv.com/hls_live/kr/THE_FILM_ZONE_HD/MzIzNTU2t7AwBAA=/fxm.m3u8
 #EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden MX HD" tvg-logo="https://s6.postimg.org/422uwlb9t/Golden-televisa.png,Golden+
-http://www.ragnaroktv.com/hls_live/kr/GOLDEN_HD/MzYwMDMxMTY0NwEA/golden.m3u8
+http://www.ragnaroktv.com/hls_live/kr/GOLDEN_HD/MzIzNTU2t7AwBAA=/golden.m3u8
 #EXTINF:-1,GOLDEN EDGE
 http://www.jomyson.com:8000/live/pati/pati1/457.m3u8
 #EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="Golden Edge MX" tvg-logo="https://s32.postimg.org/mz6gbwggl/golden_edg.png,Golden Premier
-http://www.ragnaroktv.com/hls_live/kr/GOLDEN_PREMIER_HD/MzYwMDMxMTY0NwEA/goldp.m3u8
+http://www.ragnaroktv.com/hls_live/kr/GOLDEN_PREMIER_HD/MzIzNTU2t7AwBAA=/goldp.m3u8
 #EXTINF:-1, Hollywood Español
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/577/index.m3u8
 #EXTINF:-1, Hollywood Ingles
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/578/index.m3u8
 #EXTINF:-1 tvg-id="ISat.ar" tvg-name="I-SAT MX" tvg-logo="https://s31.postimg.org/4f1271fqj/isat_logo_471x201.png,I-SAT
-http://www.ragnaroktv.com/hls_live/kr/ISAT/MzYwMDMxMTY0NwEA/isat.m3u8
+http://www.ragnaroktv.com/hls_live/kr/ISAT/MzIzNTU2t7AwBAA=/isat.m3u8
 #EXTINF:-1, Movistar Accion
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/605/index.m3u8
 #EXTINF:-1, Movistar Comedia
@@ -329,89 +329,89 @@ http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/580/inde
 #EXTINF:-1, Movistar Dcine
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/607/index.m3u8
 #EXTINF:-1,Multipremier
-http://www.ragnaroktv.com/hls_live/kr/MULTIPREMIER/MzYwMDMxMTY0NwEA/multipremier.m3u8
+http://www.ragnaroktv.com/hls_live/kr/MULTIPREMIER/MzIzNTU2t7AwBAA=/multipremier.m3u8
 #EXTINF:-1 tvg-id="ParamountChannel.mx" tvg-name="ParamountChannel.mx" tvg-logo="https://s6.postimg.org/3ku7u2no1/paramount.png,Paramount
-http://www.ragnaroktv.com/hls_live/kr/PARAMOUNT_HD/MzYwMDMxMTY0NwEA/param.m3u8
+http://www.ragnaroktv.com/hls_live/kr/PARAMOUNT_HD/MzIzNTU2t7AwBAA=/param.m3u8
 #EXTINF:-1 tvg-id="SpaceHD.mx" tvg-name="SpaceHD.mx",Space
-http://www.ragnaroktv.com/hls_live/kr/SPACE_HD/MzYwMDMxMTY0NwEA/space.m3u8
+http://www.ragnaroktv.com/hls_live/kr/SPACE_HD/MzIzNTU2t7AwBAA=/space.m3u8
 #EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="Studio Universal MX" tvg-logo="https://s31.postimg.org/g269c061n/studio_uni.png,Studio Universal
-http://www.ragnaroktv.com/hls_live/kr/STUDIO_UNIVERSAL/MzYwMDMxMTY0NwEA/stdio_univ.m3u8
+http://www.ragnaroktv.com/hls_live/kr/STUDIO_UNIVERSAL/MzIzNTU2t7AwBAA=/stdio_univ.m3u8
 #EXTINF:-1 tvg-logo="http://ragnaroktv.com/logostv/peliculas/3.png", SUNDANCE CHANNEL
-http://www.ragnaroktv.com/hls_live/kr/SUNDANCE_HD/MzYwMDMxMTY0NwEA/sundance.m3u8
+http://www.ragnaroktv.com/hls_live/kr/SUNDANCE_HD/MzIzNTU2t7AwBAA=/sundance.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/XGvROH4.png",TCM
-http://www.ragnaroktv.com/hls_live/kr/TCM/MzYwMDMxMTY0NwEA/tcm.m3u8
+http://www.ragnaroktv.com/hls_live/kr/TCM/MzIzNTU2t7AwBAA=/tcm.m3u8
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT MX HD" tvg-logo="https://s6.postimg.org/pgydbh7bl/tnt_logo.png",TNT
-http://www.ragnaroktv.com/hls_live/kr/TNT_HD/MzYwMDMxMTY0NwEA/tnt.m3u8
+http://www.ragnaroktv.com/hls_live/kr/TNT_HD/MzIzNTU2t7AwBAA=/tnt.m3u8
 
 #EXTINF:-1 tvg-id="FoxAction.mx" tvg-name="Fox Action MX HD" tvg-logo="https://s6.postimg.org/f19tjlglt/foxaction.png,Fox Action
-http://www.ragnaroktv.com/hls_live/kr/FOXACTION_HD/MzYwMDMxMTY0NwEA/foxaction.m3u8
+http://www.ragnaroktv.com/hls_live/kr/FOXACTION_HD/MzIzNTU2t7AwBAA=/foxaction.m3u8
 #EXTINF:-1 tvg-id="FoxAction.mx" tvg-name="Fox Action MX HD" tvg-logo="https://s6.postimg.org/f19tjlglt/foxaction.png,Fox Action HD
 http://www.jomyson.com:8000/live/pati/pati1/6762.m3u8
 #EXTINF:-1,Fox Cinema
-http://www.ragnaroktv.com/hls_live/kr/FOX_CINEMA_HD_SUB/MzYwMDMxMTY0NwEA/f0x_cinema_sub.m3u8
+http://www.ragnaroktv.com/hls_live/kr/FOX_CINEMA_HD_SUB/MzIzNTU2t7AwBAA=/f0x_cinema_sub.m3u8
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-classics.png", Fox Classics
-http://www.ragnaroktv.com/hls_live/kr/FOX_CLASSICS_HD/MzYwMDMxMTY0NwEA/f0x_classics.m3u8
+http://www.ragnaroktv.com/hls_live/kr/FOX_CLASSICS_HD/MzIzNTU2t7AwBAA=/f0x_classics.m3u8
 #EXTINF:-1,Fox Comedy
-http://www.ragnaroktv.com/hls_live/kr/FOX_COMEDY_HD/MzYwMDMxMTY0NwEA/f0x_comedy.m3u8
+http://www.ragnaroktv.com/hls_live/kr/FOX_COMEDY_HD/MzIzNTU2t7AwBAA=/f0x_comedy.m3u8
 #EXTINF:-1,tvg-id="FoxMoviesHD.mx" tvg-name="FoxMoviesHD.mx",Fox Movies
-http://www.ragnaroktv.com/hls_live/kr/FOXMOVIES_HD/MzYwMDMxMTY0NwEA/f0x_movies.m3u8
+http://www.ragnaroktv.com/hls_live/kr/FOXMOVIES_HD/MzIzNTU2t7AwBAA=/f0x_movies.m3u8
 #EXTINF:-1,tvg-id="FoxMoviesHD.mx" tvg-name="FoxMoviesHD.mx",Fox Movies HD
 http://www.jomyson.com:8000/live/pati/pati1/6758.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-zmTGzafOIe8/Vfz6Yzk1MQI/AAAAAAAAAX0/bomr2zyOrdw/s400/logo%2BFOX%2BFAMILY.png", Fox Family
-http://www.ragnaroktv.com/hls_live/kr/FOXFAMILY_HD/MzYwMDMxMTY0NwEA/f0x_family.m3u8
+http://www.ragnaroktv.com/hls_live/kr/FOXFAMILY_HD/MzIzNTU2t7AwBAA=/f0x_family.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-zmTGzafOIe8/Vfz6Yzk1MQI/AAAAAAAAAX0/bomr2zyOrdw/s400/logo%2BFOX%2BFAMILY.png", Fox Family HD
 http://www.jomyson.com:8000/live/pati/pati1/680.m3u8
 #EXTINF:-1,Fox Series
-http://www.ragnaroktv.com/hls_live/kr/FOX1_HD/MzYwMDMxMTY0NwEA/f0x_series.m3u8
+http://www.ragnaroktv.com/hls_live/kr/FOX1_HD/MzIzNTU2t7AwBAA=/f0x_series.m3u8
 #EXTINF:-1,Fox Series HD
 http://www.jomyson.com:8000/live/pati/pati1/6761.m3u8
 #EXTINF:-1 tvg-id="HBOE.mx" tvg-name="HBOE.mx" tvg-logo="https://s6.postimg.org/t8qbgrej5/hbo.png,HBO
-http://www.ragnaroktv.com/hls_live/kr/HBO_HD_SUB/MzYwMDMxMTY0NwEA/hbohd_sub.m3u8
+http://www.ragnaroktv.com/hls_live/kr/HBO_HD_SUB/MzIzNTU2t7AwBAA=/hbohd_sub.m3u8
 #EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO2.mx" tvg-logo="https://s6.postimg.org/ylf5uw2fl/hbo2.png,HBO 2
-http://www.ragnaroktv.com/hls_live/kr/HBO_2_HD/MzYwMDMxMTY0NwEA/hb02.m3u8
+http://www.ragnaroktv.com/hls_live/kr/HBO_2_HD/MzIzNTU2t7AwBAA=/hb02.m3u8
 #EXTINF:-1 tvg-id="HBOFamilyE.mx" tvg-name="HBOFamilyE.mx" tvg-logo="https://s6.postimg.org/vfuk4ojtd/HBO_Family_logo.png,HBO Family
-http://www.ragnaroktv.com/hls_live/kr/HBO_FAMILY_HD/MzYwMDMxMTY0NwEA/hb0fam.m3u8
+http://www.ragnaroktv.com/hls_live/kr/HBO_FAMILY_HD/MzIzNTU2t7AwBAA=/hb0fam.m3u8
 #EXTINF:-1 tvg-id="HBOPlusE.mx" tvg-name="HBOPlusE.mx" tvg-logo="https://s6.postimg.org/ipqbrlbv5/hboplus.png,HBO Plus
-http://www.ragnaroktv.com/hls_live/kr/HBO_PLUS_HD/MzYwMDMxMTY0NwEA/hboplus.m3u8
+http://www.ragnaroktv.com/hls_live/kr/HBO_PLUS_HD/MzIzNTU2t7AwBAA=/hboplus.m3u8
 #EXTINF:-1,HBO Signature
-http://www.ragnaroktv.com/hls_live/kr/HBO_SIGNATURE_HD/MzYwMDMxMTY0NwEA/hbosign.m3u8
+http://www.ragnaroktv.com/hls_live/kr/HBO_SIGNATURE_HD/MzIzNTU2t7AwBAA=/hbosign.m3u8
 #EXTINF:-1 tvg-id="MaxPrimeW.mx" tvg-name="MaxPrimeW.mx" tvg-logo="http://dishoaxaca.com.mx/img/canales%20hbomaxhd/maxprimehd.jpg",Max Prime
-http://www.ragnaroktv.com/hls_live/kr/MAX_PRIME_HD/MzYwMDMxMTY0NwEA/m4x_prime.m3u8
+http://www.ragnaroktv.com/hls_live/kr/MAX_PRIME_HD/MzIzNTU2t7AwBAA=/m4x_prime.m3u8
 #EXTINF:-1 tvg-id="MaxPrimeE.mx" tvg-name="MaxPrimeE.mx" tvg-logo="http://dishoaxaca.com.mx/img/canales%20hbomaxhd/maxprimehd.jpg",Max UP
-http://www.ragnaroktv.com/hls_live/kr/MAX_UP_HD/MzYwMDMxMTY0NwEA/m4xup.m3u8
+http://www.ragnaroktv.com/hls_live/kr/MAX_UP_HD/MzIzNTU2t7AwBAA=/m4xup.m3u8
 
 
 
 #EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet MX" tvg-logo="https://s6.postimg.org/psfd4v6tt/animal-planet-logo.png,Animal Planet
-http://www.ragnaroktv.com/hls_live/kr/ANIMAL_PLANET_HD/MzYwMDMxMTY0NwEA/anim_planet.m3u8
+http://www.ragnaroktv.com/hls_live/kr/ANIMAL_PLANET_HD/MzIzNTU2t7AwBAA=/anim_planet.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/814728645637849088/liai3Jbz.jpg",CGTN CHINA
 http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0050418.png",Discovery Channel
-http://www.ragnaroktv.com/hls_live/kr/DISCOVERY_CHANNEL_HD/MzYwMDMxMTY0NwEA/discovery_channel_hd.m3u8
+http://www.ragnaroktv.com/hls_live/kr/DISCOVERY_CHANNEL_HD/MzIzNTU2t7AwBAA=/discovery_channel_hd.m3u8
 #EXTINF:-1 tvg-id="DiscoveryCivilization.co" tvg-name="DISCOVERY CIVILIZATION" tvg-logo="https://s6.postimg.org/ra0tgfbkh/Discovery_Civilisation.png,Discovery Civilization
-http://www.ragnaroktv.com/hls_live/kr/DISCOVERY_CIVILIZATION/MzYwMDMxMTY0NwEA/disc_civil.m3u8
+http://www.ragnaroktv.com/hls_live/kr/DISCOVERY_CIVILIZATION/MzIzNTU2t7AwBAA=/disc_civil.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://strevista.com/wp-content/uploads/2017/03/hh_placeholder.jpg",Discovery Home & Health
-http://www.ragnaroktv.com/hls_live/kr/DISCOVERY_HOME_HEALTH_HD/MzYwMDMxMTY0NwEA/disc_hh.m3u8
+http://www.ragnaroktv.com/hls_live/kr/DISCOVERY_HOME_HEALTH_HD/MzIzNTU2t7AwBAA=/disc_hh.m3u8
 #EXTINF:-1 tvg-id="DiscoveryScience.in" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://4.bp.blogspot.com/-vp2f7vxSVuE/Vm3VU3rl_pI/AAAAAAAAAY0/Hxg6YW5HZWI/s1600/Discovery-Science.png,Discovery Science
-http://www.ragnaroktv.com/hls_live/kr/DISCOVERY_SCIENCE/MzYwMDMxMTY0NwEA/disc_science.m3u8
+http://www.ragnaroktv.com/hls_live/kr/DISCOVERY_SCIENCE/MzIzNTU2t7AwBAA=/disc_science.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="Discovery Theater MX" tvg-logo="https://s6.postimg.org/vlu0j67v5/Discovery_HD_Theater.png,Discovery Theater
-http://www.ragnaroktv.com/hls_live/kr/DISCOVERY_THEATER_HD/MzYwMDMxMTY0NwEA/theater.m3u8
+http://www.ragnaroktv.com/hls_live/kr/DISCOVERY_THEATER_HD/MzIzNTU2t7AwBAA=/theater.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTurbo.co" tvg-name="DISCOVERY TURBO" tvg-logo="https://s6.postimg.org/qbp1rvnm9/Discovery_Channelturbo.png,Discovery Turbo
-http://www.ragnaroktv.com/hls_live/kr/DISCOVERY_TURBO/MzYwMDMxMTY0NwEA/disc_turbo.m3u8
+http://www.ragnaroktv.com/hls_live/kr/DISCOVERY_TURBO/MzIzNTU2t7AwBAA=/disc_turbo.m3u8
 #EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="Discovery World MX" tvg-logo="https://s6.postimg.org/n64g1o501/Discovery_Channelword.png,Discovery World
-http://www.ragnaroktv.com/hls_live/kr/DISCOVERY_WORLD_HD/MzYwMDMxMTY0NwEA/world.m3u8
+http://www.ragnaroktv.com/hls_live/kr/DISCOVERY_WORLD_HD/MzIzNTU2t7AwBAA=/world.m3u8
 #EXTINF:-1 tvg-id="DeutscheWelle.ar" tvg-name="DeutscheWelle.ar,DW Latinoamerica
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
 #EXTINF:-1 tvg-id="HistoryChannel.mx" tvg-name="History Channel MX HD" tvg-logo="https://s6.postimg.org/j733oh7wx/history_hd.png,History Channel
-http://www.ragnaroktv.com/hls_live/kr/HISTORY_CHANNEL_HD/MzYwMDMxMTY0NwEA/history.m3u8
+http://www.ragnaroktv.com/hls_live/kr/HISTORY_CHANNEL_HD/MzIzNTU2t7AwBAA=/history.m3u8
 #EXTINF:-1 tvg-id="H2.co" tvg-name="H2 (LA)" tvg-logo="http://static.iptv-epg.com/es/Historia.es.png,H2
-http://www.ragnaroktv.com/hls_live/kr/H2/MzYwMDMxMTY0NwEA/h2.m3u8
+http://www.ragnaroktv.com/hls_live/kr/H2/MzIzNTU2t7AwBAA=/h2.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscovery.mx" tvg-name="Investigation Discovery MX" tvg-logo="https://s6.postimg.org/smn3w1ydt/Investigation_Discovery2013.png,Investigation Discovery
-http://www.ragnaroktv.com/hls_live/kr/ID_HD/MzYwMDMxMTY0NwEA/idhd.m3u8
+http://www.ragnaroktv.com/hls_live/kr/ID_HD/MzIzNTU2t7AwBAA=/idhd.m3u8
 #EXTINF:-1 tvg-id="NatGeo.mx" tvg-name="National Geographic MX  HD" tvg-logo="http://static.iptv-epg.com/mx/NatGeo.mx.png,National Geographic
-http://www.ragnaroktv.com/hls_live/kr/NATGEO_HD/MzYwMDMxMTY0NwEA/natgeo.m3u8
+http://www.ragnaroktv.com/hls_live/kr/NATGEO_HD/MzIzNTU2t7AwBAA=/natgeo.m3u8
 #EXTINF:-1 tvg-id="NatGeo.mx" tvg-name="National Geographic MX  HD" tvg-logo="http://static.iptv-epg.com/mx/NatGeo.mx.png,National Geographic
-http://www.ragnaroktv.com/hls_live/kr/NATGEO_MX_HD/MzYwMDMxMTY0NwEA/natgeo_mx.m3u8
+http://www.ragnaroktv.com/hls_live/kr/NATGEO_MX_HD/MzIzNTU2t7AwBAA=/natgeo_mx.m3u8
 #EXTINF:-1 tvg-id="NatGeoWild.mx" tvg-name="National Geographic Wild MX" tvg-logo="http://static.iptv-epg.com/es/NatGeoWild.es.png,Natgeo Wild
 http://www.jomyson.com:8000/live/pati/pati1/380.m3u8
 #EXTINF:-1 tvg-id="SunChannel.ar" tvg-name="SunChannel.ar", Sun Channel
@@ -435,7 +435,7 @@ http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/581/inde
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="ClaroSports.mx" ,Claro Sports
 http://main.nrdtv.gq:2095/live/tadeosanchez/0100240/294.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="ClaroSports.mx" ,Claro Sports 2
-http://www.ragnaroktv.com/hls_live/kr/CLARO_SPORTS_COL_HD/MzYwMDMxMTY0NwEA/clspoco.m3u8
+http://www.ragnaroktv.com/hls_live/kr/CLARO_SPORTS_COL_HD/MzIzNTU2t7AwBAA=/clspoco.m3u8
 #EXTINF:-1,COS
 http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8
 #EXTINF:-1,COS FC
@@ -450,23 +450,23 @@ http://disfruta.life:8000/live/Constanza123/Constanza123/3439.m3u8
 #EXTINF:-1,ESPN DEPORTES
 http://51.15.222.188/live/espndeportes/index.m3u8
 #EXTINF:-1 tvg-id="ESPN+.mx" tvg-name="ESPN+.mx" tvg-logo="https://s6.postimg.org/6p8lpe8gh/Espn.png",ESPN+
-http://www.ragnaroktv.com/hls_live/kr/ESPN_PLUS_HD/MzYwMDMxMTY0NwEA/espn_plus.m3u8
+http://www.ragnaroktv.com/hls_live/kr/ESPN_PLUS_HD/MzIzNTU2t7AwBAA=/espn_plus.m3u8
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN AR" tvg-logo="https://s6.postimg.org/inb1ihxld/espn.png,ESPN Sur
-http://www.ragnaroktv.com/hls_live/kr/ESPN_HD/MzYwMDMxMTY0NwEA/espn.m3u8
+http://www.ragnaroktv.com/hls_live/kr/ESPN_HD/MzIzNTU2t7AwBAA=/espn.m3u8
 #EXTINF:-1 tvg-id="ESPN2.co" tvg-name="ESPN2.co" tvg-logo="http://158.69.52.43:8000/imagenes/4049.jpg,ESPN 2 Sur
-http://www.ragnaroktv.com/hls_live/kr/ESPN_2_HD/MzYwMDMxMTY0NwEA/espn2.m3u8
+http://www.ragnaroktv.com/hls_live/kr/ESPN_2_HD/MzIzNTU2t7AwBAA=/espn2.m3u8
 #EXTINF:-1 tvg-id="ESPN3SD.ar" tvg-name="ESPN3SD.ar" tvg-logo="https://s6.postimg.org/a8veuewk1/espn3.png,ESPN 3 Sur
-http://www.ragnaroktv.com/hls_live/kr/ESPN_3_HD/MzYwMDMxMTY0NwEA/espn3_kr.m3u8
+http://www.ragnaroktv.com/hls_live/kr/ESPN_3_HD/MzIzNTU2t7AwBAA=/espn3_kr.m3u8
 #EXTINF:0,Fox Sports MX
-http://www.ragnaroktv.com/hls_live/kr/FOXSP1_MX_HD/MzYwMDMxMTY0NwEA/f0xsportsmx.m3u8
+http://www.ragnaroktv.com/hls_live/kr/FOXSP1_MX_HD/MzIzNTU2t7AwBAA=/f0xsportsmx.m3u8
 #EXTINF:0,Fox Sports 2 MX
-http://www.ragnaroktv.com/hls_live/kr/FOXSP2_MX_HD/MzYwMDMxMTY0NwEA/f0xsports2mx.m3u8
+http://www.ragnaroktv.com/hls_live/kr/FOXSP2_MX_HD/MzIzNTU2t7AwBAA=/f0xsports2mx.m3u8
 #EXTINF:0,Fox Sports Sur
-http://www.ragnaroktv.com/hls_live/kr/FOX_SPORTS_HD/MzYwMDMxMTY0NwEA/foxsports.m3u8
+http://www.ragnaroktv.com/hls_live/kr/FOX_SPORTS_HD/MzIzNTU2t7AwBAA=/foxsports.m3u8
 #EXTINF:0,Fox Sports 2 Sur
-http://www.ragnaroktv.com/hls_live/kr/FOX_SPORTS2_HD/MzYwMDMxMTY0NwEA/foxsports2.m3u8
+http://www.ragnaroktv.com/hls_live/kr/FOX_SPORTS2_HD/MzIzNTU2t7AwBAA=/foxsports2.m3u8
 #EXTINF:0,Fox Sports 3
-http://www.ragnaroktv.com/hls_live/kr/FOX_SPORTS3_HD/MzYwMDMxMTY0NwEA/foxsports3.m3u8
+http://www.ragnaroktv.com/hls_live/kr/FOX_SPORTS3_HD/MzIzNTU2t7AwBAA=/foxsports3.m3u8
 #EXTINF:-1,Univision Deportes
 http://51.15.222.188/live/udn/index.m3u8
 
@@ -482,13 +482,13 @@ http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
 #EXTINF:-1,C5N
 http://main.nrdtv.gq:2095/live/tadeosanchez/0100240/529.m3u8
 #EXTINF:-1,Cablenoticias
-http://www.ragnaroktv.com/hls_live/kr/CABLENOTICIAS_HD/MzYwMDMxMTY0NwEA/cablenoticias.m3u8
+http://www.ragnaroktv.com/hls_live/kr/CABLENOTICIAS_HD/MzIzNTU2t7AwBAA=/cablenoticias.m3u8
 #EXTINF:-1, CB24
 http://ipointstreamslat-lh.akamaihd.net/i/cb24tv_1@580052/master.m3u8
 #EXTINF:-1, CNN Chile
 http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNesp.mx" tvg-name="CNNesp.mx",CNN Español
-http://www.ragnaroktv.com/hls_live/kr/CNN_ESPANOL/MzYwMDMxMTY0NwEA/cnnee.m3u8
+http://www.ragnaroktv.com/hls_live/kr/CNN_ESPANOL/MzIzNTU2t7AwBAA=/cnnee.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=",El Financiero
 http://main.nrdtv.gq:2095/live/tadeosanchez/0100240/286.m3u8
 #EXTINF:-1, El Tiempo
@@ -512,13 +512,13 @@ http://www.jomyson.com:8000/live/pati/pati1/451.m3u8
 #EXTINF:-1, CMC
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
 #EXTINF:-1, Concert Channel
-http://www.ragnaroktv.com/hls_live/kr/CONCERT_CHANNEL_HD/MzYwMDMxMTY0NwEA/concert.m3u8
+http://www.ragnaroktv.com/hls_live/kr/CONCERT_CHANNEL_HD/MzIzNTU2t7AwBAA=/concert.m3u8
 #EXTINF:-1,Country Network
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 #EXTINF:-1, H TV#EXTINF:-1 tvg-id="HTV.ar" tvg-name="HTV AR" tvg-logo="https://s6.postimg.org/5hvzvrknl/Htv_logo.svg.png",HTV 
 http://gratis.iptvcanales.com/hls/redirect.php/sico/HTV/index.m3u8
 #EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV MX" tvg-logo="http://static.iptv-epg.com/mx/MTV.mx.png",MTV
-http://www.ragnaroktv.com/hls_live/kr/MTV_HD/MzYwMDMxMTY0NwEA/mtvhd.m3u8
+http://www.ragnaroktv.com/hls_live/kr/MTV_HD/MzIzNTU2t7AwBAA=/mtvhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV BASE" tvg-logo="http://158.69.52.43:8000/imagenes/3716.jpg",MTV BASE
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/3716.ts
 #EXTINF:-1 tvg-id="" tvg-name="MTV CLASSIC" tvg-logo="http://158.69.52.43:8000/imagenes/3715.jpg",MTV CLASSIC
@@ -526,9 +526,9 @@ http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/3715.ts
 #EXTINF:-1 tvg-id="" tvg-name="MTV DANCE" tvg-logo="http://158.69.52.43:8000/imagenes/3714.jpg",MTV DANCE
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/3714.ts
 #EXTINF:-1 tvg-id="MTVHits.ar" tvg-name="MTV HITS" tvg-logo="https://s6.postimg.org/eqsnpe6a9/mtv-hits_400x400.png",MTV HITS
-http://www.ragnaroktv.com/hls_live/kr/MTV_HITS/MzYwMDMxMTY0NwEA/mtvh.m3u8
+http://www.ragnaroktv.com/hls_live/kr/MTV_HITS/MzIzNTU2t7AwBAA=/mtvh.m3u8
 #EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTV LIVE" tvg-logo="http://static.iptv-epg.com/us/MTVLive.us.png",MTV LIVE
-http://www.ragnaroktv.com/hls_live/kr/MTV_LIVE_HD/MzYwMDMxMTY0NwEA/mtvl1ve.m3u8
+http://www.ragnaroktv.com/hls_live/kr/MTV_LIVE_HD/MzIzNTU2t7AwBAA=/mtvl1ve.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV ROCK" tvg-logo="http://158.69.52.43:8000/imagenes/3713.jpg",MTV ROCK
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/3713.ts
 #EXTINF:-1,Retro TV
@@ -544,24 +544,24 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEM/tu1_manifest.m3u8
 #EXTINF:-1,Trendy Channel
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
 #EXTINF:0,VH1
-http://www.ragnaroktv.com/hls_live/kr/VH1/MzYwMDMxMTY0NwEA/vh1.m3u8
+http://www.ragnaroktv.com/hls_live/kr/VH1/MzIzNTU2t7AwBAA=/vh1.m3u8
 #EXTINF:-1, VH1 Classic
-http://www.ragnaroktv.com/hls_live/kr/VH1_CLASSIC/MzYwMDMxMTY0NwEA/vh1class.m3u8
+http://www.ragnaroktv.com/hls_live/kr/VH1_CLASSIC/MzIzNTU2t7AwBAA=/vh1class.m3u8
 #EXTINF:0,VH1HD
-http://www.ragnaroktv.com/hls_live/kr/VH1_HD/MzYwMDMxMTY0NwEA/vh1hd.m3u8
+http://www.ragnaroktv.com/hls_live/kr/VH1_HD/MzIzNTU2t7AwBAA=/vh1hd.m3u8
 
 
 
 
 
 #EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="Azteca Corazon MX" tvg-logo="https://s6.postimg.org/uq24hgnkh/azcorazon.png,Azteca Corazon
-http://www.ragnaroktv.com/hls_live/kr/AZCORAZON_HD/MzYwMDMxMTY0NwEA/azcorazon.m3u8
+http://www.ragnaroktv.com/hls_live/kr/AZCORAZON_HD/MzIzNTU2t7AwBAA=/azcorazon.m3u8
 #EXTINF:-1,TL Novelas
 http://158.69.52.43:8000/live/KtWxZ2LrPR/wfKi7PwwMy/356.ts
 #EXTINF:-1,Pasiones
-http://www.ragnaroktv.com/hls_live/kr/PASIONES_HD/MzYwMDMxMTY0NwEA/pasiones.m3u8
+http://www.ragnaroktv.com/hls_live/kr/PASIONES_HD/MzIzNTU2t7AwBAA=/pasiones.m3u8
 #EXTINF:-1,RCN Novelas
-http://www.ragnaroktv.com/hls_live/kr/RCN_TELENOVELAS/MzYwMDMxMTY0NwEA/rcn_tln.m3u8
+http://www.ragnaroktv.com/hls_live/kr/RCN_TELENOVELAS/MzIzNTU2t7AwBAA=/rcn_tln.m3u8
 #EXTINF:-1,UNIVISION TELENOVELAS
 http://main.nrdtv.gq:2095/live/tadeosanchez/0100240/216.m3u8
 
