@@ -40,24 +40,7 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8
 #EXTINF:-1 tvg-id="Azteca13.mx" tvg-name="Azteca13.mx" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Azteca-13.png",Azteca 13
 http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png",Azteca 1
-http://tvpremiumhd.club/lista-gratuita/130517/tv/live.php?id=aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://forounivers.com/uploads/monthly_2017_10/large.59f01991ea5b2_AztecaUno.png.7af86b58cd5ac04059264491a40068e9.png",Azteca Uno
-http://tvpremiumhd.club/lista-gratuita/130517/tv/live.php?id=aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reIIU/e589dfb963.png",LAS ESTRELLAS
-http://tvpremiumhd.club/lista-gratuita/130517/tv/v/1611.ts
-#EXTINF:-1 tvg-logo="http://puu.sh/reIIU/e589dfb963.png",LAS ESTRELLAS -2HRS
-http://tvpremiumhd.club/lista-gratuita/130517/tv/v/2265.ts
-#EXTINF:-1 tvg-logo="http://puu.sh/rePCK/d7e50582cf.png",CANAL 5
-http://tvpremiumhd.club/lista-gratuita/130517/tv/v/1116.ts
-#EXTINF:-1 tvg-logo="https://puu.sh/AFcR0/4450c0d37d.png",AZTECA 7
-http://tvpremiumhd.club/lista-gratuita/130517/tv/v/808.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WTBjdEb.png",AZTECA UNO
-http://tvpremiumhd.club/lista-gratuita/130517/tv/v/606.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WTBjdEb.png",AZTECA UNO OP2
-http://tvpremiumhd.club/lista-gratuita/130517/tv/v/2148.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WTBjdEb.png",AZTECA UNO -2HRS
-http://tvpremiumhd.club/lista-gratuita/130517/tv/v/2266.ts
+
 #EXTINF:-1 tvg-id="OnceTV.mx" tvg-name="OnceTV.mx" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-Once.png",Canal 11
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8
 #EXTINF:-1 tvg-id="MultimediosMonterrey.mx" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/022011/multimedios.png?itok=Gbsqnn0h", Multimedios
